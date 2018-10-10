@@ -24,7 +24,7 @@ export default () => (
             </a>
           </span>
         </div>
-        <div className="text-box__logos"></div>
+        <div className="text-box__logos" />
       </div>
     )}
   </NamespacesConsumer>

@@ -7,7 +7,7 @@ export default () => (
       <div className="text-box">
         <h2 className="text-box__headline">{t('care.headline')}</h2>
         <p className="text-box__text">{t('care.text')}</p>
-        <div className="text-box__logos"></div>
+        <div className="text-box__logos" />
       </div>
     )}
   </NamespacesConsumer>
