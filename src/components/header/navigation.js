@@ -1,7 +1,7 @@
 import React from 'react'
 import { I18n } from 'react-i18next'
 import Link from 'gatsby-link';
-import { getPathLang } from '../../utils/i18n';
+import { getLinkTo } from '../../utils/page';
 
 //const links = ['for-talents', 'for-employers', 'community', 'login']
 const links = [
@@ -12,8 +12,6 @@ const links = [
 ];
 
 export default () => {
-  const lang = getPathLang();
-  const prefix = lang ? lang + '/' : lang;
   return (
   <I18n ns={['header']}>
     {t => (
@@ -21,7 +19,7 @@ export default () => {
         <ul className="header__link-list">
           {links.map(({name, page}) => (
             <li key={name} className="header__link-item">
-              <Link to={ prefix+page }>
+              <Link to={ getLinkTo(page) }>
                 {t(name)}
               </Link>
             </li>

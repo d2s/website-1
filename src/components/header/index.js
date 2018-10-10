@@ -8,6 +8,7 @@ import CompanyBar from './company-bar'
 import getCurrentPage from '../../utils/page'
 import Wrapper from '../wrapper'
 import LangSwitch from '../lang-switch'
+import CookieBanner from './cookie-banner'
 
 const lang = getLang()
 
@@ -18,6 +19,7 @@ export default ({ smallerHeader }) => {
 
   return (
     <div>
+      <CookieBanner />
       <header className={`container-fluid header header--${!smallerHeader && page}`}>
         <div className="header__controls container">
           <Link to="/">
@@ -28,13 +30,13 @@ export default ({ smallerHeader }) => {
         </div>
 
         {extendedHeader && (
-          <Wrapper>
+          <Wrapper nowrap >
             <PageIntro />
           </Wrapper>
         )}
       </header>
       {extendedHeader && (
-        <Wrapper>
+        <Wrapper nowrap >
           <CompanyBar />
         </Wrapper>
       )}

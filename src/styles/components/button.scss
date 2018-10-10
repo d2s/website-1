@@ -4,6 +4,11 @@
   font-weight: 600;
   padding: 12px 20px;
 
+  &--white {
+    background-color: $white-color;
+    color: $blue-2;
+  }
+
   &--yellow {
     background-color: $yellow-1;
     color: $yellow-2;

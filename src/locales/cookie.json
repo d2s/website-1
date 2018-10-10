@@ -1,0 +1,17 @@
+{
+  "en": {
+    "text": "Honeypot uses cookies to make your experience better. You can click Accept, or ask for more info!",
+    "accept": "Accept",
+    "info": "More Info"
+  },
+  "de": {
+    "text": "Honeypot verwendet Cookis um Ihre Nutzererfahrung zu verbessern.  Klicken Sie \"Ich stimme zu\" oder fragen sie nach mehr Informationen.",
+    "accept": "Ich stimme zu",
+    "info": "Mehr Informationen"
+  },
+  "nl": {
+    "text": "Honeypot maakt gebruik van cookies om je gebruikservaring te verbeteren. Je kunt op accepteren klikken of vragen om meer info!",
+    "accept": "Accepteren",
+    "info": "Meer info"
+  }
+}

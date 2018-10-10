@@ -5,7 +5,7 @@ export default ({ image, index }) => (
   <I18n ns={'tech-hiring'}>
     {t => (
       <div className="position-card center">
-        <img src={image} />
+        <img className="position-card__icon" src={image} />
         <h4 className="position-card__headline">
           {t(`position.${index}.headline`)}
         </h4>

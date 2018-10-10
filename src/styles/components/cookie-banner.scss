@@ -1,0 +1,28 @@
+.c-cookie-banner {
+  margin: 0 auto;
+  height: auto;
+  background-color: $blue-2;
+  color: $white-color;
+  &__text {
+    max-width: 620px;
+  }
+  &__wrapper {
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    display: flex;
+  }
+  &__accept {
+    margin-right: 20px;
+    &:hover {
+      color: $blue-2;
+    }
+  }
+  &__info {
+    font-weight: 600;
+    color: $white-color;
+    &:hover {
+      color: inherit;
+    }
+  }
+}

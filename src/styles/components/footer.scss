@@ -30,6 +30,9 @@
       position: relative;
       
       &:before {
+        @include media-breakpoint-down(lg) {
+          display: none;
+        }
         content: '';
         background: no-repeat top left url('../static/were-hiring.png');
         position: absolute;

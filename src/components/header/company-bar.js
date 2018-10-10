@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
 import { I18n } from 'react-i18next'
-import travis from '../../static/travis_logo.svg'
-import zalando from '../../static/zalando_logo.svg'
-import helpling from '../../static/helpling_logo.svg'
-import zenmate from '../../static/zenmate_logo.png'
+import artboard from '../../static/logos/Artboard.png'
+import helpling from '../../static/logos/Helpling.png'
+import n26 from '../../static/logos/N26.png'
+import onefootball from '../../static/logos/Bitmap.png'
+import travis from '../../static/logos/travisCI.png'
+import xing from '../../static/logos/Xing.png'
+import zenmate from '../../static/logos/Zenmate.png'
 
 const component = 'company-bar'
-const companies = [zalando, travis, helpling]
+const companies = [artboard, helpling, n26, onefootball, travis, xing, zenmate]
 export default class CompanyBar extends Component {
   render() {
     return (

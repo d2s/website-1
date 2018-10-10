@@ -1,4 +1,5 @@
-import { getPath, getLang } from './i18n'
+import { getPath, getLang, getPathLang } from './i18n'
+
 export default function getCurrentPage() {
   const path = getPath()
   const parts = path.split('/')
@@ -7,4 +8,10 @@ export default function getCurrentPage() {
     return last
   }
   return 'index'
+}
+
+export function getLinkTo(page) {
+  const lang = getPathLang();
+  const prefix = lang ? lang + '/' : lang;
+  return prefix+page;
 }

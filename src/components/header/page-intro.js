@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import getCurrentPage from '../../utils/page'
+import getCurrentPage, { getLinkTo } from '../../utils/page'
 import { I18n } from 'react-i18next'
 import Link from 'gatsby-link';
 
@@ -9,6 +9,7 @@ export default class PageIntro extends Component {
   render() {
     const page = getCurrentPage()
     const color = page === 'tech-hiring' ? 'blue' : 'yellow'
+    const target = page === 'index' ? 'tech-hiring' : '';
     return (
       <I18n ns={`${page}`}>
         {t => (
@@ -21,10 +22,10 @@ export default class PageIntro extends Component {
             </h1>
             <p className="page-intro__tagline">{t(`${component}.tagline`)}</p>
             <span className="page-intro__button-bar">
-              <Link to="button" className={`button button--${color}`}>
+              <Link to={ getLinkTo('sign_up') } className={`button button--${color}`}>
                 {t(`${component}.button1`)}
               </Link>
-              <Link to="button" className="button button--link">
+              <Link to={ getLinkTo(target) } className="button button--link">
                 {t(`${component}.button2`)}
               </Link>
             </span>
