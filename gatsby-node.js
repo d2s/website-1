@@ -1,4 +1,4 @@
-const path = require(`path`);
+const path = require(`path`)
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
@@ -29,4 +29,4 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       resolve()
     })
   })
-};
+}

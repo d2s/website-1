@@ -1,5 +1,5 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import logo from '../static/logo-bear.svg'
 import { languages, getLang, getPathLang } from '../utils/i18n'
 import Link from 'gatsby-link'
@@ -14,7 +14,7 @@ export default () => {
   const plang = getPathLang()
   const prefix = '/' + (plang === '' ? '' : plang + '/')
   return (
-    <I18n ns={['footer', 'header']}>
+    <NamespacesConsumer ns={['footer', 'header']}>
       {t => (
         <footer className="footer">
           <div className="footer__column">
@@ -165,6 +165,6 @@ export default () => {
           </div>
         </footer>
       )}
-    </I18n>
+    </NamespacesConsumer>
   )
 }

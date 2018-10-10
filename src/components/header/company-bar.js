@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import artboard from '../../static/logos/Artboard.png'
 import helpling from '../../static/logos/Helpling.png'
 import n26 from '../../static/logos/N26.png'
@@ -13,7 +13,7 @@ const companies = [artboard, helpling, n26, onefootball, travis, xing, zenmate]
 export default class CompanyBar extends Component {
   render() {
     return (
-      <I18n ns={'index'}>
+      <NamespacesConsumer ns={'index'}>
         {t => (
           <div className="company-bar">
             <span className="company-bar__tagline">
@@ -24,7 +24,7 @@ export default class CompanyBar extends Component {
             ))}
           </div>
         )}
-      </I18n>
+      </NamespacesConsumer>
     )
   }
 }

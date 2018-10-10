@@ -1,9 +1,9 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import SmallTestimonial from './small-testimonial'
 
 export default ({ page, indexes }) => (
-  <I18n ns={page}>
+  <NamespacesConsumer ns={page}>
     {t => (
       <div className="container">
         <div className="testimonial-group wrapper">
@@ -26,5 +26,5 @@ export default ({ page, indexes }) => (
         </div>
       </div>
     )}
-  </I18n>
+  </NamespacesConsumer>
 )

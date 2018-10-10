@@ -1,5 +1,9 @@
 .text-box {
 
+  &__wrapper {
+    display: flex;
+  }
+
   &__headline {
     &--small {
       margin: 46px 0 10px 0;

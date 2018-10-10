@@ -1,10 +1,10 @@
 import React from 'react'
 import SideBackground from '../side-bg'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import PaymentOption from './payment-option'
 
 export default () => (
-  <I18n ns={'tech-hiring'}>
+  <NamespacesConsumer ns={'tech-hiring'}>
     {t => (
       <div className="payment-options">
         <SideBackground settings={['left', 'tech-hiring']} />
@@ -18,5 +18,5 @@ export default () => (
         </div>
       </div>
     )}
-  </I18n>
+  </NamespacesConsumer>
 )

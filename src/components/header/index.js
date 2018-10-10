@@ -20,7 +20,9 @@ export default ({ smallerHeader }) => {
   return (
     <div>
       <CookieBanner />
-      <header className={`container-fluid header header--${!smallerHeader && page}`}>
+      <header
+        className={`container-fluid header header--${!smallerHeader && page}`}
+      >
         <div className="header__controls container">
           <Link to="/">
             <img src={logo} className="header__logo" />
@@ -30,13 +32,13 @@ export default ({ smallerHeader }) => {
         </div>
 
         {extendedHeader && (
-          <Wrapper nowrap >
+          <Wrapper nowrap>
             <PageIntro />
           </Wrapper>
         )}
       </header>
       {extendedHeader && (
-        <Wrapper nowrap >
+        <Wrapper nowrap>
           <CompanyBar />
         </Wrapper>
       )}

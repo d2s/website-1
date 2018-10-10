@@ -1,17 +1,16 @@
-import React from 'react';
-import { I18n } from 'react-i18next';
+import React from 'react'
+import { NamespacesConsumer } from 'react-i18next'
+import Wrapper from './wrapper'
 
-export default ({page, topic}) =>{
-  console.log('page', page);
-  return(
-  <I18n ns={ page }> {
-    t =>
-    <div className="c-caption">
-      <h1 className="c-caption__headline">
-        { t(`${topic}.headline`) }
-      </h1>
-      <p className="c-caption__tagline">
-        { t(`${topic}.tagline`) }
-      </p>
-    </div> }
-  </I18n>)}
+export default ({ page, topic }) => (
+  <NamespacesConsumer ns={page}>
+    {t => (
+      <Wrapper>
+        <div className="c-caption">
+          <h2>{t(`${topic}.headline`)}</h2>
+          <p>{t(`${topic}.tagline`)}</p>
+        </div>
+      </Wrapper>
+    )}
+  </NamespacesConsumer>
+)

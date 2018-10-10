@@ -1,6 +1,6 @@
 import React from 'react'
 import SideBackground from './side-bg'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 
 const injectHTML = (t, index) =>
   // Because we need to be able to set a newline (\n) in the translation file
@@ -11,7 +11,7 @@ const injectHTML = (t, index) =>
 export default ({ index, page, left, right }) => {
   //const classes = `side-background side-background--${page}`;
   return (
-    <I18n ns={page}>
+    <NamespacesConsumer ns={page}>
       {t => (
         <div className="testimonial-wrapper">
           {left && <SideBackground settings={['left', page, ...left]} />}
@@ -37,6 +37,6 @@ export default ({ index, page, left, right }) => {
           </div>
         </div>
       )}
-    </I18n>
+    </NamespacesConsumer>
   )
 }

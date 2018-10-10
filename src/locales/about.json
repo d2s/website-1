@@ -1,12 +1,29 @@
 {
   "en": {
     "story": {
-      "headline": "Our Story",
-      "tagline": "What is Honeypot?",
-      "text": {
-        "1": "Launched in October 2015, Honeypot is Europe's tech-focused job platform. Our mission is to get every developer a great job.  Honeypot helps Developers, Data Scientists, QA, Product People and CTOs find jobs they love.",
-        "2": "On Honeypot, companies apply to you. We believe developers and other tech professionals should choose a job they love: whether that’s based on a cutting-edge tech stack, an inspiring team or just good old-fashioned salary.",
-        "3": "Today, Honeypot is Europe’s leading tech-focused job platform, serving Germany and the Netherlands."
+      "left": {
+        "headline": "Our Story",
+        "text": "Launched in October 2015, Honeypot is Europe's tech-focused job platform. Our mission is to get every developer a great job.  Honeypot helps Developers, Data Scientists, QA, Product People and CTOs find jobs they love."
+      },
+      "right": {
+        "headline": "What is Honeypot?",
+        "text": "On Honeypot, companies apply to you. We believe developers and other tech professionals should choose a job they love: whether that’s based on a cutting-edge tech stack, an inspiring team or just good old-fashioned salary. Today, Honeypot is Europe’s leading tech-focused job platform, serving Germany and the Netherlands."
+      }
+    },
+    "life": {
+      "headline": "Life at Honeypot",
+      "tagline": "We value curiosity and ambition",
+      "1": {
+        "video": "",
+        "text": "Work Culture"
+      },
+      "2": {
+        "video": "",
+        "text": "Team Offsites"
+      },
+      "3": {
+        "video": "",
+        "text": "Team Event"
       }
     },
     "team": {
@@ -15,6 +32,7 @@
     },
     "advisors": {
       "headline": "Our Advisors",
+      "tagline": "",
       "1": {
         "name": "Felix Plog",
         "text": "Felix is SVP of Global Operations at Delivery Hero and previously co-founded Foodpanda where he greatly contributed to the company becoming the leading player for food delivery in emerging markets. Prior to entering the world of food delivery, Felix was a Managing Director at Axel Springer."
@@ -34,7 +52,16 @@
     },
     "news": {
       "headline": "In the news",
-      "tagline": "Recruiting Startup of the Year at Hiring Success 18 Watch our winning pitch!"
+      "left": {
+        "text": "Recruiting Startup of the Year at Hiring Success 18 Watch our winning pitch!",
+        "show": "Show",
+        "link": "..."
+      },
+      "right": {
+        "text": "Digital Disruption For Europe's Recruitment Sector",
+        "show": "Show",
+        "link": "..."
+      }
     },
     "career": {
       "headline": "Career Section",
@@ -47,6 +74,7 @@
     },
     "where": {
       "headline": "Our Offices",
+      "tagline": "",
       "link": "Show location",
       "1": {
         "city": "Berlin, Germany",
@@ -60,12 +88,13 @@
   },
   "de": {
     "story": {
-      "headline": "Unsere Story",
-      "tagline": "Was ist Honeypot?",
-      "text": {
-        "1": "Honeypot wurde 2015 gegründet und ist Europas tech-fokussierte Job Plattform. Unsere Mission ist jedem Entwickler einen grossartigen Job zu beschaffen. Honeypot hilft Developern, Data Scientists, QA, Produktleuten und CTOs Jobs zu finden, die sie lieben.",
-        "2": "Auf Honeypot bewerben sich Firmen bei Dir. Wir glauben fest daran, dass Entwickler und Experten aus verwandten technischen Feldern einen Job haben sollten, der genau zu ihren Vorlieben passt: ob das nun ein cutting-edge tech stack bedeutet, ein inspirierendes team oder einfach nur ein top Gehalt.",
-        "3": "Heute ist Honeypot die führende tech-fokussierte Job Plattform in Deutschland und den Niederlanden."
+      "left": {
+        "headline": "Unsere Story",
+        "text": "Honeypot wurde 2015 gegründet und ist Europas tech-fokussierte Job Plattform. Unsere Mission ist jedem Entwickler einen grossartigen Job zu beschaffen. Honeypot hilft Developern, Data Scientists, QA, Produktleuten und CTOs Jobs zu finden, die sie lieben."
+      },
+      "right": {
+        "headline": "Was ist Honeypot?",
+        "text": "Auf Honeypot bewerben sich Firmen bei Dir. Wir glauben fest daran, dass Entwickler und Experten aus verwandten technischen Feldern einen Job haben sollten, der genau zu ihren Vorlieben passt: ob das nun ein cutting-edge tech stack bedeutet, ein inspirierendes team oder einfach nur ein top Gehalt. Heute ist Honeypot die führende tech-fokussierte Job Plattform in Deutschland und den Niederlanden."
       }
     },
     "team": {
@@ -73,6 +102,8 @@
       "tagline": "19+ Nationalitäten - 60% von uns sprechen 3 Sprachen oder mehr"
     },
     "advisors": {
+      "headline": "Our Advisors",
+      "tagline": "",
       "1": {
         "name": "Felix Plog",
         "text": "Felix ist SVP Global Operations bei Delivery Hero und gründete zuvor Foodpanda, das er zu einem führenden Player im Essensliefermarkt in emerging markets baute. Vor der Welt der Essensbelieferung war Felix einer der Geschäftsführer bei Axel Springer."
@@ -92,7 +123,16 @@
     },
     "news": {
       "headline": "In the news",
-      "tagline": "Recruiting Startup of the Year at Hiring Success 18 Watch our winning pitch!"
+      "left": {
+        "text": "Recruiting Startup of the Year at Hiring Success 18 Watch our winning pitch!",
+        "show": "Show",
+        "link": "..."
+      },
+      "right": {
+        "text": "Digital Disruption For Europe's Recruitment Sector",
+        "show": "Show",
+        "link": "..."
+      }
     },
     "career": {
       "headline": "Jobs",
@@ -105,6 +145,7 @@
     },
     "where": {
       "headline": "Our Offices",
+      "tagline": "",
       "link": "Show location",
       "1": {
         "city": "Berlin, Germany",
@@ -118,12 +159,13 @@
   },
   "nl": {
     "story": {
-      "headline": "Ons verhaal",
-      "tagline": "Wat is Honeypot?",
-      "text": {
-        "1": "Opgericht in oktober 2015, Honeypot is Europa's Tech Focused Job Platform. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, Data Scientists, QA, Product Owners and CTOs bij het vinden van hun perfecte baan.",
-        "2": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris.",
-        "3": "Op dit moment is Honeypot Europa's leidende tech-focused job platform, actief in Duitsland en Nederland."
+      "left": {
+        "headline": "Ons verhaal",
+        "text": "Opgericht in oktober 2015, Honeypot is Europa's Tech Focused Job Platform. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, Data Scientists, QA, Product Owners and CTOs bij het vinden van hun perfecte baan."
+      },
+      "right": {
+        "headline": "Wat is Honeypot?",
+        "text": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris. Op dit moment is Honeypot Europa's leidende tech-focused job platform, actief in Duitsland en Nederland."
       }
     },
     "team": {
@@ -132,6 +174,7 @@
     },
     "advisors": {
       "headline": "Onze Adviseurs",
+      "tagline": "",
       "1": {
         "name": "Felix Plog",
         "text": "Felix is SVP van Global Operations bij Delivery Hero en eerder mede-oprichter van Foodpanda, waar hij er in grote mate er voor heeft gezorgd dat het bedrijf een leidende speler werd in food delivery in opkomende markten. Voordat hij de wereld van food delivery betrad, was Felix Managing Director bij Axel Springer."
@@ -152,7 +195,16 @@
     },
     "news": {
       "headline": "In het nieuws",
-      "tagline": "Recruiting Startup van het jaar - Hiring Succes 18. Bekijk onze winnende pitch!"
+      "left": {
+        "text": "Recruiting Startup van het jaar - Hiring Succes 18. Bekijk onze winnende pitch! ",
+        "show": "Show",
+        "link": "..."
+      },
+      "right": {
+        "text": "Digital Disruption For Europe's Recruitment Sector",
+        "show": "Show",
+        "link": "..."
+      }
     },
     "career": {
       "headline": "Vacatures",
@@ -164,6 +216,7 @@
       "text": "Ons team ondersteunt organisaties die helpen de wereld te verbeteren"
     },
     "where": {
+      "tagline": "",
       "headline": "Onze kantoren",
       "link": "Show location",
       "1": {

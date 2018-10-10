@@ -11,7 +11,7 @@ export default function getCurrentPage() {
 }
 
 export function getLinkTo(page) {
-  const lang = getPathLang();
-  const prefix = lang ? lang + '/' : lang;
-  return prefix+page;
+  const lang = getPathLang()
+  const prefix = lang ? lang + '/' : lang
+  return prefix + page
 }

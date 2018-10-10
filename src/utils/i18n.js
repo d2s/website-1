@@ -8,7 +8,7 @@ import index from '../locales/index.json'
 import techHiring from '../locales/tech-hiring.json'
 import faq from '../locales/faq.json'
 import cookie from '../locales/cookie.json'
-import about from '../locales/about.json';
+import about from '../locales/about.json'
 
 export const languages = ['en', 'de', 'nl']
 const defaultLang = 'en'
@@ -28,7 +28,7 @@ i18n.init({
       'tech-hiring': techHiring.de,
       faq: faq.de,
       cookie: cookie.de,
-      about: about.de
+      about: about.de,
     },
     en: {
       footer: footer.en,
@@ -39,7 +39,7 @@ i18n.init({
       'tech-hiring': techHiring.en,
       faq: faq.en,
       cookie: cookie.en,
-      about: about.en
+      about: about.en,
     },
     nl: {
       footer: footer.nl,
@@ -50,7 +50,7 @@ i18n.init({
       'tech-hiring': techHiring.nl,
       faq: faq.nl,
       cookie: cookie.nl,
-      about: about.nl
+      about: about.nl,
     },
   },
 })

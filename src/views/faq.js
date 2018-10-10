@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/layout'
 import TextBox from '../components/text-box'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import i18n, { getLang } from '../utils/i18n'
 import '../styles/main.scss'
 
@@ -15,7 +15,7 @@ const employerTopics = Object.keys(
 
 export default () => (
   <Layout smallerHeader>
-    <I18n ns={'faq'}>
+    <NamespacesConsumer ns={'faq'}>
       {t => (
         <div className={'c-info'}>
           <div className={'container c-info__container c-info__legal'}>
@@ -75,6 +75,6 @@ export default () => (
           </div>
         </div>
       )}
-    </I18n>
+    </NamespacesConsumer>
   </Layout>
 )

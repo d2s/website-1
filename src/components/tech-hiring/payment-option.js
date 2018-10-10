@@ -1,5 +1,5 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import i18n, { getLang } from '../../utils/i18n'
 const ns = 'tech-hiring'
 
@@ -10,7 +10,7 @@ export default ({ option, modifier }) => {
   // Get its keys to iterate over all possible entries
   const keys = Object.keys(list || {})
   return (
-    <I18n ns={ns}>
+    <NamespacesConsumer ns={ns}>
       {t => (
         <div className="payment-option">
           <p
@@ -42,6 +42,6 @@ export default ({ option, modifier }) => {
           </button>
         </div>
       )}
-    </I18n>
+    </NamespacesConsumer>
   )
 }

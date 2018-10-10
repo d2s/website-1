@@ -1,10 +1,10 @@
 import React from 'react'
 import Wrapper from './wrapper'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 
 export default () => (
   <div className="wrapper">
-    <I18n ns={'index'}>
+    <NamespacesConsumer ns={'index'}>
       {t => (
         <div className="newsletter">
           <h3 className="newsletter__headline">{t('newsletter.headline')}</h3>
@@ -24,6 +24,6 @@ export default () => (
           </div>
         </div>
       )}
-    </I18n>
+    </NamespacesConsumer>
   </div>
 )

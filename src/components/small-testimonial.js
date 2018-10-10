@@ -1,8 +1,8 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 
 export default ({ index, page }) => (
-  <I18n ns={page}>
+  <NamespacesConsumer ns={page}>
     {t => (
       <div className="small-testimonial">
         <img
@@ -20,5 +20,5 @@ export default ({ index, page }) => (
         </p>
       </div>
     )}
-  </I18n>
+  </NamespacesConsumer>
 )

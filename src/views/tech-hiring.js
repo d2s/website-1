@@ -1,5 +1,5 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import Layout from '../components/layout'
 import TextImageWrapper from '../components/text-image-wrapper'
 import TextBox from '../components/text-box'

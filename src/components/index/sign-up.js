@@ -1,9 +1,9 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import arrow from '../../static/arrow-grey.svg'
 
 export default () => (
-  <I18n ns={'index'}>
+  <NamespacesConsumer ns={'index'}>
     {t => (
       <div className="sign-up">
         <h2>{t('process.headline')}</h2>
@@ -23,5 +23,5 @@ export default () => (
         ))}
       </div>
     )}
-  </I18n>
+  </NamespacesConsumer>
 )

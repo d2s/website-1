@@ -1,4 +1,4 @@
-import React from 'react';
-import EmployeeCard from './employee-card';
+import React from 'react'
+import EmployeeCard from './employee-card'
 
-export default () =>
+export default () => {}

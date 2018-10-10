@@ -1,8 +1,8 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 
 export default ({ image, index }) => (
-  <I18n ns={'tech-hiring'}>
+  <NamespacesConsumer ns={'tech-hiring'}>
     {t => (
       <div className="position-card center">
         <img className="position-card__icon" src={image} />
@@ -12,5 +12,5 @@ export default ({ image, index }) => (
         <p className="position-card__text">{t(`position.${index}.text`)}</p>
       </div>
     )}
-  </I18n>
+  </NamespacesConsumer>
 )

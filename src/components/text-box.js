@@ -1,5 +1,5 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
 import arrow from '../static/arrow_blue.svg'
 
@@ -8,7 +8,7 @@ export default ({ page, topic, sign, small }) => {
     small ? 'small' : ''
   }`
   return (
-    <I18n ns={page}>
+    <NamespacesConsumer ns={page}>
       {t => (
         <div className="text-box">
           <h2 className={headline}>{t(`${topic}.headline`)}</h2>
@@ -21,6 +21,6 @@ export default ({ page, topic, sign, small }) => {
           )}
         </div>
       )}
-    </I18n>
+    </NamespacesConsumer>
   )
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import { I18n } from 'react-i18next'
+import { NamespacesConsumer } from 'react-i18next'
 import Layout from '../components/layout'
 import Wrapper from '../components/wrapper'
 import idealRole from '../static/illustration-idealrole.png'
