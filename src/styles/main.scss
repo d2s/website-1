@@ -1,0 +1,62 @@
+// Overrides
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+@import './settings/variables';
+@import './variables';
+//@import '../../app/styles/utilities/mixins';
+
+// Bootstrap
+@import '~bootstrap/scss/reboot';
+@import 'bootstrap/scss/type';
+@import 'bootstrap/scss/grid';
+//@import 'bootstrap/scss/buttons';
+
+@import './settings/z-index-variables';
+//@import './settings/breakpoint-variables';
+@import './settings/proxima-nova';
+
+// Components
+@import './components/index';
+@import './utils';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%; // 16px
+}
+
+body {
+  line-height: 1.5em;
+  font-family: 'Proxima-Nova';
+  font-size: $fs-1;
+  color: $text-color;
+}
+
+h2, h3 {
+  color: $black-color;
+}
+
+h1 {
+  font-size: $fs-6;
+}
+
+h2 {
+  font-size: $fs-5;
+  margin: 20px 0;
+}
+
+h3 {
+  font-size: $fs-4;
+}
+
+h4 {
+  font-size: $fs-2;
+}
+
+a {
+  color: $text-color;
+  text-decoration: none;
+}

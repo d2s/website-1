@@ -1,0 +1,26 @@
+{
+  "de": {
+    "careers": "Karriere",
+    "hive-con": "Hive Konferenz",
+    "legal_notice": "Impressum",
+    "pricing": "Preismodelle",
+    "privacy_policy": "Datenschutzrichtlinien",
+    "terms-of-service": "AGB"
+  },
+  "en": {
+    "careers": "Careers",
+    "hive-con": "Hive Conference",
+    "legal_notice": "Legal Notice",
+    "pricing": "Pricing",
+    "privacy_policy": "Privacy Policy",
+    "terms-of-service": "Terms of Service"
+  },
+  "nl": {
+    "careers": "Careers",
+    "hive-con": "Hive Conference",
+    "legal_notice": "Legal Notice",
+    "pricing": "Pricing",
+    "privacy_policy": "Privacybeleid",
+    "terms-of-service": "Gebruikersvoorwaarden"
+  }
+}

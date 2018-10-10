@@ -1,0 +1,28 @@
+.newsletter {
+  width: 1021px;
+  padding: 50px 100px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 31px 1px rgba(0,0,0,0.05);
+  background: no-repeat right bottom url('../static/graph-bg.svg');
+
+  &__button {
+    border-radius: 0 4px 4px 0;
+  }
+
+  &__headline {
+    margin-top: 0;
+  }
+
+  &__email {
+    background-color: $gray-1;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    padding: 18px 22px;
+    min-width: 280px;
+  }
+
+  &__text {
+    // Break the text
+    width: 450px;
+  }
+}

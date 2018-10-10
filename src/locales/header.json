@@ -1,0 +1,26 @@
+{
+  "de": {
+    "about-us": "Über uns",
+    "community": "Community",
+    "for-employers": "Für Arbeitgeber",
+    "for-talents": "Für Entwickler",
+    "login": "Einloggen",
+    "sign-up": "Registrieren"
+  },
+  "en": {
+    "about-us": "About Us",
+    "community": "Community",
+    "for-employers": "For Employers",
+    "for-talents": "For Talents",
+    "login": "Login",
+    "sign-up": "Sign Up"
+  },
+  "nl": {
+    "about-us": "Over Ons",
+    "community": "Community",
+    "for-employers": "Voor Bedrijven",
+    "for-talents": "Voor Talenten",
+    "login": "Inloggen",
+    "sign-up": "Inschrijven"
+  }
+}

@@ -1,0 +1,55 @@
+.header {
+  padding-top: 20px;
+  width: 100%;
+
+  &--index {
+    height: 600px;
+    background: no-repeat top right url('../static/index.header.svg');
+  }
+
+  &--tech-hiring {
+    height: 600px;
+    background: no-repeat top right url('../static/tech-hiring.header.svg');
+  }
+
+  &__controls {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__introduction {
+    box-sizing: border-box;
+  }
+
+  &__link-list {
+    float: right;
+    margin: 0 auto;
+    margin-right: 8px;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+  }
+
+  &__link-item {
+    color: $text-color;
+    padding: 5px 18px;
+    font-weight: bold;
+
+    &--active {
+      color: $almost-black-color;
+    }
+
+    &--button {
+      color: $white-color !important;
+    }
+  }
+
+  &__logo {
+    height: 35px;
+  }
+
+  &__nav {
+    flex: 2 1 auto;
+  }
+}

@@ -1,0 +1,19 @@
+.text-box {
+
+  &__headline {
+    &--small {
+      margin: 46px 0 10px 0;
+      font-size: $fs-2;
+    }
+  }
+
+  &__link {
+    font-weight: 600;
+    text-decoration: none;
+    color: $blue-2;
+  }
+
+  &__arrow {
+    margin-left: 5px;
+  }
+}

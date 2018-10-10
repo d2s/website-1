@@ -1,0 +1,30 @@
+.c-info {
+  background-color: $light-gray-color;
+  padding-top: 41px;
+  padding-bottom: 40px;
+
+
+  &__heading {
+    //@include text($fs-7, $fw-bold, $almost-black-color);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  &__container {
+    padding: 20px 40px;
+    background-color: $white-color;
+    color: $gray-3-color;
+
+
+    a {
+      color: $blue-color;
+    }
+  }
+
+  &__legal {
+    ul,
+    ol {
+      padding-left: 10px;
+    }
+  }
+}

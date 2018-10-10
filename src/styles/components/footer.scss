@@ -1,0 +1,53 @@
+.footer {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  @include media-breakpoint-between(lg, xs) {
+    width: 100%;
+  }
+  margin: 0 auto;
+
+  &__column {
+    flex-grow: 1;
+  }
+
+  &__headline {
+    font-weight: 600;
+    margin-top: 0;
+    text-transform: uppercase;
+  }
+
+  &__link-list {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__link-item {
+    list-style-type: none;
+
+    &--careers {
+      position: relative;
+      
+      &:before {
+        content: '';
+        background: no-repeat top left url('../static/were-hiring.png');
+        position: absolute;
+        width: 88px;
+        height: 24px;
+        top: 0;
+        right: 30px;
+      }
+    }
+  }
+
+  &__logo {
+    width: 50px;
+  }
+
+  &__wrapper {
+    text-align: center;
+  }
+}
+
+
