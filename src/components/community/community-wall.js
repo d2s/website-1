@@ -23,7 +23,7 @@ function createCardsFor(images, t) {
 }
 
 export default () => (
-  <Wrapper>
+  <Wrapper nowrap >
     <NamespacesConsumer ns={'community'}>
       {t => (
         <div className="c-community-wall">

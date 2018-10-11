@@ -23,7 +23,12 @@
     },
     "documentaries": {
       "headline": "Documentaries",
-      "tagline": "We are documenting some of the most exciting open source projects in the world. Check our first documentary 'Elixir: A Mini-Documentary', which follows creator Josè Valim."
+      "tagline": "We are documenting some of the most exciting open source projects in the world. Check our first documentary 'Elixir: A Mini-Documentary', which follows creator Josè Valim.",
+      "elixir": {
+        "headline": "Elixir: A Mini-Documentary",
+        "text": "Get ready to explore the origins of the Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.",
+        "link-text": "Show"
+      }
     },
     "opensource": {
       "headline": "Our opensource projects",
@@ -67,7 +72,12 @@
     },
     "documentaries": {
       "headline": "Documentaries",
-      "text": "Wir dokumentieren einige der spannendsten Open Source Projekte auf der Welt. Sieh Dir unseren ersten Dokumentarfilm an, in dem wir Elixir Schöpfer Josè Valim begleiten: 'Elixir: A Mini-Documentary'"
+      "tagline": "Wir dokumentieren einige der spannendsten Open Source Projekte auf der Welt. Sieh Dir unseren ersten Dokumentarfilm an, in dem wir Elixir Schöpfer Josè Valim begleiten: 'Elixir: A Mini-Documentary'",
+      "elixir": {
+        "headline": "Elixir: A Mini-Documentary",
+        "text": "Get ready to explore the origins of the Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.",
+        "link-text": "Show"
+      }
     },
     "opensource": {
       "headline": "",
@@ -111,7 +121,12 @@
     },
     "documentaries": {
       "headline": "Documentaries",
-      "text": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld. Bekijk onze eerste documentaire 'Elixir: A Mini-Documentary', waarin we de creator Josè Valim volgen."
+      "tagline": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld. Bekijk onze eerste documentaire 'Elixir: A Mini-Documentary', waarin we de creator Josè Valim volgen.",
+      "elixir": {
+        "headline": "Elixir: A Mini-Documentary",
+        "text": "Get ready to explore the origins of the Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.",
+        "link-text": "Show"
+      }
     },
     "opensource": {
       "headline": "",

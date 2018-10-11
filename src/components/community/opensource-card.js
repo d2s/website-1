@@ -10,7 +10,7 @@ export default ({ headline, text, link, link_text, stars, image }) => (
       <a href={link}>{link_text}</a>
       <span className="c-opensource-card__gh_stars">
         {stars}
-        <img src={star} />
+        <img className="c-opensource-card__star_icon" src={star} />
       </span>
     </div>
   </div>

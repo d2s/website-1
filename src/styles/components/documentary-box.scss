@@ -1,0 +1,7 @@
+.c-documentary-box {
+  display: flex;
+  justify-content: space-evenly;
+  &__text {
+    width: 300px;
+  }
+}
