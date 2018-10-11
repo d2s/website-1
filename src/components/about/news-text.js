@@ -2,6 +2,7 @@ import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
 import arrow from '../../static/arrow_blue.svg'
+import ww from '../../static/Wirtschafts-Woche.png'
 
 export default () => (
   <NamespacesConsumer ns={'about'}>
@@ -24,7 +25,11 @@ export default () => (
             </a>
           </span>
         </div>
-        <div className="text-box__logos" />
+        <div className="text-box__wrapper">
+          {[ww].map((image, i) => (
+            <img className="text-box__image" key={i.toString()} src={image} />
+          ))}
+        </div>
       </div>
     )}
   </NamespacesConsumer>

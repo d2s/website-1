@@ -11,13 +11,14 @@ import VideoWall from '../components/about/video-wall'
 import AdvisorsWall from '../components/about/advisors-wall'
 import NewsText from '../components/about/news-text'
 import CareText from '../components/about/care-text'
+import EmployeeWall from '../components/about/employee-wall'
 
 import '../styles/main.scss'
 
 export default () => (
   <Layout smallerHeader>
     <TextImageWrapper img={header}>
-      <h1>
+      <h1 className="c-about-header">
         Life at
         <br />
         <b>Honeypot</b>
@@ -33,6 +34,8 @@ export default () => (
     <VideoWall />
 
     <CaptionBar page="about" topic="team" />
+
+    <EmployeeWall />
 
     <CaptionBar page="about" topic="advisors" />
 

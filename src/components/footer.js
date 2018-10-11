@@ -5,6 +5,12 @@ import { languages, getLang, getPathLang } from '../utils/i18n'
 import Link from 'gatsby-link'
 import getCurrentPage from '../utils/page'
 import LangSwitch from './lang-switch'
+import facebook from '../static/icons/Facebook.png'
+import github from '../static/icons/Facebook.png'
+import instagram from '../static/icons/instagram.png'
+import linkedin from '../static/icons/linkedin.png'
+import twitter from '../static/icons/Twitter.png'
+import youtube from '../static/icons/youtube.png'
 
 const column = ['for-talents', 'for-employers', 'community']
 const year = new Date().getFullYear()
@@ -114,6 +120,7 @@ export default () => {
             <h5 className="footer__headline">{t("We're Social too!")}</h5>
             <ul className="footer__link-list">
               <li className="footer__link-item">
+                <img className="footer__icon" src={ twitter } />
                 <a
                   className="footer__link"
                   href="https://twitter.com/honeypotio"
@@ -122,6 +129,7 @@ export default () => {
                 </a>
               </li>
               <li className="footer__link-item">
+                <img className="footer__icon" src={ facebook } />
                 <a
                   className="footer__link"
                   href="https://www.facebook.com/Honeypotio"
@@ -130,6 +138,7 @@ export default () => {
                 </a>
               </li>
               <li className="footer__link-item">
+                <img className="footer__icon" src={ linkedin } />
                 <a
                   className="footer__link"
                   href="https://www.linkedin.com/company/honeypot/"
@@ -138,6 +147,7 @@ export default () => {
                 </a>
               </li>
               <li className="footer__link-item">
+                <img className="footer__icon" src={ github } />
                 <a
                   className="footer__link"
                   href="https://github.com/honeypotio"
@@ -146,6 +156,7 @@ export default () => {
                 </a>
               </li>
               <li className="footer__link-item">
+                <img className="footer__icon" src={ instagram } />
                 <a
                   className="footer__link"
                   href="https://www.instagram.com/honeypot.io"
@@ -154,6 +165,7 @@ export default () => {
                 </a>
               </li>
               <li className="footer__link-item">
+                <img className="footer__icon" src={ youtube } />
                 <a
                   className="footer__link"
                   href="https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos"

@@ -2,6 +2,7 @@
 
   &__wrapper {
     display: flex;
+    justify-content: space-between;
   }
 
   &__headline {
@@ -19,5 +20,8 @@
 
   &__arrow {
     margin-left: 5px;
+  }
+  &__image {
+    height: 60px;
   }
 }
