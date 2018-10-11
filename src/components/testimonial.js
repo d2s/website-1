@@ -9,8 +9,12 @@ const injectHTML = (t, index) =>
   ({ __html: t(`testimonial.${index}.position`).replace(/\n/g, '<br />') })
 
 export default ({ index, page, left, right }) => {
-  left = Array.isArray(left) ? left : [left]
-  right = Array.isArray(right) ? right : [right]
+  if (left) {
+    left = Array.isArray(left) ? left : ['left']
+  }
+  if (right) {
+    right = Array.isArray(right) ? right : ['right']
+  }
   return (
     <NamespacesConsumer ns={page}>
       {t => (
