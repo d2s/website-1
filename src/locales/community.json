@@ -1,5 +1,9 @@
 {
   "en": {
+    "headline": {
+      "1": "Join Europe's Largest",
+      "2": "Tech Community"
+    },
     "meet": {
       "headline": "Meet the Community",
       "tagline": "We are active organizers of events across Europe, from cozy meetups to large, international conferences.",
@@ -49,6 +53,10 @@
     }
   },
   "de": {
+    "headline": {
+      "1": "Join Europe's Largest",
+      "2": "Tech Community"
+    },
     "meet": {
       "headline": "",
       "tagline": "Wir organisieren aktiv eigene Events in Europa: vom Meetup und Workshop im kleineren Kreis bis hin zu großen internationalen Konferenzen.",
@@ -98,6 +106,10 @@
     }
   },
   "nl": {
+    "headline": {
+      "1": "Join Europe's Largest",
+      "2": "Tech Community"
+    },
     "meet": {
       "headline": "Ontmoet de community",
       "tagline": "Wij organiseren evenementen in heel Europa, van intieme bijeenkomsten en workshops tot grote, internationale conferenties. ",

@@ -9,7 +9,8 @@ const injectHTML = (t, index) =>
   ({ __html: t(`testimonial.${index}.position`).replace(/\n/g, '<br />') })
 
 export default ({ index, page, left, right }) => {
-  //const classes = `side-background side-background--${page}`;
+  left = Array.isArray(left) ? left : [left]
+  right = Array.isArray(right) ? right : [right]
   return (
     <NamespacesConsumer ns={page}>
       {t => (

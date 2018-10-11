@@ -5,9 +5,12 @@ import CommunityWall from '../components/community/community-wall'
 import CaptionBar from '../components/caption'
 import OpensourceWall from '../components/community/opensource-wall'
 import DocumentaryBox from '../components/community/documentary-box'
+import CommunityHeader from '../components/community/community-header.js'
 
 export default () => (
   <Layout smallerHeader>
+    <CommunityHeader />
+
     <CommunityWall />
 
     <CaptionBar page="community" topic="documentaries" />
@@ -15,6 +18,5 @@ export default () => (
     <DocumentaryBox />
 
     <OpensourceWall />
-
   </Layout>
 )

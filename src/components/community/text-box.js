@@ -11,10 +11,10 @@ export default ({ headline, text, link, link_text, small }) => {
       <h2 className={headlineClass}>{headline}</h2>
       <p className="text-box__text">{text}</p>
       {link && (
-        <Link className="text-box__link" to={link}>
+        <a className="text-box__link" to={link}>
           {link_text}
           <img className="text-box__arrow" src={arrow} />
-        </Link>
+        </a>
       )}
     </div>
   )

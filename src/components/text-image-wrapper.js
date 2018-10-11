@@ -17,6 +17,8 @@ export default ({
   if (rightImage) {
     dir = 'text-image-wrapper--image-right'
   }
+  left = Array.isArray(left) ? left : [left]
+  right = Array.isArray(right) ? right : [right]
   return (
     <div style={{ position: 'relative' }}>
       {left && <SideBackground settings={['left', page, ...left]} />}

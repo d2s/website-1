@@ -13,19 +13,21 @@ export default () => (
         <div>
           <CaptionBar page="community" topic="opensource" />
           <div className="c-opensource-wall">
-            {[[searchspot, 671], [reina, 212], [github, 308]].map(
-              ([image, stars], i) => (
-                <OpensourceCard
-                  key={++i}
-                  image={image}
-                  headline={t(`opensource.${i}.name`)}
-                  text={t(`opensource.${i}.text`)}
-                  link={t(`opensource.${i}.link`)}
-                  link_text={t(`opensource.link-text`)}
-                  stars={stars}
-                />
-              )
-            )}
+            {[
+              [searchspot, 671, 'https://github.com/honeypotio/searchspot'],
+              [reina, 212, 'https://github.com/honeypotio/reina'],
+              [github, 308, 'https://github.com/honeypotio'],
+            ].map(([image, stars, link], i) => (
+              <OpensourceCard
+                key={++i}
+                image={image}
+                headline={t(`opensource.${i}.name`)}
+                text={t(`opensource.${i}.text`)}
+                link={link}
+                link_text={t(`opensource.link-text`)}
+                stars={stars}
+              />
+            ))}
           </div>
         </div>
       )}
