@@ -1,0 +1,13 @@
+.c-join-card {
+  padding: 20px 24px;
+  text-align: center;
+  &__image {
+    margin-bottom: 40px;
+  }
+  &__text {
+    margin-bottom: 20px;
+  }
+  &__link {
+    display: block;
+  }
+}

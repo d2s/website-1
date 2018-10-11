@@ -4,7 +4,7 @@ import Wrapper from '../wrapper'
 import employees from './employees'
 
 export default () => (
-  <Wrapper nowrap >
+  <Wrapper nowrap>
     <div className="c-employee-wall">
       {employees.map(e => (
         <EmployeeCard

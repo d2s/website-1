@@ -3,6 +3,9 @@
   border-radius: 4px;
   font-weight: 600;
   padding: 12px 20px;
+  &:hover{
+    text-decoration: none;
+  }
 
   &--white {
     background-color: $white-color;

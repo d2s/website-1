@@ -12,6 +12,7 @@ import AdvisorsWall from '../components/about/advisors-wall'
 import NewsText from '../components/about/news-text'
 import CareText from '../components/about/care-text'
 import EmployeeWall from '../components/about/employee-wall'
+import LocationWall from '../components/about/location-wall'
 
 import '../styles/main.scss'
 
@@ -50,5 +51,7 @@ export default () => (
     </TextImageWrapper>
 
     <CaptionBar page="about" topic="where" />
+
+    <LocationWall />
   </Layout>
 )

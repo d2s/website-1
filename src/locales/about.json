@@ -75,15 +75,21 @@
     "where": {
       "headline": "Our Offices",
       "tagline": "",
-      "link": "Show location",
+      "show": "Show location",
       "1": {
         "city": "Berlin, Germany",
-        "street": "Schönhauser Allee 45, 10435"
+        "street": "Schönhauser Allee 45, 10435",
+        "link": ""
       },
       "2": {
         "city": "Amsterdam, Netherlands",
-        "street": "Singel 542, 1017"
+        "street": "Singel 542, 1017",
+        "link": ""
       }
+    },
+    "join": {
+      "text": "Come Join us!",
+      "show": "Open Positions"
     }
   },
   "de": {
@@ -146,15 +152,21 @@
     "where": {
       "headline": "Our Offices",
       "tagline": "",
-      "link": "Show location",
+      "show": "Show location",
       "1": {
         "city": "Berlin, Germany",
-        "street": "Schönhauser Allee 45, 10435"
+        "street": "Schönhauser Allee 45, 10435",
+        "link": ""
       },
       "2": {
         "city": "Amsterdam, Netherlands",
-        "street": "Singel 542, 1017"
+        "street": "Singel 542, 1017",
+        "link": ""
       }
+    },
+    "join": {
+      "text": "Come Join us!",
+      "show": "Open Positions"
     }
   },
   "nl": {
@@ -218,15 +230,21 @@
     "where": {
       "tagline": "",
       "headline": "Onze kantoren",
-      "link": "Show location",
+      "show": "Show location",
       "1": {
         "city": "Berlin, Duitsland",
-        "street": "Schönhauser Allee 45, 10435"
+        "street": "Schönhauser Allee 45, 10435",
+        "link": ""
       },
       "2": {
         "city": "Amsterdam, Nederland",
-        "street": "Singel 542, 1017"
+        "street": "Singel 542, 1017",
+        "link": ""
       }
+    },
+    "join": {
+      "text": "Come Join us!",
+      "show": "Open Positions"
     }
   }
 }
