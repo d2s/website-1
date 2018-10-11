@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 import '../styles/main.scss'
 import CommunityWall from '../components/community/community-wall'
 import CaptionBar from '../components/caption'
+import OpensourceWall from '../components/community/opensource-wall'
 
 export default () => (
   <Layout smallerHeader>
@@ -10,6 +11,6 @@ export default () => (
 
     <CaptionBar page="community" topic="documentaries" />
 
-    <CaptionBar page="community" topic="open-source" />
+    <OpensourceWall />
   </Layout>
 )

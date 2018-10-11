@@ -25,18 +25,19 @@
       "headline": "Documentaries",
       "tagline": "We are documenting some of the most exciting open source projects in the world. Check our first documentary 'Elixir: A Mini-Documentary', which follows creator Josè Valim."
     },
-    "open-source": {
-      "headline": "Our open-source projects",
-      "tagline": "Love contributing to open-source projects? So do we! Check out these internal products our tech team members have shared with the world.",
-      "searchspot": {
+    "opensource": {
+      "headline": "Our opensource projects",
+      "tagline": "Love contributing to opensource projects? So do we! Check out these internal products our tech team members have shared with the world.",
+      "link-text": "Show",
+      "1": {
         "name": "Searchspot",
         "text": "Responsible for Honeypot's ElasticSearch data and mainly powered by Rust and Iron, companies use it on the platform to search through"
       },
-      "reina": {
+      "2": {
         "name": "Reina",
         "text": "GitHub bot and CLI application to handle deployments and orchestrations of feature stagings on Heroku."
       },
-      "github": {
+      "3": {
         "name": "Github",
         "text": "Wanna chip in? Head over to our Github repo to contribute!"
       }
@@ -68,18 +69,19 @@
       "headline": "Documentaries",
       "text": "Wir dokumentieren einige der spannendsten Open Source Projekte auf der Welt. Sieh Dir unseren ersten Dokumentarfilm an, in dem wir Elixir Schöpfer Josè Valim begleiten: 'Elixir: A Mini-Documentary'"
     },
-    "open-source": {
+    "opensource": {
       "headline": "",
       "tagline": "Trägst Du gerne zu Open Source Projekten bei? Wir auch! Sieh Dir unsere internen Produkte an, die unser Tech Team mit der Welt geteilt hat.",
-      "searchspot": {
+      "link-text": "Show",
+      "1": {
         "name": "Searchspot",
         "text": "Honeypot's Suchmaschine hauptsächlich basierend auf Rust und Iron. Firmen benutzen diese um neue developer auf unserer Plattform zu finden."
       },
-      "reina": {
+      "2": {
         "name": "Reina",
         "text": "GitHub bot und CLI Applikation für die Orchestrierung und das Deployment von Feature Stagings auf Heroku."
       },
-      "github": {
+      "3": {
         "name": "Github",
         "text": "Willst Du beitragen? Hier geht's zu unseren Github repos!"
       }
@@ -109,11 +111,12 @@
     },
     "documentaries": {
       "headline": "Documentaries",
-      "text": "We maken documentaires over een aantal van de vetste open-sourceprojecten ter wereld. Bekijk onze eerste documentaire 'Elixir: A Mini-Documentary', waarin we de creator Josè Valim volgen."
+      "text": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld. Bekijk onze eerste documentaire 'Elixir: A Mini-Documentary', waarin we de creator Josè Valim volgen."
     },
-    "open-source": {
+    "opensource": {
       "headline": "",
-      "tagline": "Ook een open-source fan? Wij ook! Bekijk deze producten die ons tech team met de wereld heeft gedeeld.",
+      "tagline": "Ook een opensource fan? Wij ook! Bekijk deze producten die ons tech team met de wereld heeft gedeeld.",
+      "link-text": "Show",
       "searchspot": {
         "name": "Searchspot",
         "text": "Verantwoordelijk voor de ElasticSearch data van Honeypot en voornamelijk aangedreven door Rust en Iron, bedrijven gebruiken het op het platform om door profielen van developers te zoeken."

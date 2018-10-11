@@ -9,7 +9,7 @@ import amsterdam from '../../static/Wework.png'
 export default () => (
   <NamespacesConsumer ns={'about'}>
     {t => (
-      <Wrapper nowrap >
+      <Wrapper nowrap>
         <div className="c-location-wall">
           {[berlin, amsterdam].map((image, i) => (
             <LocationCard
