@@ -1,0 +1,26 @@
+.c-community-card {
+  text-align: center;
+  margin: 40px 20px;
+  box-shadow: 0 2px 26px 1px rgba(0,0,0,0.07);
+  border-radius: 4px;
+  &--gray {
+    background-color: $gray-4;
+  }
+  &--pink {
+    background-color: $pink-1;
+  }
+  &--yellow {
+    background-color: $yellow-1;
+  }
+  &--blue {
+    background-color: $blue-3;
+  }
+  &__logo {
+    margin: 100px auto;
+  }
+  &__wrapper {
+    text-align: left;
+    padding: 40px;
+    background-color: $white-color;
+  }
+}

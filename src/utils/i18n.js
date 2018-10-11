@@ -9,6 +9,7 @@ import techHiring from '../locales/tech-hiring.json'
 import faq from '../locales/faq.json'
 import cookie from '../locales/cookie.json'
 import about from '../locales/about.json'
+import community from '../locales/community.json'
 
 export const languages = ['en', 'de', 'nl']
 const defaultLang = 'en'
@@ -29,6 +30,7 @@ i18n.init({
       faq: faq.de,
       cookie: cookie.de,
       about: about.de,
+      community: community.de,
     },
     en: {
       footer: footer.en,
@@ -40,6 +42,7 @@ i18n.init({
       faq: faq.en,
       cookie: cookie.en,
       about: about.en,
+      community: community.en,
     },
     nl: {
       footer: footer.nl,
@@ -51,6 +54,7 @@ i18n.init({
       faq: faq.nl,
       cookie: cookie.nl,
       about: about.nl,
+      community: community.nl,
     },
   },
 })
