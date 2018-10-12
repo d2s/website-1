@@ -6,7 +6,7 @@ import PaymentOption from './payment-option'
 export default () => (
   <NamespacesConsumer ns={'tech-hiring'}>
     {t => (
-      <div className="payment-options">
+      <div className="payment-options" id="pricing">
         <SideBackground settings={['left', 'tech-hiring']} />
         <SideBackground settings={['right', 'rotate', 'tech-hiring']} />
         <h2 className="payment-options__headline">
