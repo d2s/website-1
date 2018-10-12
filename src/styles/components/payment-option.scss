@@ -17,6 +17,8 @@
   border-radius: 8px;
   box-shadow: 6px 6px 18px 5px rgba(0,0,0,0.07);
   margin: 23px;
+  padding-bottom: 100px;
+  position: relative;
 
   &__divider {
     border-top: 1px solid $gray-2;
@@ -35,7 +37,12 @@
   }
 
   &__start {
-    width: 100%;
+    text-align: center;
+    position: absolute;
+    left: 23px;
+    right: 23px;
+    bottom: 23px;
+    display: block;
   }
 
   &__list {
@@ -45,5 +52,9 @@
     &--blue {
       list-style-image: url('../static/check-blue.svg');
     }
+  }
+
+  &__list-item {
+    margin-bottom: 10px;
   }
 }

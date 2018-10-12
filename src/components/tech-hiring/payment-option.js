@@ -29,17 +29,18 @@ export default ({ option, modifier }) => {
           >
             {keys &&
               keys.map(i => (
-                <li key={i.toString()}>
+                <li className="payment-option__list-item" key={i.toString()}>
                   {t(`payment-options.${option}.list.${i}`)}
                 </li>
               ))}
           </ul>
-          <button
+          <a
+            href="https://app.honeypot.io/invite_requests/new"
             className={`button button--${modifier} payment-option__start`}
             type="button"
           >
             {t(`payment-options.${option}.start`)}
-          </button>
+          </a>
         </div>
       )}
     </NamespacesConsumer>
