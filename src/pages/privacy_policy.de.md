@@ -2,7 +2,7 @@
 
 Der Schutz Eurer Daten ist uns sehr wichtig.  
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlin, Germany, E-Mail: hello@honeypot.io (siehe auch Impressum),im Folgenden „Honeypot“, als Betreiber der Website "www.honeypot.io", ist der  der Verantwortliche für die Nutzung der personenbezogenen Daten der Nutzer der Website gem. Art. 4 Abs. 7 EU Datenschutz-Grundverordnung (DS-GVO). Unseren Datenschutzbeauftragten erreichst Du unter privacy@honeypot.io  oder unserer Postadresse mit dem Zusatz „Datenschutzbeauftragter“.
+Honeypot GmbH, Schönhauser Allee 45, 10435 Berlin, Deutschland, E-Mail: hello@honeypot.io (siehe auch Impressum), im Folgenden „Honeypot“, als Betreiber der Website "www.honeypot.io", ist der Verantwortliche für die Nutzung der personenbezogenen Daten der Nutzer der Website gem. Art. 4 Abs. 7 EU Datenschutz-Grundverordnung (DS-GVO). Unseren Datenschutzbeauftragten erreichst Du unter privacy@honeypot.io oder unserer Postadresse mit dem Zusatz „Datenschutzbeauftragter“.
 
 Uns ist wichtig, dass Du zu jedem Zeitpunkt weißt, wann wir personenbezogenen Daten von Dir speichern und wie wir diese nutzen. 
 
@@ -127,21 +127,13 @@ Honeypot behält sich das Recht vor, diese Datenschutzerklärung jederzeit mit W
 
 
 ##### Wie wende ich mich an Honeypot bei Datenschutz-Fragestellungen? 
-Wir freuen uns über Deine Nachricht, wenn Du Fragen, Nachfragen oder Vorschläge zum Datenschutz hast. Bitte richte Deine schriftliche Anliegen an:
+Wir freuen uns über Deine Nachricht, wenn Du Fragen, Nachfragen oder Vorschläge zum Datenschutz hast. Bitte richte Deine schriftlichen Anliegen an:
 
 
 Honeypot GmbH<br />
 Schönhauser Allee 45<br /> 
-10435 Berlin, Germany<br />
+10435 Berlin, Deutschland<br />
 
 oder
 
 [privacy@honeypot.io](mailto:privacy@honeypot.io)
-
-
-
-
-
-
-[a]Bitte noch anpassen. Dies müsste auch in der englischen Fassung noch angepasst werden (siehe E-Mail vom 28. Mai 2018).
-
