@@ -44,6 +44,7 @@
       "headline": "Honeypot has Payment Options Depending on Your Hiring Plan",
       "basic": {
         "name": "Basic",
+        "tagline": "Pay per Hire",
         "start": "Start Now",
         "list": {
           "1": "15% Commission Per Hire (of yearly gross salary)",
@@ -56,6 +57,7 @@
       },
       "member": {
         "name": "Membership",
+        "tagline": "Custom plan",
         "start": "Start Now",
         "list": {
           "1": "Favourable Custom Pricing For Larger Hiring Plans",
@@ -148,6 +150,7 @@
       "headline": "Honeypot bietet verschieden Zahlungsmodelle je nach Deinem Personalbedarf",
       "basic": {
         "name": "Basic",
+        "tagline": "Pay per Hire",
         "start": "Starte jetzt",
         "list": {
           "1": "15% Kommission pro Einstellung (des ersten Brutto-Jahresgehalts)",
@@ -160,6 +163,7 @@
       },
       "member": {
         "name": "Mitgliedschaft",
+        "tagline": "Custom plan",
         "start": "Starte jetzt",
         "list": {
           "1": "Individuelle Vorzugspreisgestaltung für grössere Einstellungspläne",
@@ -252,6 +256,7 @@
       "headline": "Honeypot heeft betalingsopties die passen bij je recruitmentplannen",
       "basic": {
         "name": "Basic",
+        "tagline": "Pay per Hire",
         "start": "Nu beginnen",
         "list": {
           "1": "15% commissie per hire (over het bruto jaarsalaris)",
@@ -264,6 +269,7 @@
       },
       "member": {
         "name": "Membership",
+        "tagline": "Custom plan",
         "start": "Nu beginnen",
         "list": {
           "1": "Nog scherpere custom pricing voor grotere hiring plans",
