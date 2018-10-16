@@ -9,9 +9,9 @@ import techtalk from '../../static/techtalk-logo.png'
 import TextBox from './text-box'
 
 function createCardsFor(images, t) {
-  return images.map(([image, color], i) => (
+  return images.map(([image, color, i]) => (
     <CommunityCard
-      key={++i}
+      key={i}
       image={image}
       text={t(`meet.${i}.text`)}
       headline={t(`meet.${i}.headline`)}
@@ -31,10 +31,10 @@ export default () => (
             <div className="c-community-wall__intro">
               <TextBox headline={t('meet.headline')} text={t('meet.tagline')} />
             </div>
-            {createCardsFor([[hrintech, 'gray'], [techtalk, 'yellow']], t)}
+            {createCardsFor([[hrintech, 'gray', 4], [techtalk, 'yellow', 3]], t)}
           </div>
           <div className="c-community-wall__right">
-            {createCardsFor([[hive, 'blue'], [graphql, 'pink']], t)}
+            {createCardsFor([[hive, 'blue', 2], [graphql, 'pink', 1]], t)}
           </div>
         </div>
       )}
