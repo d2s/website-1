@@ -21,7 +21,7 @@ import julian from '../../static/employees/DSC02047.jpg'
 import kado from '../../static/employees/DSC01820.jpg'
 import katharina from '../../static/employees/DSC02003.jpg'
 import kaya from '../../static/employees/DSC02072.jpg'
-import kevin from '../../static/employees/DSC01800.jpg'
+import kevin from '../../static/employees/Bearpot_Team.jpg'
 import laura from '../../static/employees/DSC01881.jpg'
 import laura2 from '../../static/employees/DSC01856.jpg'
 import lisa from '../../static/employees/Bearpot_Team.jpg'
@@ -30,8 +30,7 @@ import marc from '../../static/employees/Bearpot_Team.jpg'
 import matthijs from '../../static/employees/DSC01869.jpg'
 import max from '../../static/employees/DSC01825.jpg'
 import meriem from '../../static/employees/DSC01783.jpg'
-import mia from '../../static/employees/DSC01914.jpg'
-import mia2 from '../../static/employees/DSC01898.jpg'
+import mia from '../../static/employees/DSC01898.jpg'
 import mirko from '../../static/employees/Bearpot_Team.jpg'
 import monika from '../../static/employees/Bearpot_Team.jpg'
 import munya from '../../static/employees/DSC01903.jpg'
@@ -63,7 +62,7 @@ export default [
     linkedin: 'https://www.linkedin.com/in/amarahlers/',
     twitter: '',
     github: '',
-    image: agathe,
+    image: amar,
   },
   {
     name: 'Apoorv',
@@ -74,6 +73,16 @@ export default [
     twitter: '',
     github: '',
     image: apoorv,
+  },
+  {
+    name: 'Baku',
+    last_name: '',
+    title: 'Vice President of Dogs',
+    favorite_color: '',
+    linkedin: '',
+    twitter: '',
+    github: '',
+    image: baku,
   },
   {
     name: 'Buğra',
@@ -356,16 +365,6 @@ export default [
     image: mia,
   },
   {
-    name: 'Mia',
-    last_name: 'Mosler',
-    title: 'Talent Rep',
-    favorite_color: '',
-    linkedin: '',
-    twitter: '',
-    github: '',
-    image: mia2,
-  },
-  {
     name: 'Mirko',
     last_name: 'Nitschke',
     title: 'Business Development Manager',
@@ -424,16 +423,6 @@ export default [
     twitter: '',
     github: '',
     image: sarah,
-  },
-  {
-    name: 'Sonya',
-    last_name: 'Klaus',
-    title: 'Talent Rep',
-    favorite_color: 'turquoise',
-    linkedin: '',
-    twitter: '',
-    github: '',
-    image: sonya,
   },
   {
     name: 'Stefan',
