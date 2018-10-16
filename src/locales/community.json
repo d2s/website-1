@@ -10,19 +10,34 @@
       "link-text": "Show",
       "1": {
         "headline": "GraphQL Europe",
-        "text": "GraphQL Europe is a conference with speakers from all around the world. Organized in collaboration with Prisma and the founding team of the GraphQL technology, GraphQL Europe is the largest GraphQL conference east of the Atlantic. Learn about GraphQL best practices from industry experts and become part of the thriving GraphQL community."
+        "text": "GraphQL Europe is a conference with speakers from all around the world. Organized in collaboration with Prisma and the founding team of the GraphQL technology, GraphQL Europe is the largest GraphQL conference east of the Atlantic. Learn about GraphQL best practices from industry experts and become part of the thriving GraphQL community.",
+        "link": "https://www.graphql-europe.org/"
       },
       "2": {
         "headline": "Hive Conference",
-        "text": "Hive is a conference for HR Leaders, Technical Hiring Managers, CTOs and VPs of Engineering focused on all aspects of building and scaling great engineering teams."
+        "text": "Hive is a conference for HR Leaders, Technical Hiring Managers, CTOs and VPs of Engineering focused on all aspects of building and scaling great engineering teams.",
+        "link": "https://hive.honeypot.io/hive-conference-2018/"
+
       },
       "3": {
         "headline": "Tech Talks & CTO Club",
-        "text": "Want to dive deep into the tech community in Germany and the Netherlands? Our tech meetups are exactly what you need - exciting tech topics and experienced speakers you can learn from."
+        "text": "Want to dive deep into the tech community in Germany and the Netherlands? Our tech meetups are exactly what you need - exciting tech topics and experienced speakers you can learn from.",
+        "link": {
+          "1": {
+            "link": "https://www.meetup.com/Honeypot_Berlin/",
+            "link-text": "Show Berlin"
+          },
+          "2": {
+            "link": "https://www.meetup.com/Honeypot_Amsterdam/",
+            "link-text": "Show Amsterdam"
+          }
+        }
       },
       "4": {
         "headline": "HR in Tech",
-        "text": "Is hiring tech talent part of your everyday job? If so, our pan-European HR in Tech event series ought to be right up your alley.  Whether you live in Germany or the Netherlands, we’ve got you covered."
+        "text": "Is hiring tech talent part of your everyday job? If so, our pan-European HR in Tech event series ought to be right up your alley.  Whether you live in Germany or the Netherlands, we’ve got you covered.",
+        "link": "https://www.eventbrite.ie/o/honeypotio-8532947424"
+
       }
     },
     "documentaries": {
@@ -63,19 +78,32 @@
       "link-text": "",
       "1": {
         "headline": "GraphQL Europe",
-        "text": "GraphQL Europe ist eine Konferenz mit Speakern aus der ganzen Welt.  Das Event in gemeinsamer Organisation mit Prisma und dem Gründerteam von GraphQL ist das grösste GraphQL Event ostwärts des Atlantiks. Erfahre mehr über GraphQL best practices von Branchenexperten und werde Teil der pulsierenden GraphQL community."
+        "text": "GraphQL Europe ist eine Konferenz mit Speakern aus der ganzen Welt.  Das Event in gemeinsamer Organisation mit Prisma und dem Gründerteam von GraphQL ist das grösste GraphQL Event ostwärts des Atlantiks. Erfahre mehr über GraphQL best practices von Branchenexperten und werde Teil der pulsierenden GraphQL community.",
+        "link": "https://www.graphql-europe.org/"
       },
       "2": {
         "headline": "Hive Conference",
-        "text": "Hive ist eine Konferenz für HR Leader, technische Leiter, CTOs und alle anderen, die sich darauf fokussieren grossartige technische Team aufzubauen und zu skalieren."
+        "text": "Hive ist eine Konferenz für HR Leader, technische Leiter, CTOs und alle anderen, die sich darauf fokussieren grossartige technische Team aufzubauen und zu skalieren.",
+        "link": "https://hive.honeypot.io/hive-conference-2018/"
       },
       "3": {
         "headline": "Tech Talks & CTO Club",
-        "text": "Möchtest Du tief in die Tech-Community in Deutschland und den Niederlanden eintauchen? Dann sind unsere Tech-Meetups genau das Richtige - spannende Tech-Themen und erfahrene Speaker, die ihr Wissen teilen."
+        "text": "Möchtest Du tief in die Tech-Community in Deutschland und den Niederlanden eintauchen? Dann sind unsere Tech-Meetups genau das Richtige - spannende Tech-Themen und erfahrene Speaker, die ihr Wissen teilen.",
+        "link": {
+          "1": {
+            "link": "https://www.meetup.com/Honeypot_Berlin/",
+            "link-text": "Show Berlin"
+          },
+          "2": {
+            "link": "https://www.meetup.com/Honeypot_Amsterdam/",
+            "link-text": "Show Amsterdam"
+          }
+        }
       },
       "4": {
         "headline": "HR in Tech",
-        "text": "Besteht Dein Job zu einem großen Teil aus der Akquise von Tech-Talenten? Dann passen unsere HR in Tech Meetups zu Dir. Ob in Deutschland oder den Niederlanden, wir haben die richtigen Themen für Dich."
+        "text": "Besteht Dein Job zu einem großen Teil aus der Akquise von Tech-Talenten? Dann passen unsere HR in Tech Meetups zu Dir. Ob in Deutschland oder den Niederlanden, wir haben die richtigen Themen für Dich.",
+        "link": "https://www.eventbrite.ie/o/honeypotio-8532947424"
       }
     },
     "documentaries": {
@@ -116,19 +144,32 @@
       "link-text": "",
       "1": {
         "headline": "GraphQL Europe",
-        "text": "GraphQL Europe is een conferentie met sprekers van over de hele wereld. Georganiseerd in samenwerking met Prisma en het founding team van de GraphQL technologie is GraphQL Europe is de grootste GraphQL-conferentie ten oosten van de Atlantische Oceaan. Lees meer over de best practices van GraphQL van experts uit de branche en maak deel uit van de bloeiende GraphQL-community."
+        "text": "GraphQL Europe is een conferentie met sprekers van over de hele wereld. Georganiseerd in samenwerking met Prisma en het founding team van de GraphQL technologie is GraphQL Europe is de grootste GraphQL-conferentie ten oosten van de Atlantische Oceaan. Lees meer over de best practices van GraphQL van experts uit de branche en maak deel uit van de bloeiende GraphQL-community.",
+        "link": "https://www.graphql-europe.org/"
       },
       "2": {
         "headline": "Hive Conference",
-        "text": "Hive is een conferentie voor HR-leiders, Technical Hiring Managers, CTO's en VP's of Engineering die zich richten op alle aspecten van het bouwen en opschalen van top engineering teams."
+        "text": "Hive is een conferentie voor HR-leiders, Technical Hiring Managers, CTO's en VP's of Engineering die zich richten op alle aspecten van het bouwen en opschalen van top engineering teams.",
+        "link": "https://hive.honeypot.io/hive-conference-2018/"
       },
       "3": {
         "headline": "Tech Talks & CTO Club",
-        "text": "Wil jij je diep wortelen in de tech community van Duitsland en Nederland? Dan zijn onze tech meetups precies wat jij zoekt - trending tech topics en ervaren sprekers waar je van kunt leren."
+        "text": "Wil jij je diep wortelen in de tech community van Duitsland en Nederland? Dan zijn onze tech meetups precies wat jij zoekt - trending tech topics en ervaren sprekers waar je van kunt leren.",
+        "link": {
+          "1": {
+            "link": "https://www.meetup.com/Honeypot_Berlin/",
+            "link-text": "Show Berlijn"
+          },
+          "2": {
+            "link": "https://www.meetup.com/Honeypot_Amsterdam/",
+            "link-text": "Show Amsterdam"
+          }
+        }
       },
       "4": {
         "headline": "HR in Tech",
-        "text": "Is het aannemen van tech talent onderdeel van jouw dagele workflow? Dan zal onze pan-Europese HR in Tech-evenementen reeks helemaal bij je passen. Of je nu in Duitsland of Nederland woont, wij helpen jou graag verder."
+        "text": "Is het aannemen van tech talent onderdeel van jouw dagele workflow? Dan zal onze pan-Europese HR in Tech-evenementen reeks helemaal bij je passen. Of je nu in Duitsland of Nederland woont, wij helpen jou graag verder.",
+        "link": "https://www.eventbrite.ie/o/honeypotio-8532947424"
       }
     },
     "documentaries": {

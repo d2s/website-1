@@ -9,17 +9,25 @@ import techtalk from '../../static/techtalk-logo.png'
 import TextBox from './text-box'
 
 function createCardsFor(images, t) {
-  return images.map(([image, color, i]) => (
-    <CommunityCard
+  return images.map(([image, color, i, lnr]) => {
+    let links = [];
+    if(lnr > 1) {
+      for(let j = 1; j<=lnr; j++) {
+        links.push([t(`meet.${i}.link.${j}.link`), t(`meet.${i}.link.${j}.link-text`)])
+      }
+    } else {
+      links.push([t(`meet.${i}.link`), t('meet.link-text')])
+    }
+    console.log(links);
+    return <CommunityCard
       key={i}
       image={image}
       text={t(`meet.${i}.text`)}
       headline={t(`meet.${i}.headline`)}
-      link={t(`meet.${i}.link`)}
-      link_text={t(`meet.link-text`)}
+      links={ links }
       color={color}
     />
-  ))
+  })
 }
 
 export default () => (
@@ -32,12 +40,12 @@ export default () => (
               <TextBox headline={t('meet.headline')} text={t('meet.tagline')} />
             </div>
             {createCardsFor(
-              [[hrintech, 'gray', 4], [techtalk, 'yellow', 3]],
+              [[hrintech, 'gray', 4, 1], [techtalk, 'yellow', 3, 2]],
               t
             )}
           </div>
           <div className="c-community-wall__right">
-            {createCardsFor([[hive, 'blue', 2], [graphql, 'pink', 1]], t)}
+            {createCardsFor([[hive, 'blue', 2, 1], [graphql, 'pink', 1, 1]], t)}
           </div>
         </div>
       )}

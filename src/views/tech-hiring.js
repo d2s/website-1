@@ -23,7 +23,7 @@ export default () => (
 
     <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
 
-    <Testimonial right={['flip-h']} page="tech-hiring" index={ [1, dineke] } />
+    <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
 
     <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
 
@@ -41,7 +41,7 @@ export default () => (
       left={['flip-v']}
       right={['flip-h']}
       page="tech-hiring"
-      index={ [2, sellin] }
+      index={[2, sellin]}
     />
   </Layout>
 )
