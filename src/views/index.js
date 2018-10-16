@@ -15,6 +15,11 @@ import SignUp from '../components/index/sign-up'
 import Testimonial from '../components/testimonial'
 import Newsletter from '../components/newsletter'
 import TestimonialGroup from '../components/testimonial-group'
+import sashen from '../static/testimonials/Testimonial_Sashen.jpg'
+import shuhei from '../static/testimonials/Testimonial_Honeypot_Shuhei.jpg'
+import emil from '../static/testimonials/testimonial_emil.png'
+import veronica from '../static/testimonials/Testimonial_Veronica.png'
+import peter from '../static/testimonials/Testimonial_Peter_Ringelmann.jpg'
 
 import '../styles/main.scss'
 
@@ -28,7 +33,7 @@ export default () => (
 
     <TextImageWrapper page="index" topic="stack" img={techStack} sign />
 
-    <Testimonial left page="index" index="1" />
+    <Testimonial left page="index" index={[1, shuhei]} />
 
     <TextImageWrapper
       page="index"
@@ -38,11 +43,14 @@ export default () => (
       rightImage
     />
 
-    <TestimonialGroup page="index" indexes={[2, 3, 4]} />
+    <TestimonialGroup
+      page="index"
+      indexes={[[2, emil], [3, veronica], [4, sashen]]}
+    />
 
     <TextImageWrapper page="index" topic="support" img={support} sign />
 
-    <Testimonial left right={['rotate']} page="index" index="5" />
+    <Testimonial left right={['rotate']} page="index" index={[5, peter]} />
 
     <TextImageWrapper page="index" topic="worth" img={worth} sign rightImage />
 

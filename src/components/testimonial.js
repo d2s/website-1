@@ -8,7 +8,7 @@ const injectHTML = (t, index) =>
   // (<br />).
   ({ __html: t(`testimonial.${index}.position`).replace(/\n/g, '<br />') })
 
-export default ({ index, page, left, right }) => {
+export default ({ index: [nr, image], page, left, right }) => {
   if (left) {
     left = Array.isArray(left) ? left : ['left']
   }
@@ -23,19 +23,16 @@ export default ({ index, page, left, right }) => {
           {right && <SideBackground settings={['right', page, ...right]} />}
           <div className="testimonial wrapper">
             <div className="testimonial__text">
-              "{t(`testimonial.${index}.text`)}"
+              "{t(`testimonial.${nr}.text`)}"
             </div>
             <div className="testimonial__person">
-              <img
-                className="testimonial__avatar"
-                src={t(`testimonial.${index}.image`)}
-              />
+              <img className="testimonial__avatar" src={image} />
               <div className="testimonial__description">
                 <div className="testimonial__name">
-                  <p>{t(`testimonial.${index}.name`)}</p>
+                  <p>{t(`testimonial.${nr}.name`)}</p>
                 </div>
                 <div className="testimonial__position">
-                  <p dangerouslySetInnerHTML={injectHTML(t, index)} />
+                  <p dangerouslySetInnerHTML={injectHTML(t, nr)} />
                 </div>
               </div>
             </div>

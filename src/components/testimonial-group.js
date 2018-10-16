@@ -14,12 +14,12 @@ export default ({ page, indexes }) => (
             {t('testimonial.tagline')}
           </p>
           <div className="testimonial-group__wrapper">
-            {indexes.map(i => (
+            {indexes.map((input, i) => (
               <div
                 key={i.toString()}
                 className="testimonial-group__testimonial"
               >
-                <SmallTestimonial page={page} index={i} />
+                <SmallTestimonial page={page} index={input} />
               </div>
             ))}
           </div>

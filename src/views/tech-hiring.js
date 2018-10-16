@@ -11,6 +11,8 @@ import skills from '../static/skills.png'
 import employer from '../static/employer.svg'
 import PaymentOptions from '../components/tech-hiring/payment-options'
 import PositionOverview from '../components/tech-hiring/position-overview'
+import dineke from '../static/testimonials/Testimonial_Dineke.jpg'
+import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
 import '../styles/main.scss'
 
 export default () => (
@@ -21,7 +23,7 @@ export default () => (
 
     <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
 
-    <Testimonial right={['flip-h']} page="tech-hiring" index="1" />
+    <Testimonial right={['flip-h']} page="tech-hiring" index={ [1, dineke] } />
 
     <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
 
@@ -39,7 +41,7 @@ export default () => (
       left={['flip-v']}
       right={['flip-h']}
       page="tech-hiring"
-      index="2"
+      index={ [2, sellin] }
     />
   </Layout>
 )
