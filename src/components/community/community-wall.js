@@ -18,7 +18,6 @@ function createCardsFor(images, t) {
     } else {
       links.push([t(`meet.${i}.link`), t('meet.link-text')])
     }
-    console.log(links);
     return <CommunityCard
       key={i}
       image={image}

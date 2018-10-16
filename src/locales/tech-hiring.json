@@ -92,16 +92,14 @@
     },
     "testimonial": {
       "1": {
-        "image": "/avatar.jpg",
-        "name": "Maud Aertsen",
-        "position": "Talent Manager \n MediaMonks",
-        "text": "Very innovative way of recruitment. High quality candidates.  The profiles we look for continuously change and with Honeypot I don't have to inform an agency, because we are free to approach the people that are interesting for us at any time"
+        "name": "Dineke Mulder",
+        "position": "Global Recruiter \n Ayden",
+        "text": "The platform is well designed and easy to use. We've hired great frontend and backend developers through Honeypot!"
       }, 
       "2": {
-        "image": "/avatar.jpg",
-        "name": "Thijs Slijkhuis",
-        "position": "CTO \n United Wardrobe",
-        "text": "We love Honeypot, not only for their refreshing view on developer recruitment, but also for their active participation in the developer community."
+        "name": "Selin Songur",
+        "position": "Tech Recruiting \n SoundCloud",
+        "text": "We love Honeypot because it has put everything into one place and the team behind it is great! Thank you for creating a platform that's so easy to use and helping us hire a kickass developer."
       }
     }
   },
@@ -198,16 +196,14 @@
     },
     "testimonial": {
       "1": {
-        "image": "/avatar.jpg",
-        "name": "Maud Aertsen",
-        "position": "Talent Manager \n MediaMonks",
-        "text": "Eine sehr innovative Art des Recruitings. Qualitätskandidaten.  Wir suchen ständig neue Profile und mit Honeypot müssen wir keine Agentur auf dem Laufenden halten, sondern können einfach selber die Kandidaten ansprechen, die für uns zu der Zeit interessant sind."
+        "name": "Dineke Mulder",
+        "position": "Global Recruiter \n Ayden",
+        "text": "Die Plattform ist toll gestaltet und einfach zu benutzen. Wir haben über Honeypot großartige Frontend- und Backend-Entwickler eingestellt!"
       }, 
       "2": {
-        "image": "/avatar.jpg",
-        "name": "Thijs Slijkhuis",
-        "position": "CTO \n United Wardrobe",
-        "text": "Wir lieben Honeypot nicht nur wegen des erfrischenden Recruiting Ansatzes, sondern zudem wegen Honeypots aktiver Teilnahme an der Entwickler-Community."
+        "name": "Selin Songur",
+        "position": "Tech Recruiting \n SoundCloud",
+        "text": "Wir lieben Honeypot, weil alles an einem Ort und das Team hinter den Kulissen großartig ist! Vielen Dank, dass ihr eine Plattform geschaffen habt, die so einfach zu benutzen ist und die uns hilft fantastische Entwickler einzustellen."
       }
     } 
   },
@@ -304,16 +300,14 @@
     },
     "testimonial": {
       "1": {
-        "image": "/avatar.jpg",
-        "name": "Maud Aertsen",
-        "position": "Talent Manager \n MediaMonks",
-        "text": "Zeer innovatieve manier van werven. Kwalitatief hoogwaardige kandidaten. De profielen waarnaar we zoeken, veranderen voortdurend en met Honeypot hoef ik geen bureau op de hoogte te stellen, omdat we op elk moment vrij zijn om de mensen te benaderen die ons interesseren"
+        "name": "Dineke Mulder",
+        "position": "Global Recruiter \n Ayden",
+        "text": "Het platform is goed ontworpen en eenvoudig in gebruik. We hebben geweldige front-end en back-end developers gevonden via Honeypot!"
       }, 
       "2": {
-        "image": "/avatar.jpg",
-        "name": "Thijs Slijkhuis",
-        "position": "CTO \n United Wardrobe",
-        "text": "We houden van Honeypot, niet alleen vanwege hun verfrissende kijk op het werven van developers, maar ook vanwege hun actieve deelname binnen de developer-community."
+        "name": "Selin Songur",
+        "position": "Tech Recruiting \n SoundCloud",
+        "text": "We vinden Honeypot echt geweldig omdat ze alles op één plek bij elkaar hebben gebracht en het team is ook echt top! Hartelijk dank dat jullie een platform gemaakt hebben dat zo eenvoudig werkt en voor jullie hulp bij het vinden van een kick-ass developer"
       }
     } 
   }
