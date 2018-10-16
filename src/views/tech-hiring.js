@@ -19,17 +19,16 @@ export default () => (
 
     <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />
 
-    <TextImageWrapper page="tech-hiring" topic="visa" img={visa} />
-
-    <Testimonial right={['flip-h']} page="tech-hiring" index="1" />
-
     <TextImageWrapper
       page="tech-hiring"
       topic="skills"
       sign
-      rightImage
       img={skills}
     />
+
+    <Testimonial right={['flip-h']} page="tech-hiring" index="1" />
+
+    <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
 
     <PaymentOptions />
 
