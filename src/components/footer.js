@@ -11,7 +11,7 @@ import instagram from '../static/icons/instagram.png'
 import linkedin from '../static/icons/linkedin.png'
 import twitter from '../static/icons/Twitter.png'
 import youtube from '../static/icons/youtube.png'
-import mail from '../static/icons/mail.svg';
+import mail from '../static/icons/mail.svg'
 
 const column = ['for-talents', 'for-employers', 'community']
 const year = new Date().getFullYear()
@@ -176,10 +176,7 @@ export default () => {
               </li>
               <li className="footer__link-item">
                 <img className="footer__icon" src={mail} />
-                <a
-                  className="footer__link"
-                  href="mailto:hello@honeypot.io"
-                >
+                <a className="footer__link" href="mailto:hello@honeypot.io">
                   hello@honeypot.io
                 </a>
               </li>

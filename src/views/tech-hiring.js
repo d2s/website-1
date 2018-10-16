@@ -19,12 +19,7 @@ export default () => (
 
     <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />
 
-    <TextImageWrapper
-      page="tech-hiring"
-      topic="skills"
-      sign
-      img={skills}
-    />
+    <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
 
     <Testimonial right={['flip-h']} page="tech-hiring" index="1" />
 

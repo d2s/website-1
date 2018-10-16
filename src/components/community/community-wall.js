@@ -31,7 +31,10 @@ export default () => (
             <div className="c-community-wall__intro">
               <TextBox headline={t('meet.headline')} text={t('meet.tagline')} />
             </div>
-            {createCardsFor([[hrintech, 'gray', 4], [techtalk, 'yellow', 3]], t)}
+            {createCardsFor(
+              [[hrintech, 'gray', 4], [techtalk, 'yellow', 3]],
+              t
+            )}
           </div>
           <div className="c-community-wall__right">
             {createCardsFor([[hive, 'blue', 2], [graphql, 'pink', 1]], t)}

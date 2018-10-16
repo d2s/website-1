@@ -19,7 +19,7 @@ export default ({ option, modifier }) => {
             {t(`payment-options.${option}.name`)}
           </p>
           <h3 className="payment-option__tagline">
-            { t(`payment-options.${option}.tagline`) }
+            {t(`payment-options.${option}.tagline`)}
           </h3>
           <hr className="payment-option__divider" />
           <ul

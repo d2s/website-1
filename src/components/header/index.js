@@ -24,7 +24,7 @@ export default ({ smallerHeader }) => {
         className={`container-fluid header header--${!smallerHeader && page}`}
       >
         <div className="header__controls container">
-          <Link to={ getLinkTo('') }>
+          <Link to={getLinkTo('')}>
             <img src={logo} className="header__logo" />
           </Link>
           <Navigation />
