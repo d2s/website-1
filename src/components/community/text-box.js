@@ -2,10 +2,13 @@ import React from 'react'
 import Link from 'gatsby-link'
 import arrow from '../../static/arrow_blue.svg'
 
-export default ({ headline, text, link, link_text, small }) => {
-  const headlineClass = `text-box__headline text-box__headline--${
-    small ? 'small' : ''
-  }`
+export default ({ headline, text, link, link_text, small, size }) => {
+  let headlineClass = 'text-box__headline';
+  if(small) {
+    headlineClass += ' text-box__headline--small'
+  } else if(size) {
+    headlineClass += ` text-box__headline--${size}`
+  }
   return (
     <div className="text-box">
       <h2 className={headlineClass}>{headline}</h2>

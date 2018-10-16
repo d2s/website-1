@@ -10,7 +10,7 @@ export default ({ image, headline, text, link, link_text, color }) => (
         text={text}
         link={link}
         link_text={link_text}
-        small
+        size={ 'medium' }
       />
     </div>
   </div>
