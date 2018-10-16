@@ -7,7 +7,7 @@ import searchspot from '../../static/searchspot-icon.png'
 import CaptionBar from '../caption'
 
 export default () => (
-  <div className="container-fluid bg-stripes">
+  <div className="container-fluid bg-stripes-os">
     <NamespacesConsumer ns={'community'}>
       {t => (
         <div>

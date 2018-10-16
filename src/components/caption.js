@@ -8,7 +8,7 @@ export default ({ page, topic }) => (
       <Wrapper>
         <div className="c-caption">
           <h2>{t(`${topic}.headline`)}</h2>
-          <p>{t(`${topic}.tagline`)}</p>
+          <p className="c-caption__tagline">{t(`${topic}.tagline`)}</p>
         </div>
       </Wrapper>
     )}
