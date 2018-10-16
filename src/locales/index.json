@@ -19,19 +19,19 @@
       "headline": "A Simple and Quick Sign Up Process!",
       "step1": {
         "headline": "Create a Profile",
-        "text": "It’s your chance to tell us what you want in your next role - and it takes less than 5 minutes!"
+        "text": "It’s your chance to tell us what you want in your next role - and it takes less than 5 minutes."
       },
       "step2": {
         "headline": "Complete our Screening",
-        "text": "Pass our code screening and take an optional call with your Talent Rep, who positions you to receive the best offers!"
+        "text": "Pass our code screening and take an optional call with your Talent Rep, who positions you to receive the best offers."
       },
       "step3": {
         "headline": "Become Visible and Get Offers",
         "text": "Become visible on Honeypot so that companies can find your profile and make you offers with salary and tech stack up front."
       },
       "step4": {
-        "headline": "Get Hired!",
-        "text": "Interview with companies that interest you! And choose the one you like the best!"
+        "headline": "Get Hired",
+        "text": "Interview with companies that interest you! And choose the one you like the best."
       }
     },
     "stack": {
@@ -111,7 +111,7 @@
       "headline": "Ein einfacher und schneller Anmeldeprozess",
       "step1": {
         "headline": "Erstelle Dein Profil",
-        "text": "und lass uns wissen welche neuen Herausforderungen Du suchst – es dauert weniger als fünf Minuten!"
+        "text": "und lass uns wissen welche neuen Herausforderungen Du suchst – es dauert weniger als fünf Minuten."
       },
       "step2": {
         "headline": "Werde Teil der Community",
@@ -122,8 +122,8 @@
         "text": "Werde sichtbar auf Honeypot, damit Unternehmen Dein Profil finden und Dir Angebote mit Gehaltsangabe und Tech-Stack vorab machen können."
       },
       "step4": {
-        "headline": "Hol Dir den Job!",
-        "text": "Führe Interviews mit Unternehmen, die Dich interessieren! Wähle das Unternehmen, das Dir am besten gefällt!"
+        "headline": "Hol Dir den Job",
+        "text": "Führe Interviews mit Unternehmen, die Dich interessieren! Wähle das Unternehmen, das Dir am besten gefällt."
       }
     },
     "stack": {
@@ -203,19 +203,19 @@
       "headline": "Een simpel en snel registratieproces!",
       "step1": {
         "headline": "Maak een profiel aan",
-        "text": "Dit is jouw kans om ons te vertellen hoe je volgende functie eruit moet zien – en je hebt er maar 5 minuten voor nodig!"
+        "text": "Dit is jouw kans om ons te vertellen hoe je volgende functie eruit moet zien – en je hebt er maar 5 minuten voor nodig."
       },
       "step2": {
         "headline": "Doorloop onze screening",
-        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Rep, die je helpt om de beste aanbiedingen te ontvangen!"
+        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Rep, die je helpt om de beste aanbiedingen te ontvangen."
       },
       "step3": {
         "headline": "Word zichtbaar op Honeypot",
         "text": "Zodat bedrijven je profiel kunnen vinden en je aanbiedingen kunnen sturen compleet met salaris en tech stack."
       },
       "step4": {
-        "headline": "Word aangenomen!",
-        "text": "Praat met de bedrijven die jij interessant vindt en kies het bedrijf dat het beste bij je past!"
+        "headline": "Word aangenomen",
+        "text": "Praat met de bedrijven die jij interessant vindt en kies het bedrijf dat het beste bij je past."
       }
     },
     "stack": {
