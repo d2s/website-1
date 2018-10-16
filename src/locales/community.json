@@ -54,8 +54,8 @@
   },
   "de": {
     "headline": {
-      "1": "Join Europe's Largest",
-      "2": "Tech Community"
+      "1": "Werde Teil der grössten",
+      "2": "Tech Community Europas!"
     },
     "meet": {
       "headline": "",
@@ -83,7 +83,7 @@
       "tagline": "Wir dokumentieren einige der spannendsten Open Source Projekte auf der Welt. Sieh Dir unseren ersten Dokumentarfilm an, in dem wir Elixir Schöpfer Josè Valim begleiten: 'Elixir: A Mini-Documentary'",
       "elixir": {
         "headline": "Elixir: A Mini-Documentary",
-        "text": "Get ready to explore the origins of the Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.",
+        "text": "Ergründe die Ursprünge der Elixir Programmiersprache, die Art der nebenläufigen Programmierung und wie die Sprache seit Schöpfung in 2011 gewachsen ist.",
         "link-text": "Show"
       }
     },
@@ -107,8 +107,8 @@
   },
   "nl": {
     "headline": {
-      "1": "Join Europe's Largest",
-      "2": "Tech Community"
+      "1": "Sluit je aan Europa's grootste",
+      "2": "tech Community"
     },
     "meet": {
       "headline": "Ontmoet de community",
@@ -136,7 +136,7 @@
       "tagline": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld. Bekijk onze eerste documentaire 'Elixir: A Mini-Documentary', waarin we de creator Josè Valim volgen.",
       "elixir": {
         "headline": "Elixir: A Mini-Documentary",
-        "text": "Get ready to explore the origins of the Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.",
+        "text": "Ontdek hoe de programmeertaal Elixir is ontstaan, de manier waarop het met concurrency omgaat en de snelheid waarmee het gegroeid is sinds de taal is gecreëerd in 2011.",
         "link-text": "Show"
       }
     },
