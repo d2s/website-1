@@ -3,7 +3,7 @@ import { NamespacesConsumer } from 'react-i18next'
 import logo from '../static/logo-bear.svg'
 import { languages, getLang, getPathLang } from '../utils/i18n'
 import Link from 'gatsby-link'
-import getCurrentPage from '../utils/page'
+import getCurrentPage, { getLinkTo } from '../utils/page'
 import LangSwitch from './lang-switch'
 import facebook from '../static/icons/Facebook.png'
 import github from '../static/icons/Facebook.png'
@@ -62,6 +62,14 @@ export default () => {
               </Link>
             </h5>
             <ul className="footer__link-list">
+              <li className="footer__link-item footer__link-item--careers">
+                <Link
+                  className="footer__link"
+                  to={`${prefix}about#press`}
+                >
+                  {t('press')}
+                </Link>
+              </li>
               <li className="footer__link-item footer__link-item--careers">
                 <a
                   className="footer__link"

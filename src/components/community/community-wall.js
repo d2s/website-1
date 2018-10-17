@@ -10,22 +10,27 @@ import TextBox from './text-box'
 
 function createCardsFor(images, t) {
   return images.map(([image, color, i, lnr]) => {
-    let links = [];
-    if(lnr > 1) {
-      for(let j = 1; j<=lnr; j++) {
-        links.push([t(`meet.${i}.link.${j}.link`), t(`meet.${i}.link.${j}.link-text`)])
+    let links = []
+    if (lnr > 1) {
+      for (let j = 1; j <= lnr; j++) {
+        links.push([
+          t(`meet.${i}.link.${j}.link`),
+          t(`meet.${i}.link.${j}.link-text`),
+        ])
       }
     } else {
       links.push([t(`meet.${i}.link`), t('meet.link-text')])
     }
-    return <CommunityCard
-      key={i}
-      image={image}
-      text={t(`meet.${i}.text`)}
-      headline={t(`meet.${i}.headline`)}
-      links={ links }
-      color={color}
-    />
+    return (
+      <CommunityCard
+        key={i}
+        image={image}
+        text={t(`meet.${i}.text`)}
+        headline={t(`meet.${i}.headline`)}
+        links={links}
+        color={color}
+      />
+    )
   })
 }
 

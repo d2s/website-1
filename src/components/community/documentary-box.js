@@ -20,7 +20,12 @@ export default () => (
           <TextBox
             headline={t('documentaries.elixir.headline')}
             text={t('documentaries.elixir.text')}
-            links={[['http://doc.honeypot.io/elixir-documentary-2018/', t('documentaries.elixir.link-text')]]}
+            links={[
+              [
+                'http://doc.honeypot.io/elixir-documentary-2018/',
+                t('documentaries.elixir.link-text'),
+              ],
+            ]}
             small
           />
         </div>

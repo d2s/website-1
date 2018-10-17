@@ -8,6 +8,7 @@ const links = [
   { name: 'for-talents', page: '' },
   { name: 'for-employers', page: 'tech-hiring' },
   { name: 'community', page: 'community' },
+  { name: 'about-us', page: 'about' },
   { name: 'login', page: 'pages/login' },
 ]
 

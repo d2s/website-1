@@ -12,12 +12,14 @@ export default ({ headline, text, links, small, size }) => {
     <div className="text-box">
       <h2 className={headlineClass}>{headline}</h2>
       <p className="text-box__text">{text}</p>
-      {links && links.length > 0 && links.map(([link, text], i) =>
-        <a key={i} className="text-box__link" href={link}>
-          {text}
-          <img className="text-box__arrow" src={arrow} />
-        </a>
-      )}
+      {links &&
+        links.length > 0 &&
+        links.map(([link, text], i) => (
+          <a key={i} className="text-box__link" href={link}>
+            {text}
+            <img className="text-box__arrow" src={arrow} />
+          </a>
+        ))}
     </div>
   )
 }

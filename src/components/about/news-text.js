@@ -7,7 +7,7 @@ import ww from '../../static/Wirtschafts-Woche.png'
 export default () => (
   <NamespacesConsumer ns={'about'}>
     {t => (
-      <div className="text-box">
+      <div className="text-box" id="press">
         <h2 className="text-box__headline">{t('news.headline')}</h2>
         <div className="text-box__wrapper">
           <span>
