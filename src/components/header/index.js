@@ -9,6 +9,7 @@ import getCurrentPage, { getLinkTo } from '../../utils/page'
 import Wrapper from '../wrapper'
 import LangSwitch from '../lang-switch'
 import CookieBanner from './cookie-banner'
+import Headroom from 'react-headroom'
 
 const lang = getLang()
 
@@ -19,18 +20,20 @@ export default ({ smallerHeader }) => {
 
   return (
     <div>
-      <CookieBanner />
       <header
         className={`container-fluid header header--${!smallerHeader && page}`}
       >
-        <div className="header__controls container">
-          <Link to={getLinkTo('')}>
-            <img src={logo} className="header__logo" />
-          </Link>
-          <Navigation />
-          <LangSwitch />
+      <Headroom>
+        <div  className="container-fluid header__wrapper">
+          <div className="header__controls container">
+            <Link to={getLinkTo('')}>
+              <img src={logo} className="header__logo" />
+            </Link>
+            <Navigation />
+            <LangSwitch />
+          </div>
         </div>
-
+      </Headroom>
         {extendedHeader && (
           <Wrapper nowrap>
             <PageIntro />
