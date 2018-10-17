@@ -3,8 +3,8 @@ import { NamespacesConsumer } from 'react-i18next'
 import Wrapper from '../wrapper'
 import LocationCard from './location-card'
 import JoinCard from './join-card'
-import berlin from '../../static/Schonhauser.png'
-import amsterdam from '../../static/Wework.png'
+import berlin from '../../static/Map_Germany.png'
+import amsterdam from '../../static/Map_Netherlands.png'
 
 export default () => (
   <NamespacesConsumer ns={'about'}>
