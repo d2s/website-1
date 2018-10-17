@@ -5,8 +5,8 @@ _Angaben gemäß §5 TMG:_
 ##### Honeypot GmbH
 
 ###### Adresse:
-Schönhauser Allee 45<br />
-10435 Berlin, Deutschland<br />
+Schlesische Strasse 26<br />
+10997 Berlin, Deutschland<br />
 
 ###### Kontakt
 Telefon: +49 (0)176 471 708 19<br />
@@ -18,5 +18,5 @@ USt-ID: DE300856850
 
 Verantwortlich für den Inhalt nach §55 Abs. 2 RStV:
 Kaya Taner<br />
-Schönhauser Allee 45<br />
-10435 Berlin
+Schlesische Strasse 26<br />
+10997 Berlin

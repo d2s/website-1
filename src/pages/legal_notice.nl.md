@@ -6,8 +6,8 @@ _Informatie in lijn met artikel 5 TMG:_
 
 ###### Adres
 
-Schönhauser Allee 45<br />
-10435 BERLIJN, DUITSLAND<br />
+Schlesische Strasse 26<br />
+10997 BERLIJN, DUITSLAND<br />
 
 
 ###### Contact

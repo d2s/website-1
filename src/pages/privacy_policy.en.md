@@ -3,7 +3,7 @@
 
 The protection of your privacy is of particular importance to us.
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlin, Germany, e-mail:
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlin, Germany, e-mail:
 hello@honeypot.io (see imprint),hereinafter "Honeypot", as operator of the
 website "www.honeypot.io" is the controller for the use of the personal data of
 users of the website pursuant to Art. 4 (7) of the EU General Data Protection
@@ -435,8 +435,8 @@ We look forward to your contact in case you might have requests, questions, or
 suggestions relating to data privacy. Please direct written requests to:
 
 Honeypot GmbH<br />
-Schönhauser Allee 45<br /> 
-10435 Berlin, Germany<br />
+Schlesische Strasse 26<br /> 
+10997 Berlin, Germany<br />
 
 or
 

@@ -2,7 +2,7 @@
 
 De bescherming van uw privacy is bijzonder belangrijk voor ons. 
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlijn, Duitsland, e-mail:
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlijn, Duitsland, e-mail:
 hello@honeypot.io (zie afdruk), hierna "Honeypot", als beheerder van de website
 "www.honeypot.io" is de verwerkingsverantwoordelijke voor het gebruik van
 persoonlijke gegevens van gebruikers van de website overeenkomstig Art. 4 (7)
@@ -435,8 +435,8 @@ heeft met betrekking tot gegevensbescherming. U kunt uw schriftelijk verzoek
 richten aan:
 
 Honeypot GmbH<br />
-Schönhauser Allee 45<br /> 
-10435 Berlin, Germany<br />
+Schlesische Strasse 26<br /> 
+10997 Berlin, Germany<br />
 
 of
 

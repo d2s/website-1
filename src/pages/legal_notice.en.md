@@ -5,8 +5,8 @@ _Information in accordance with section 5 TMG:_
 ##### Honeypot GmbH
 
 ###### Address
-Schönhauser Allee 45<br />
-10435 Berlin, Germany<br />
+Schlesische Strasse 26<br />
+10997 Berlin, Germany<br />
 
 ###### Contact
 Phone: +49 (0)172 8463975<br />

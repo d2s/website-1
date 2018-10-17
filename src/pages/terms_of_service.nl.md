@@ -4,7 +4,7 @@
 
 ### Voor Talenten
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
 De Service verbindt bedrijven ( "Bedrijf” of "Bedrijven" ) en kandidaten ( "Talent" of "Talenten" ) met elkaar in een poging de juiste persoon te vinden voor de juiste baan. 
 Talenten zijn natuurlijke personen op zoek naar een nieuwe baan of freelance contracten via de Service.
 Bedrijven zijn natuurlijke personen of bedrijfsentiteiten op zoek naar nieuwe werknemers of opdrachtnemers via de Service. 
@@ -137,7 +137,7 @@ Bedrijven zijn natuurlijke personen of bedrijfsentiteiten op zoek naar nieuwe we
 
 ### Voor Bedrijven
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
 De Service verbindt bedrijven ( "Bedrijf” of "Bedrijven" ) en kandidaten ( "Talent" of "Talenten" ) met elkaar in een poging de juiste persoon te vinden voor de juiste baan. 
 Talenten zijn natuurlijke personen op zoek naar een nieuwe baan of freelance contracten via de Service.
 Bedrijven zijn natuurlijke personen of bedrijfsentiteiten op zoek naar nieuwe werknemers of opdrachtnemers via de Service. 

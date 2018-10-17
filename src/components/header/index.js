@@ -23,17 +23,17 @@ export default ({ smallerHeader }) => {
       <header
         className={`container-fluid header header--${!smallerHeader && page}`}
       >
-      <Headroom>
-        <div  className="container-fluid header__wrapper">
-          <div className="header__controls container">
-            <Link to={getLinkTo('')}>
-              <img src={logo} className="header__logo" />
-            </Link>
-            <Navigation />
-            <LangSwitch />
+        <Headroom>
+          <div className="container-fluid header__wrapper">
+            <div className="header__controls container">
+              <Link to={getLinkTo('')}>
+                <img src={logo} className="header__logo" />
+              </Link>
+              <Navigation />
+              <LangSwitch />
+            </div>
           </div>
-        </div>
-      </Headroom>
+        </Headroom>
         {extendedHeader && (
           <Wrapper nowrap>
             <PageIntro />

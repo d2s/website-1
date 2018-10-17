@@ -4,7 +4,7 @@
 
 ### Für Talente
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job-Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ). 
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job-Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ). 
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
 Talente sind natürliche Personen, die mit Hilfe des Services auf der Suche nach einem  festen Anstellungsverhältnis oder einer Tätigkeit als freier Mitarbeiter sind. 
 Unternehmen sind natürliche Personen oder Geschäftseinheiten, die durch den Service nach neuen Mitarbeitern oder Auftragsnehmern suchen. 
@@ -138,7 +138,7 @@ wie unten definiert – interessiert sind. Unternehmen können die Profile der T
 
 ### Für Unternehmen
 
-Honeypot GmbH, Schönhauser Allee 45, 10435 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ). 
+Honeypot GmbH, Schlesische Strasse 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ). 
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
 Talente sind natürliche Personen, die mit Hilfe des Services auf der Suche nach einem  festen Anstellungsverhältnis oder einer Tätigkeit als freier Mitarbeiter sind. 
 Unternehmen sind natürliche Personen oder Geschäftseinheiten, die durch den Service nach neuen Mitarbeitern oder Auftragsnehmern suchen. 
