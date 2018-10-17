@@ -24,8 +24,14 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format"
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "*.{js,json,scss,md}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "keywords": [
     "gatsby"
@@ -44,6 +50,7 @@
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.11.1",
     "husky": "^1.1.2",
+    "lint-staged": "^7.3.0",
     "prettier": "^1.14.3"
   },
   "repository": {

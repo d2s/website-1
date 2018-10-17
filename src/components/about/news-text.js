@@ -11,7 +11,6 @@ import vb from '../../static/Logo_VB.png'
 import bp from '../../static/Business_Punk_Logo.png'
 import forb from '../../static/Logo_Forbes.png'
 
-
 export default () => (
   <NamespacesConsumer ns={'about'}>
     {t => (
