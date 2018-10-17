@@ -1,6 +1,12 @@
 .c-community-wall {
   display: flex;
   &__intro {
-    padding: 20px;
+    padding: 40px;
+    .text-box__headline {
+      width: 50%;
+    }
+    .text-box__text {
+      width: 88%;
+    }
   }
 }
