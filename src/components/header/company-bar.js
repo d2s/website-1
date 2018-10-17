@@ -7,21 +7,86 @@ import onefootball from '../../static/logos/Bitmap.png'
 import travis from '../../static/logos/travisCI.png'
 import xing from '../../static/logos/Xing.png'
 import zenmate from '../../static/logos/Zenmate.png'
+import adyen from '../../static/logos/Adyen_Logo.png'
+import hey from '../../static/logos/Hey_Car_Logo.png'
+import dept from '../../static/logos/Dept_Logo.png'
+import pro from '../../static/logos/ProSieben_Logo.png'
+import pay from '../../static/logos/Payconiq_Logo.png'
+import uw from '../../static/logos/United_Wardrobe_Logo.png'
+import fp from '../../static/logos/Foodpanda_Logo.png'
+import app from '../../static/logos/AppLift_Logo.png'
+import imp from '../../static/logos/Impraise_Logo.png'
+import pub from '../../static/logos/PubNative_Logo.png'
+import exact from '../../static/logos/ExactLive_Logo.png'
+import cata from '../../static/logos/CataWiki_Logo.png'
+import ev from '../../static/logos/Engels_Voelkers_Logo.png'
+import threed from '../../static/logos/3d-hubs.png'
+import Slider from 'react-slick'
+import 'slick-carousel/slick/slick.scss'
 
 const component = 'company-bar'
-const companies = [artboard, helpling, n26, onefootball, travis, xing, zenmate]
+const companies = [
+  artboard,
+  helpling,
+  n26,
+  onefootball,
+  travis,
+  xing,
+  zenmate,
+  adyen,
+  hey,
+  dept,
+  pro,
+  pay,
+  uw,
+  fp,
+  app,
+  imp,
+  pub,
+  exact,
+  cata,
+  ev,
+]
+const settings = {
+  slidesToShow: 6,
+  slidesToScroll: 1,
+  variableWidth: true,
+  autoplay: true,
+  autoplaySpeed: 1500,
+  arrows: false,
+  dots: false,
+  pauseOnHover: false,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 4,
+      },
+    },
+    {
+      breakpoint: 520,
+      settings: {
+        slidesToShow: 3,
+      },
+    },
+  ],
+}
 export default class CompanyBar extends Component {
   render() {
     return (
       <NamespacesConsumer ns={'index'}>
         {t => (
           <div className="company-bar">
-            <span className="company-bar__tagline">
+            <div className="company-bar__tagline">
               {t(`${component}.tagline`)}
-            </span>
-            {companies.map((c, i) => (
-              <img key={i.toString()} src={c} className="company-bar__logo" />
-            ))}
+            </div>
+            <Slider {...settings}>
+              {companies.map((c, i) => (
+                <div key={i}>
+                  <img src={c} className="company-bar__logo" />
+                </div>
+              ))}
+            </Slider>
           </div>
         )}
       </NamespacesConsumer>
