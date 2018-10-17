@@ -10,6 +10,18 @@ import hun from '../../static/Hundert_Logo.jpg'
 import vb from '../../static/Logo_VB.png'
 import bp from '../../static/Business_Punk_Logo.png'
 import forb from '../../static/Logo_Forbes.png'
+import {
+  left,
+  right,
+  forbes,
+  TechChrunch,
+  Gruenderszene,
+  Entwickler,
+  TheHundert,
+  VentureBeat,
+  BusinessPunk,
+  WirtschaftsWoche,
+} from './news-links.json'
 
 export default () => (
   <NamespacesConsumer ns={'about'}>
@@ -19,22 +31,44 @@ export default () => (
         <div className="text-box__wrapper">
           <span className="c-news-text__wrapper">
             <p className="text-box__text">{t('news.left.text')}</p>
-            <a className="text-box__link" href={t('news.left.link')}>
+            <a
+              className="text-box__link"
+              target="_blank"
+              rel="noopener
+              noreferrer"
+              href={left}
+            >
               {t('news.left.show')}
               <img className="text-box__arrow" src={arrow} />
             </a>
           </span>
           <span className="c-news-text__wrapper">
             <p className="text-box__text">{t('news.right.text')}</p>
-            <a className="text-box__link" href={t('news.right.link')}>
+            <a
+              className="text-box__link"
+              href={right}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               {t('news.right.show')}
               <img className="text-box__arrow" src={arrow} />
             </a>
           </span>
         </div>
         <div className="c-news-text__references">
-          {[forb, tc, gs, ent, ww, hun, bp, vb].map((image, i) => (
-            <img className="text-box__image" key={i.toString()} src={image} />
+          {[
+            [forb, forbes],
+            [tc, TechChrunch],
+            [gs, Gruenderszene],
+            [ent, Entwickler],
+            [ww, WirtschaftsWoche],
+            [hun, TheHundert],
+            [bp, BusinessPunk],
+            [vb, VentureBeat],
+          ].map(([image, link], i) => (
+            <a href={link} target="_blank" rel="noopener noreferrer" key={i}>
+              <img className="text-box__image" key={i.toString()} src={image} />
+            </a>
           ))}
         </div>
       </div>
