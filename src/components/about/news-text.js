@@ -67,7 +67,7 @@ export default () => (
             [vb, VentureBeat],
           ].map(([image, link], i) => (
             <a href={link} target="_blank" rel="noopener noreferrer" key={i}>
-              <img className="text-box__image" key={i.toString()} src={image} />
+              <img className="text-box__image" src={image} />
             </a>
           ))}
         </div>
