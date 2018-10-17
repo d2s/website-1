@@ -63,10 +63,7 @@ export default () => {
             </h5>
             <ul className="footer__link-list">
               <li className="footer__link-item footer__link-item--careers">
-                <Link
-                  className="footer__link"
-                  to={`${prefix}about#press`}
-                >
+                <Link className="footer__link" to={`${prefix}about#press`}>
                   {t('press')}
                 </Link>
               </li>
@@ -121,6 +118,14 @@ export default () => {
                   href={'https://hive.honeypot.io/hive-conference-2018/'}
                 >
                   {t('hive-con')}
+                </a>
+              </li>
+              <li className="footer__link-item">
+                <a
+                  className="footer__link"
+                  href={'https://www.honeypot.io/women-in-tech-2018/'}
+                >
+                  {t('Woman in Tech')}
                 </a>
               </li>
             </ul>
