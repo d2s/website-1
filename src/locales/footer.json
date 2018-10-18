@@ -6,7 +6,8 @@
     "press": "Presse",
     "pricing": "Preismodelle",
     "privacy_policy": "Datenschutzrichtlinien",
-    "terms-of-service": "AGB"
+    "terms-of-service": "AGB",
+    "social": "Social"
   },
   "en": {
     "careers": "Careers",
@@ -15,7 +16,8 @@
     "press": "Press",
     "pricing": "Pricing",
     "privacy_policy": "Privacy Policy",
-    "terms-of-service": "Terms of Service"
+    "terms-of-service": "Terms of Service",
+    "social": "We're social, too!"
   },
   "nl": {
     "careers": "Careers",
@@ -24,6 +26,7 @@
     "press": "Press",
     "pricing": "Pricing",
     "privacy_policy": "Privacybeleid",
-    "terms-of-service": "Gebruikersvoorwaarden"
+    "terms-of-service": "Gebruikersvoorwaarden",
+    "social": "Social"
   }
 }

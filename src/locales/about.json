@@ -83,7 +83,7 @@
       },
       "2": {
         "city": "Amsterdam, Netherlands",
-        "street": "Singel 542, 1017",
+        "street": "TQ, Singel 542, 1017 AZ",
         "link": ""
       }
     },
@@ -170,13 +170,13 @@
       "tagline": "",
       "show": "Show location",
       "1": {
-        "city": "Berlin, Germany",
+        "city": "Berlin, Deutschland",
         "street": "Schlesische Strasse 26, 10997",
         "link": ""
       },
       "2": {
-        "city": "Amsterdam, Netherlands",
-        "street": "Singel 542, 1017",
+        "city": "Amsterdam, Niederlande",
+        "street": "TQ, Singel 542, 1017 AZ",
         "link": ""
       }
     },
@@ -189,7 +189,7 @@
     "story": {
       "left": {
         "headline": "Ons verhaal",
-        "text": "Opgericht in oktober 2015, Honeypot is Europa's Tech Focused Job Platform. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, Data Scientists, QA, Product Owners and CTOs bij het vinden van hun perfecte baan."
+        "text": "Honeypot is Europa's Tech Focused Job Platform, opgericht in oktober 2015. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, Data Scientists, QA, Product Owners and CTOs bij het vinden van hun perfecte baan."
       },
       "right": {
         "headline": "Wat is Honeypot?",
@@ -225,11 +225,11 @@
       },
       "2": {
         "name": "Konstantin Haase",
-        "text": "Konstantin is een softwareontwikkelaar, ondernemer, auteur, spreker en een van de drukste mensen in de open source community. Hij is mede-oprichter van Travis CI, een continuous integration-as-service-platform, gebruikt door GitHub, Twitter, Facebook en vele anderen. Hij levert een actieve bijdrage aan verschillende open source-projecten, zoals Sinatra, Rubinius, Rack en nog veel meer."
+        "text": "Konstantin is een softwareontwikkelaar, ondernemer, auteur, spreker en één van de drukste mensen in de open source community. Hij is mede-oprichter van Travis CI, een continuous integration-as-service-platform, gebruikt door GitHub, Twitter, Facebook en vele anderen. Hij levert een actieve bijdrage aan verschillende open source-projecten, zoals Sinatra, Rubinius, Rack en nog veel meer."
       },
       "3": {
         "name": "Timo Rößner",
-        "text": "Timo is Engineering Manager bij ResearchGate, nadat hij gedurende zijn carrière verschillende lead developer posities bekleedde.  Timo levert een actieve bijdrage aan open-source software en is de huidige beheerder van 'reek', een code quality analyser die populair is in de Ruby-community. Hij is een fervent evangelist van nieuwe technologieën en heeft ruime ervaring met het ontwikkelen en promoten van teamcultuur binnen organisaties."
+        "text": "Timo is Engineering Manager bij ResearchGate, nadat hij gedurende zijn carrière verschillende lead developer posities bekleedde.  Timo draagt actief bij aan open-source software en is de huidige beheerder van 'reek', een code quality analyser die populair is in de Ruby-community. Hij is een fervent evangelist van nieuwe technologieën en heeft ruime ervaring met het ontwikkelen en promoten van teamcultuur binnen organisaties."
       },
       "4": {
         "name": "Torsten Curdt",
@@ -269,7 +269,7 @@
       },
       "2": {
         "city": "Amsterdam, Nederland",
-        "street": "Singel 542, 1017",
+        "street": "TQ, Singel 542, 1017 AZ",
         "link": ""
       }
     },

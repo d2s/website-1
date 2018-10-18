@@ -131,7 +131,7 @@ export default () => {
             </ul>
           </div>
           <div className="footer__column">
-            <h5 className="footer__headline">{t("We're Social too!")}</h5>
+            <h5 className="footer__headline">{t('social')}</h5>
             <ul className="footer__link-list">
               <li className="footer__link-item">
                 <img className="footer__icon" src={twitter} />
