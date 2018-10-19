@@ -13,7 +13,7 @@ import twitter from '../static/icons/Twitter.png'
 import youtube from '../static/icons/youtube.png'
 import mail from '../static/icons/mail.svg'
 
-const column = ['for-talents', 'for-employers', 'community']
+const column = ['index', 'tech-hiring', 'community']
 const year = new Date().getFullYear()
 // currently chosen language
 
@@ -36,14 +36,14 @@ export default () => {
           <div className="footer__column">
             <h5 className="footer__headline">
               <Link className="footer__link" to={prefix}>
-                {t('header:for-talents')}
+                {t('header:index')}
               </Link>
             </h5>
           </div>
           <div className="footer__column">
             <h5 className="footer__headline">
               <Link className="footer__link" to={`${prefix}tech-hiring`}>
-                {t('header:for-employers')}
+                {t('header:tech-hiring')}
               </Link>
             </h5>
             <ul className="footer__link-list">

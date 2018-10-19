@@ -2,18 +2,18 @@ import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
 import extlinks from '../sign-up-links.json'
-import { getLinkTo } from '../../utils/page'
+import getCurrentPage, { getLinkTo } from '../../utils/page'
 
-//const links = ['for-talents', 'for-employers', 'community', 'login']
+//const links = ['index', 'tech-hiring', 'community', 'login']
 const links = [
-  { name: 'for-talents', page: '' },
-  { name: 'for-employers', page: 'tech-hiring' },
+  { name: 'index', page: '' },
+  { name: 'tech-hiring', page: 'tech-hiring' },
   { name: 'community', page: 'community' },
   { name: 'about-us', page: 'about' },
-  { name: 'login', page: 'pages/login' },
 ]
 
 export default () => {
+  console.log(getCurrentPage())
   return (
     <NamespacesConsumer ns={['header']}>
       {t => (
@@ -21,9 +21,24 @@ export default () => {
           <ul className="header__link-list">
             {links.map(({ name, page }) => (
               <li key={name} className="header__link-item">
-                <Link to={getLinkTo(page)}>{t(name)}</Link>
+                <Link
+                  className={`text-link ${
+                    page === getCurrentPage() ? 'header__link-item--active' : ''
+                  }`}
+                  to={getLinkTo(page)}
+                >
+                  {t(name)}
+                </Link>
               </li>
             ))}
+            <li className="header__link-item">
+              <a
+                className="text-link"
+                href="https://app.honeypot.io/users/login"
+              >
+                {t('login')}
+              </a>
+            </li>
             <li className="header__link-item">
               <a
                 className="button button--primary header__link-item--button"

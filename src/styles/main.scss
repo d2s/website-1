@@ -17,8 +17,8 @@
 @import './settings/proxima-nova';
 
 // Components
-@import './components/index';
 @import './utils';
+@import './components/index';
 
 * {
   box-sizing: border-box;
@@ -35,7 +35,9 @@ body {
   color: $text-color;
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
   color: $black-color;
 }
 
@@ -57,16 +59,7 @@ h4 {
   font-size: $fs-2;
 }
 
-a {
-  color: $text-color;
-  text-decoration: none;
-  &:hover {
-    text-decoration: underline;
-    color: inherit;
-  }
-}
-
 .c-about-header {
   width: 210px;
-  border-bottom: 3px dashed #FFD33A;
+  border-bottom: 3px dashed #ffd33a;
 }

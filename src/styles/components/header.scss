@@ -2,11 +2,9 @@
   background-color: $white-color;
 }
 .headroom--unpinned {
-      transition: none !important;
-
+  transition: none !important;
 }
 .header {
-
   &--index {
     height: 600px;
     background: no-repeat top right url('../static/index.header.svg');
@@ -49,7 +47,7 @@
     font-weight: 600;
 
     &--active {
-      color: $almost-black-color;
+      color: $gray-5 !important;
     }
 
     &--button {
