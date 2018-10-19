@@ -17,7 +17,6 @@
         "headline": "Hive Conference",
         "text": "Hive is a conference for HR Leaders, Technical Hiring Managers, CTOs and VPs of Engineering focused on all aspects of building and scaling great engineering teams.",
         "link": "https://hive.honeypot.io/hive-conference-2018/"
-
       },
       "3": {
         "headline": "Tech Talks & CTO Club",
@@ -37,7 +36,6 @@
         "headline": "HR in Tech",
         "text": "Is hiring tech talent part of your everyday job? If so, our pan-European HR in Tech event series ought to be right up your alley.  Whether you live in Germany or the Netherlands, we’ve got you covered.",
         "link": "https://www.eventbrite.ie/o/honeypotio-8532947424"
-
       }
     },
     "documentaries": {
@@ -65,6 +63,10 @@
         "name": "Github",
         "text": "Wanna chip in? Head over to our Github repo to contribute!"
       }
+    },
+    "articles": {
+      "headline": "Stay Informed about Your Tech Career",
+      "tagline": "We share insights and data about salaries, emerging tech trends and the most exciting tech companies in Europe."
     }
   },
   "de": {
@@ -131,6 +133,10 @@
         "name": "Github",
         "text": "Willst Du beitragen? Hier geht's zu unseren Github repos!"
       }
+    },
+    "articles": {
+      "headline": "Erhalte Infos für Deine Tech Karriere",
+      "tagline": "Wir teilen Einblicke und Daten über Gehälter, aufkommende Technologie Trends und die spannendsten Tech Firmen in Europa."
     }
   },
   "nl": {
@@ -197,6 +203,10 @@
         "name": "Github",
         "text": "Meedoen? Ga naar onze Github repo om een bijdrage te leveren!"
       }
+    },
+    "articles": {
+      "headline": "Blijf up-to-date over je tech-carrière",
+      "tagline": "We delen inzichten en data over salarissen, opkomende tech-trends en de gaafste tech-bedrijven van Europa."
     }
   }
 }

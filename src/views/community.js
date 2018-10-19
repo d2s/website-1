@@ -6,6 +6,7 @@ import CaptionBar from '../components/caption'
 import OpensourceWall from '../components/community/opensource-wall'
 import DocumentaryBox from '../components/community/documentary-box'
 import CommunityHeader from '../components/community/community-header.js'
+import ArticlesWall from '../components/community/articles-wall'
 
 export default () => (
   <Layout smallerHeader>
@@ -18,5 +19,7 @@ export default () => (
     <DocumentaryBox />
 
     <OpensourceWall />
+
+    <ArticlesWall />
   </Layout>
 )

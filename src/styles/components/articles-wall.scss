@@ -1,0 +1,58 @@
+.c-articles-wall {
+  display: flex;
+  justify-content: space-evenly;
+  width: 750px;
+  margin: 0 auto;
+  a {
+    font-weight: 600;
+    color: $blue-2;
+  }
+  &__left {
+    position: relative;
+    height: 320px;
+    width: 465px;
+    background: no-repeat center url('../static/train_resized.png');
+  }
+  &__right {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+  &__headline {
+    font-weight: 600;
+  }
+
+  &__top {
+    height: 150px;
+    width: 240px;
+    background-color: $blue-3;
+    > h4 {
+      color: $blue-2;
+    }
+  }
+
+  &__text {
+    bottom: 20px;
+    left: -30px;
+    position: absolute;
+    width: 60%;
+    background-color: $white-color;
+    box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  &__bottom {
+    height: 150px;
+    width: 240px;
+    background: no-repeat top center url('../static/katie_resized.png');
+    > h4,
+    a {
+      color: $white-color;
+    }
+  }
+
+  &__tile {
+    padding: 20px 15px;
+    border-radius: 4px;
+  }
+}
