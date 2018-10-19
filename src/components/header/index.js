@@ -20,10 +20,11 @@ export default ({ smallerHeader }) => {
 
   return (
     <div>
+      <CookieBanner />
       <header
         className={`container-fluid header header--${!smallerHeader && page}`}
       >
-        <Headroom>
+        <Headroom pinStart={80}>
           <div className="container-fluid header__wrapper">
             <div className="header__controls container">
               <Link to={getLinkTo('')}>
