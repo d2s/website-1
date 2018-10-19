@@ -2,6 +2,7 @@ import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
 import arrow from '../static/arrow_blue.svg'
+import links from './sign-up-links'
 
 export default ({ page, topic, sign, small }) => {
   const headline = `text-box__headline text-box__headline--${
@@ -16,7 +17,7 @@ export default ({ page, topic, sign, small }) => {
           {sign && (
             <a
               className="text-link text-link--blue text-link--arrow"
-              href="http://www.honeypot.io/users/sign_up"
+              href={links[page]}
             >
               {t('sign-up')}
             </a>
