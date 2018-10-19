@@ -15,9 +15,12 @@ export default ({ headline, text, links, small, size }) => {
       {links &&
         links.length > 0 &&
         links.map(([link, text], i) => (
-          <a key={i} className="text-box__link" href={link}>
+          <a
+            key={i}
+            className="text-link text-link--blue text-link--arrow text-box__link"
+            href={link}
+          >
             {text}
-            <img className="text-box__arrow" src={arrow} />
           </a>
         ))}
     </div>

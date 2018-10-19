@@ -1,6 +1,7 @@
 import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
+import extlinks from '../sign-up-links.json'
 import { getLinkTo } from '../../utils/page'
 
 //const links = ['for-talents', 'for-employers', 'community', 'login']
@@ -24,12 +25,12 @@ export default () => {
               </li>
             ))}
             <li className="header__link-item">
-              <Link
+              <a
                 className="button button--primary header__link-item--button"
-                to={'pages/sign_up'}
+                href={extlinks.index}
               >
                 {t('sign-up')}
-              </Link>
+              </a>
             </li>
           </ul>
         </nav>

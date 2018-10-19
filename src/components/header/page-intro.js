@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import getCurrentPage, { getLinkTo } from '../../utils/page'
 import { NamespacesConsumer } from 'react-i18next'
+import links from '../sign-up-links.json'
 import Link from 'gatsby-link'
 
 const component = 'page-intro'
@@ -22,12 +23,9 @@ export default class PageIntro extends Component {
             </h1>
             <p className="page-intro__tagline">{t(`${component}.tagline`)}</p>
             <span className="page-intro__button-bar">
-              <Link
-                to={getLinkTo('sign_up')}
-                className={`button button--${color}`}
-              >
+              <a href={links[page]} className={`button button--${color}`}>
                 {t(`${component}.button1`)}
-              </Link>
+              </a>
               <Link to={getLinkTo(target)} className="button button--link">
                 {t(`${component}.button2`)}
               </Link>

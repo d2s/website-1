@@ -15,8 +15,11 @@ export default () => (
           <h4 className="c-articles-wall__headline">
             Tech Salaries in Germany
           </h4>
-          <a href={links['tech-salaries-germany']}>
-            Show <img src={arrow} />
+          <a
+            className="text-link text-link--blue text-link--arrow"
+            href={links['tech-salaries-germany']}
+          >
+            Show
           </a>
         </span>
       </div>
@@ -25,8 +28,11 @@ export default () => (
           <h4 className="c-articles-wall__headline">
             Tech Salaries in Amsterdam
           </h4>
-          <a href={links['tech-salaries-amsterdam']}>
-            Show <img src={arrow} />
+          <a
+            className="text-link text-link--blue text-link--arrow"
+            href={links['tech-salaries-amsterdam']}
+          >
+            Show
           </a>
         </div>
         <div className="c-articles-wall__bottom c-articles-wall__tile">

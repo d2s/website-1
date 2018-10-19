@@ -14,10 +14,12 @@ export default ({ page, topic, sign, small }) => {
           <h2 className={headline}>{t(`${topic}.headline`)}</h2>
           <p className="text-box__text">{t(`${topic}.text`)}</p>
           {sign && (
-            <Link className="text-box__link" to={'sign_up'}>
+            <a
+              className="text-link text-link--blue text-link--arrow"
+              href="http://www.honeypot.io/users/sign_up"
+            >
               {t('sign-up')}
-              <img className="text-box__arrow" src={arrow} />
-            </Link>
+            </a>
           )}
         </div>
       )}
