@@ -10,6 +10,7 @@ export default () => (
         <EmployeeCard
           key={e.last_name}
           image={e.image}
+          hover={e.image_}
           name={`${e.name} ${e.last_name}`}
           position={e.title}
         />
