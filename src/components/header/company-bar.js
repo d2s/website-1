@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { NamespacesConsumer } from 'react-i18next'
+import { getLang } from '../../utils/i18n'
 import artboard from '../../static/logos/Artboard.png'
 import helpling from '../../static/logos/Helpling.png'
 import n26 from '../../static/logos/N26.png'
@@ -71,15 +72,18 @@ const settings = {
     },
   ],
 }
-export default class CompanyBar extends Component {
-  render() {
-    return (
-      <NamespacesConsumer ns={'index'}>
-        {t => (
-          <div className="company-bar">
-            <div className="company-bar__tagline">
-              {t(`${component}.tagline`)}
-            </div>
+const companies_index = [artboard, travis, cata, adyen, n26, pro, onefootball]
+const companies_nl = [cata, adyen, threed, travis, n26, artboard, uw]
+export default ({ page }) => {
+  const index_comp = getLang() === 'nl' ? companies_nl : companies_index
+  return (
+    <NamespacesConsumer ns={'index'}>
+      {t => (
+        <div className="company-bar">
+          <div className="company-bar__tagline">
+            {t(`${component}.tagline`)}
+          </div>
+          {(page === 'tech-hiring' && (
             <Slider {...settings}>
               {companies.map((c, i) => (
                 <div key={i}>
@@ -87,9 +91,17 @@ export default class CompanyBar extends Component {
                 </div>
               ))}
             </Slider>
-          </div>
-        )}
-      </NamespacesConsumer>
-    )
-  }
+          )) || (
+            <div className="company-bar__logos">
+              {index_comp.map((c, i) => (
+                <div key={i}>
+                  <img src={c} className="company-bar__logo" />
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+    </NamespacesConsumer>
+  )
 }

@@ -43,7 +43,7 @@ export default ({ smallerHeader }) => {
       </header>
       {extendedHeader && (
         <Wrapper nowrap>
-          <CompanyBar />
+          <CompanyBar page={page} />
         </Wrapper>
       )}
     </div>
