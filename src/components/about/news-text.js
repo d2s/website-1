@@ -22,6 +22,7 @@ import {
   BusinessPunk,
   WirtschaftsWoche,
 } from './news-links.json'
+import { withPrefix } from 'gatsby'
 
 export default () => (
   <NamespacesConsumer ns={'about'}>
@@ -71,6 +72,13 @@ export default () => (
             </a>
           ))}
         </div>
+        <a
+          className="text-box__link"
+          download
+          href={withPrefix('/honeypot_logo.png')}
+        >
+          Download our Logo
+        </a>
       </div>
     )}
   </NamespacesConsumer>
