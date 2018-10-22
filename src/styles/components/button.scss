@@ -3,7 +3,7 @@
   border-radius: 4px;
   font-weight: 600;
   padding: 12px 20px;
-  &:hover{
+  &:hover {
     text-decoration: none;
   }
 
@@ -15,11 +15,17 @@
   &--yellow {
     background-color: $yellow-1;
     color: $yellow-2;
+    &:hover {
+      color: $yellow-2;
+    }
   }
 
   &--blue {
     background-color: $blue-3;
     color: $blue-2;
+    &:hover {
+      color: $blue-2;
+    }
   }
 
   &--primary {
