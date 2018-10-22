@@ -3,21 +3,27 @@
   height: 80px;
   background-color: $blue-2;
   color: $white-color;
+  display: flex;
+  align-items: stretch;
+
   &__text {
     max-width: 620px;
   }
+
   &__wrapper {
     justify-content: space-around;
     align-items: center;
     padding: 20px 0;
     display: flex;
   }
+
   &__accept {
     margin-right: 20px;
     &:hover {
       color: $blue-2;
     }
   }
+
   &__info {
     font-weight: 600;
     color: $white-color;
