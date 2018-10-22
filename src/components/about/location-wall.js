@@ -5,20 +5,23 @@ import LocationCard from './location-card'
 import JoinCard from './join-card'
 import berlin from '../../static/Map_Germany.png'
 import amsterdam from '../../static/Map_Netherlands.png'
+import links from './location-links.json'
+const images = { berlin, amsterdam }
+console.log(links)
 
 export default () => (
   <NamespacesConsumer ns={'about'}>
     {t => (
       <Wrapper nowrap>
         <div className="c-location-wall">
-          {[berlin, amsterdam].map((image, i) => (
+          {['berlin', 'amsterdam'].map((name, i) => (
             <LocationCard
               key={++i}
-              map={image}
+              map={images[name]}
               show={t(`where.show`)}
               city={t(`where.${i}.city`)}
               address={t(`where.${i}.street`)}
-              link={t(`where.${i}.link`)}
+              link={links[name]}
             />
           ))}
           <JoinCard />
