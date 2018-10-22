@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import { getLang } from '../../utils/i18n'
-import artboard from '../../static/logos/Artboard.png'
+import zalando from '../../static/logos/Zalando_Logo.png'
 import helpling from '../../static/logos/Helpling.png'
-import n26 from '../../static/logos/N26.png'
-import onefootball from '../../static/logos/Bitmap.png'
-import travis from '../../static/logos/travisCI.png'
+import n26 from '../../static/logos/N26_Logo.png'
+import onefootball from '../../static/logos/Onefootball_Logo.png'
+import travis from '../../static/logos/TravisCI_Logo.png'
 import xing from '../../static/logos/Xing.png'
-import zenmate from '../../static/logos/Zenmate.png'
+import zenmate from '../../static/logos/Zenmate_Logo.png'
 import adyen from '../../static/logos/Adyen_Logo.png'
 import hey from '../../static/logos/Hey_Car_Logo.png'
 import dept from '../../static/logos/Dept_Logo.png'
@@ -21,13 +21,13 @@ import pub from '../../static/logos/PubNative_Logo.png'
 import exact from '../../static/logos/ExactLive_Logo.png'
 import cata from '../../static/logos/CataWiki_Logo.png'
 import ev from '../../static/logos/Engels_Voelkers_Logo.png'
-import threed from '../../static/logos/3d-hubs.png'
+import threed from '../../static/logos/3DHubs_Logo.png'
 import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.scss'
 
 const component = 'company-bar'
 const companies = [
-  artboard,
+  zalando,
   helpling,
   n26,
   onefootball,
@@ -72,8 +72,8 @@ const settings = {
     },
   ],
 }
-const companies_index = [artboard, travis, cata, adyen, n26, pro, onefootball]
-const companies_nl = [cata, adyen, threed, travis, n26, artboard, uw]
+const companies_index = [zalando, travis, cata, adyen, n26, pro, onefootball]
+const companies_nl = [cata, adyen, threed, travis, n26, zalando, uw]
 export default ({ page }) => {
   const index_comp = getLang() === 'nl' ? companies_nl : companies_index
   return (
