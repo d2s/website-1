@@ -28,8 +28,10 @@ export default ({ index: [nr, image], page, left, right }) => {
             <div className="testimonial__person">
               <img className="testimonial__avatar" src={image} />
               <div className="testimonial__description">
-                <div className="testimonial__name">
-                  <p>{t(`testimonial.${nr}.name`)}</p>
+                <div>
+                  <p className="testimonial__name">
+                    {t(`testimonial.${nr}.name`)}
+                  </p>
                 </div>
                 <div className="testimonial__position">
                   <p dangerouslySetInnerHTML={injectHTML(t, nr)} />

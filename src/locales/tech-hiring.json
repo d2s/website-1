@@ -29,7 +29,7 @@
     "employer": {
       "1": {
         "headline": "Innovative Recruitment of Tech Talent",
-        "text": "The workplace is changing. Honeypot focuses on candidate-led recruitment."
+        "text": "The workplace is changing. Honeypot focuses on \n candidate-led recruitment."
       },
       "2": {
         "headline": "Tech Recruitment Education",
@@ -37,7 +37,7 @@
       },
       "3": {
         "headline": "Build your Employer Brand",
-        "text": "Find candidates when they want to be found! No more brand-damaging direct sourcing."
+        "text": "Find candidates when they want to be found! No more \n brand-damaging direct sourcing."
       }
     },
     "payment-options": {
@@ -95,7 +95,7 @@
         "name": "Dineke Mulder",
         "position": "Global Recruiter \n Ayden",
         "text": "The platform is well designed and easy to use. We've hired great frontend and backend developers through Honeypot!"
-      }, 
+      },
       "2": {
         "name": "Selin Songur",
         "position": "Tech Recruiting \n SoundCloud",
@@ -199,13 +199,13 @@
         "name": "Dineke Mulder",
         "position": "Global Recruiter \n Ayden",
         "text": "Die Plattform ist toll gestaltet und einfach zu benutzen. Wir haben über Honeypot großartige Frontend- und Backend-Entwickler eingestellt!"
-      }, 
+      },
       "2": {
         "name": "Selin Songur",
         "position": "Tech Recruiting \n SoundCloud",
         "text": "Wir lieben Honeypot, weil alles an einem Ort und das Team hinter den Kulissen großartig ist! Vielen Dank, dass ihr eine Plattform geschaffen habt, die so einfach zu benutzen ist und die uns hilft fantastische Entwickler einzustellen."
       }
-    } 
+    }
   },
   "nl": {
     "page-intro": {
@@ -303,12 +303,12 @@
         "name": "Dineke Mulder",
         "position": "Global Recruiter \n Ayden",
         "text": "Het platform is goed ontworpen en eenvoudig in gebruik. We hebben geweldige front-end en back-end developers gevonden via Honeypot!"
-      }, 
+      },
       "2": {
         "name": "Selin Songur",
         "position": "Tech Recruiting \n SoundCloud",
         "text": "We vinden Honeypot echt geweldig omdat ze alles op één plek bij elkaar hebben gebracht en het team is ook echt top! Hartelijk dank dat jullie een platform gemaakt hebben dat zo eenvoudig werkt en voor jullie hulp bij het vinden van een kick-ass developer"
       }
-    } 
+    }
   }
 }

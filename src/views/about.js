@@ -42,7 +42,7 @@ export default () => (
 
     <AdvisorsWall />
 
-    <TextImageWrapper img={success} imageRight>
+    <TextImageWrapper rightImage img={success}>
       <NewsText />
     </TextImageWrapper>
 

@@ -1,6 +1,6 @@
 {
   "de": {
-    "about-us": "Über uns",
+    "about": "Über uns",
     "community": "Community",
     "tech-hiring": "Für Arbeitgeber",
     "index": "Für Entwickler",
@@ -8,7 +8,7 @@
     "sign-up": "Registrieren"
   },
   "en": {
-    "about-us": "About Us",
+    "about": "About Us",
     "community": "Community",
     "tech-hiring": "For Employers",
     "index": "For Talents",
@@ -16,7 +16,7 @@
     "sign-up": "Sign Up"
   },
   "nl": {
-    "about-us": "Over Ons",
+    "about": "Over Ons",
     "community": "Community",
     "tech-hiring": "Voor Bedrijven",
     "index": "Voor Talenten",

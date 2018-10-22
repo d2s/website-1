@@ -16,6 +16,7 @@
 
   &__name {
     font-weight: 600;
+    margin-bottom: 0;
   }
 
   &__person {
@@ -40,13 +41,13 @@
   height: 100%;
   text-align: center;
   border-radius: 8px;
-  box-shadow: 0 2px 20px 0 rgba(0,0,0,0.06);
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.06);
   padding: 0 23px 23px 23px;
 
   &__avatar {
     border-radius: 50%;
     border: 8px solid $white-color;
-    box-shadow: 0 2px 13px 0 rgba(0,0,0,0.06);
+    box-shadow: 0 2px 13px 0 rgba(0, 0, 0, 0.06);
     margin: 0 auto;
     margin-top: -35px;
     width: 70px;
@@ -68,7 +69,8 @@
   width: 820px;
   margin: 0 auto;
 
-  &__headline, &__tagline {
+  &__headline,
+  &__tagline {
     text-align: center;
   }
 

@@ -9,11 +9,10 @@ const links = [
   { name: 'index', page: '' },
   { name: 'tech-hiring', page: 'tech-hiring' },
   { name: 'community', page: 'community' },
-  { name: 'about-us', page: 'about' },
+  { name: 'about', page: 'about' },
 ]
 
 export default () => {
-  console.log(getCurrentPage())
   return (
     <NamespacesConsumer ns={['header']}>
       {t => (
@@ -23,7 +22,7 @@ export default () => {
               <li key={name} className="header__link-item">
                 <Link
                   className={`text-link ${
-                    page === getCurrentPage() ? 'header__link-item--active' : ''
+                    name === getCurrentPage() ? 'header__link-item--active' : ''
                   }`}
                   to={getLinkTo(page)}
                 >

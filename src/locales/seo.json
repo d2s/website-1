@@ -16,7 +16,7 @@
       "og-image": "",
       "og-image-alt": "$t(title)"
     },
-    "about-us": {
+    "about": {
       "title": "Über uns - $t(general:company-name) | $t(general:de.tagline2)",
       "description": "Honeypot ist Europas tech-fokussierte Job Plattform für Softwareentwickler, DevOps, Data Scientists, Product Owner, QA and Engineering Leader. Lerne mehr über Honeypot, unsere Mission & unser Team.",
       "og-title": "$t(title)",
@@ -58,7 +58,7 @@
       "og-image": "",
       "og-image-alt": "$t(title)"
     },
-    "about-us": {
+    "about": {
       "title": "About Us - $t(general:company-name) | $t(general:en.tagline2)",
       "description": "Honeypot is Europe's tech job platform for Software Developers, DevOps, Data Scientists, Product Owners, QA and Engineering Leaders. Find out more about Honeypot, our mission & our team.",
       "og-title": "$t(title)",
@@ -100,7 +100,7 @@
       "og-image": "",
       "og-image-alt": "$t(title)"
     },
-    "about-us": {
+    "about": {
       "title": "Over ons - $t(general:company-name) | $t(general:nl.tagline)",
       "description": "Honeypot is Europa's Tech Job Platform voor Software Developers, DevOps, Data Scientists, Product Owners, QA en Engineering Leaders. Kom meer te weten over Honeypot, onze missie & ons team.",
       "og-title": "$t(title)",

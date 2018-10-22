@@ -58,11 +58,11 @@ export default () => {
           <div className="footer__column">
             <h5 className="footer__headline">
               <Link className="footer__link" to={`${prefix}about`}>
-                {t('header:about-us')}
+                {t('header:about')}
               </Link>
             </h5>
             <ul className="footer__link-list">
-              <li className="footer__link-item footer__link-item--careers">
+              <li className="footer__link-item">
                 <Link className="footer__link" to={`${prefix}about#press`}>
                   {t('press')}
                 </Link>
@@ -125,7 +125,7 @@ export default () => {
                   className="footer__link"
                   href={'https://www.honeypot.io/women-in-tech-2018/'}
                 >
-                  {t('Woman in Tech')}
+                  {t('Women in Tech')}
                 </a>
               </li>
             </ul>
