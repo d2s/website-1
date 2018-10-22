@@ -33,6 +33,9 @@ export default () => {
             <li className="header__link-item">
               <a
                 className="text-link"
+                target="_blank"
+                rel="noopener
+                noreferrer"
                 href="https://app.honeypot.io/users/login"
               >
                 {t('login')}
@@ -41,6 +44,9 @@ export default () => {
             <li className="header__link-item">
               <a
                 className="button button--primary header__link-item--button"
+                target="_blank"
+                rel="noopener
+                noreferrer"
                 href={extlinks.index}
               >
                 {t('sign-up')}

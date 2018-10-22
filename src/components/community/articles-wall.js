@@ -17,6 +17,9 @@ export default () => (
           </h4>
           <a
             className="text-link text-link--blue text-link--arrow"
+            target="_blank"
+            rel="noopener
+            noreferrer"
             href={links['tech-salaries-germany']}
           >
             Show
@@ -30,6 +33,9 @@ export default () => (
           </h4>
           <a
             className="text-link text-link--blue text-link--arrow"
+            target="_blank"
+            rel="noopener
+            noreferrer"
             href={links['tech-salaries-amsterdam']}
           >
             Show
@@ -41,7 +47,14 @@ export default () => (
             <br />
             Tech Index
           </h4>
-          <a href={links['woman-in-tech']}>Show</a>
+          <a
+            target="_blank"
+            rel="noopener
+            noreferrer"
+            href={links['woman-in-tech']}
+          >
+            Show
+          </a>
         </div>
       </div>
     </div>

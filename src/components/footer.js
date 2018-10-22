@@ -107,6 +107,9 @@ export default () => {
               <li className="footer__link-item">
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href={'https://www.graphql-europe.org/'}
                 >
                   {t('GraphQL Europe')}
@@ -115,6 +118,9 @@ export default () => {
               <li className="footer__link-item">
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href={'https://hive.honeypot.io/hive-conference-2018/'}
                 >
                   {t('hive-con')}
@@ -123,6 +129,9 @@ export default () => {
               <li className="footer__link-item">
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href={'https://www.honeypot.io/women-in-tech-2018/'}
                 >
                   {t('Women in Tech')}
@@ -137,6 +146,9 @@ export default () => {
                 <img className="footer__icon" src={twitter} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://twitter.com/honeypotio"
                 >
                   Twitter
@@ -146,6 +158,9 @@ export default () => {
                 <img className="footer__icon" src={facebook} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://www.facebook.com/Honeypotio"
                 >
                   Facebook
@@ -155,6 +170,9 @@ export default () => {
                 <img className="footer__icon" src={linkedin} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://www.linkedin.com/company/honeypot/"
                 >
                   LinkedIn
@@ -164,6 +182,9 @@ export default () => {
                 <img className="footer__icon" src={github} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://github.com/honeypotio"
                 >
                   Github
@@ -173,6 +194,9 @@ export default () => {
                 <img className="footer__icon" src={instagram} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://www.instagram.com/honeypot.io"
                 >
                   Instagram
@@ -182,6 +206,9 @@ export default () => {
                 <img className="footer__icon" src={youtube} />
                 <a
                   className="footer__link"
+                  target="_blank"
+                  rel="noopener
+                  noreferrer"
                   href="https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos"
                 >
                   Youtube

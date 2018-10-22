@@ -34,8 +34,10 @@ export default ({ option, modifier }) => {
           </ul>
           <a
             href="https://app.honeypot.io/invite_requests/new"
+            target="_blank"
+            rel="noopener
+            noreferrer"
             className={`button button--${modifier} payment-option__start`}
-            type="button"
           >
             {t(`payment-options.${option}.start`)}
           </a>

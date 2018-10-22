@@ -26,6 +26,9 @@ export default ({ page, topic, sign, small }) => {
           {sign && (
             <a
               className="text-link text-link--blue text-link--arrow"
+              target="_blank"
+              rel="noopener
+              noreferrer"
               href={links[page]}
             >
               {t('sign-up')}
