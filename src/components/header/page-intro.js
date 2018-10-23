@@ -11,7 +11,7 @@ export default class PageIntro extends Component {
     const page = getCurrentPage()
     const color = page === 'tech-hiring' ? 'blue' : 'yellow'
     const target = page === 'index' ? 'tech-hiring' : ''
-    console.log(page)
+    console.log(page, color, target)
     return (
       <NamespacesConsumer ns={`${page}`}>
         {t => (
