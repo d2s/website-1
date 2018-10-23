@@ -43,7 +43,7 @@ export default () => (
         </div>
         <div className="c-articles-wall__bottom c-articles-wall__tile">
           <h4 className="c-articles-wall__headline">
-            Woman in
+            Women in
             <br />
             Tech Index
           </h4>

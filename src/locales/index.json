@@ -44,7 +44,7 @@
     },
     "support": {
       "headline": "Free Career Support and Guidance",
-      "text": "Your Talent Rep will guide you through from start to finish, providing guidance on resume and interviews, helping you benchmark your salary, evaluate offers and find a job you love"
+      "text": "Your Talent Rep will guide you through from start to finish, providing guidance on your resume and interviews, helping you benchmark your salary, evaluate offers and find a job you love."
     },
     "worth": {
       "headline": "Know Your Worth!",
@@ -57,13 +57,13 @@
         "image": "static/avatar.jpg",
         "name": "Shuhei Kagawa",
         "position": "Hired as a Fronted Developer by Zalando",
-        "text": "I like Honeypot because companies offer interviews with my base salary and above. It saved the effort of applying for jobs, doing interviews, getting offers, and finally finding out that the salary didn't meet my requirements"
-      }, 
+        "text": "I like Honeypot because companies offer interviews with my base salary and above. It saved the effort of applying for jobs, doing interviews, getting offers, and finally finding out that the salary didn't meet my requirements."
+      },
       "2": {
         "image": "static/avatar.jpg",
         "name": "Emil Ahlbäck",
         "position": "Hired as a Senior Frontend Developer by Weissmaler",
-        "text": "After only two weeks I received 13 interview invites from a great selection of companies. From these I could choose the ones that best suited me and ended up finding the perfect startup job"
+        "text": "After only two weeks I received 13 interview invites from a great selection of companies. From these I could choose the ones that best suited me and ended up finding the perfect startup job."
       },
       "3": {
         "image": "static/avatar.jpg",
@@ -96,7 +96,7 @@
     "page-intro": {
       "headline1": "Wähle",
       "headline2": "Deinen Traumjob",
-      "tagline": "Honeypot ist Europas tech-fokussierte Job Plattform. Erstelle dir ein Profil und Unternehmen bewerben sich bei Dir",
+      "tagline": "Honeypot ist Europas tech-fokussierte Job Plattform. Erstelle dir ein Profil und Unternehmen bewerben sich bei Dir.",
       "button1": "Finde einen Job!",
       "button2": "Ich bin ein Arbeitgeber!"
     },
@@ -150,7 +150,7 @@
         "name": "Shuhei Kagawa",
         "position": "Frontend Developer \n Zalando",
         "text": "Ich mag Honeypot, weil Unternehmen Interviewanfragen direkt mit Gehaltsinfos schicken. So spart man sich die Mühe, sich für Jobs zu bewerben und Interview-Prozesse zu durchlaufen um am Ende herauszufinden, dass das Gehalt nicht den eigenen Anforderungen entspricht."
-      }, 
+      },
       "2": {
         "image": "/avatar.jpg",
         "name": "Emil Ahlbäck",
@@ -161,7 +161,7 @@
         "image": "/avatar.jpg",
         "name": "Veronica Hannibal",
         "position": "Fand einen Job als JavaScript Developer bei finAPI",
-        "text": "Innerhalb weniger Wochen hatte ich mehrere Angebote auf dem Tisch und landete dadurch einen super Job gleich nach meinem Uni-Abschluss. Im Vergleich zu meinen Erfahrungen mit Recruitern auf anderen Plattormen, nahm ich Honeypot als sehr viel persönlicher wahr"
+        "text": "Innerhalb weniger Wochen hatte ich mehrere Angebote auf dem Tisch und landete dadurch einen super Job gleich nach meinem Uni-Abschluss. Im Vergleich zu meinen Erfahrungen mit Recruitern auf anderen Plattormen, nahm ich Honeypot als sehr viel persönlicher wahr."
       },
       "4": {
         "image": "/avatar.jpg",
@@ -188,7 +188,7 @@
     "page-intro": {
       "headline1": "Choose a",
       "headline2": "Job You Love",
-      "tagline": "Honeypot is Europa's Tech Job Platform. Maak een profiel aan en laat bedrijven bij jou solliciteren",
+      "tagline": "Honeypot is Europa's Tech Job Platform. Maak een profiel aan en laat bedrijven bij jou solliciteren.",
       "button1": "Vind een baan!",
       "button2": "Ik ben op zoek naar talent"
     },
@@ -245,25 +245,25 @@
         "image": "/avatar.jpg",
         "name": "Shuhei Kagawa",
         "position": "Frontend Developer \n Zalando",
-        "text": "Wat mij beviel aan Honeypot was dat bedrijven interviews aanbieden met een indicatie van het salaris. Het bespaarde de moeite om te solliciteren, interviews te doen, aanbiedingen te krijgen en dan uiteindelijk te ontdekken dat het salaris niet aan mijn eisen voldeed"
-      }, 
+        "text": "Wat mij beviel aan Honeypot was dat bedrijven interviews aanbieden met een indicatie van het salaris. Het bespaarde de moeite om te solliciteren, interviews te doen, aanbiedingen te krijgen en dan uiteindelijk te ontdekken dat het salaris niet aan mijn eisen voldeed."
+      },
       "2": {
         "image": "/avatar.jpg",
         "name": "Emil Ahlbäck",
         "position": "Aangenomen als Senior Frontend Developer bij Weissmaler",
-        "text": "Na 2 weken had ik al 13 interview uitnodigingen ontvangen van een geweldige selectie van bedrijven. Hieruit kon ik de uitnodigingen kiezen die het beste bij me pasten, en ik vond daardoor een heel mooie baan"
+        "text": "Na 2 weken had ik al 13 interview uitnodigingen ontvangen van een geweldige selectie van bedrijven. Hieruit kon ik de uitnodigingen kiezen die het beste bij me pasten, en ik vond daardoor een heel mooie baan."
       },
       "3": {
         "image": "/avatar.jpg",
         "name": "Veronica Hannibal",
         "position": "Aangenomen als JavaScript Developer by finAPI",
-        "text": "Binnen een paar weken ontving ik meerdere aanbiedingen en kreeg ik de perfecte baan aangeboden aangeboden direct na het behalen van mijn diploma.  In vergelijking met recruiters en andere platformen voelt Honeypot een stuk persoonlijker"
+        "text": "Binnen een paar weken ontving ik meerdere aanbiedingen en kreeg ik de perfecte baan aangeboden aangeboden direct na het behalen van mijn diploma.  In vergelijking met recruiters en andere platformen voelt Honeypot een stuk persoonlijker."
       },
       "4": {
         "image": "/avatar.jpg",
         "name": "Sashen Singh",
         "position": "Aangenomen als Mobile Engineer bij Aperto",
-        "text": "De user experience was fantastich en de site is makkelijk het gebruik. Je hoeft niet te zoeken of bij te houden waar je solliciteert.  Het systeem is erg efficiënt omdat bedrijven jou vinden, dit maakt dat het platform erg simpel en prettig werkt"
+        "text": "De user experience was fantastich en de site is makkelijk het gebruik. Je hoeft niet te zoeken of bij te houden waar je solliciteert.  Het systeem is erg efficiënt omdat bedrijven jou vinden, dit maakt dat het platform erg simpel en prettig werkt."
       },
       "5": {
         "image": "/avatar.jpg",
@@ -274,7 +274,7 @@
     },
     "newsletter": {
       "headline": "Schrijf je in voor onze nieuwsbrief",
-      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content. ",
+      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content.",
       "email-placeholder": "Je E-Mail",
       "join": ""
     }

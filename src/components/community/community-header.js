@@ -1,8 +1,7 @@
 import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Wrapper from '../wrapper'
-import header from '../../static/header.community.png'
-
+import header from '../../static/community-collage.png'
 export default () => (
   <Wrapper>
     <NamespacesConsumer ns={'community'}>

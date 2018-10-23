@@ -29,7 +29,7 @@ export default () => (
     {t => (
       <div className="text-box c-news-text" id="press">
         <h2 className="text-box__headline">{t('news.headline')}</h2>
-        <div className="text-box__wrapper">
+        <div className="text-box__wrapper c-news-text__container">
           <span className="c-news-text__wrapper">
             <p className="text-box__text">{t('news.left.text')}</p>
             <a

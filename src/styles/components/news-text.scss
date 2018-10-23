@@ -1,7 +1,12 @@
 .c-news-text {
   width: 490px;
+  &__container {
+    display: flex;
+    justify-content: flex-start !important;
+  }
   &__wrapper {
-    width: 45%;
+    width: 40%;
+    margin-right: 30px;
   }
   &__references {
     margin-top: 30px;
