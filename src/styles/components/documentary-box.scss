@@ -1,7 +1,11 @@
 .c-documentary-box {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   width: 900px;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
   margin: 0 auto 100px auto;
   &__text {
     width: 300px;

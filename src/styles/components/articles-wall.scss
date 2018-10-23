@@ -1,7 +1,11 @@
 .c-articles-wall {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   width: 750px;
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
   margin: 0 auto;
   a {
     font-weight: 600;
@@ -15,8 +19,12 @@
   }
   &__right {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     flex-direction: column;
+    @include media-breakpoint-down(md) {
+      width: 100%;
+    }
   }
 
   &__headline {
@@ -26,6 +34,9 @@
   &__top {
     height: 150px;
     width: 240px;
+    @include media-breakpoint-down(md) {
+      width: 100%;
+    }
     background-color: $blue-3;
     > h4 {
       color: $blue-2;
