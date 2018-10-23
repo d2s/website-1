@@ -17,7 +17,7 @@ import LocationWall from '../components/about/location-wall'
 import '../styles/main.scss'
 
 export default () => (
-  <Layout smallerHeader>
+  <Layout smallerHeader page="about">
     <TextImageWrapper img={header}>
       <h1 className="c-about-header">
         Life at

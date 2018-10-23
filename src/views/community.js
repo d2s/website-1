@@ -9,7 +9,7 @@ import CommunityHeader from '../components/community/community-header.js'
 import ArticlesWall from '../components/community/articles-wall'
 
 export default () => (
-  <Layout smallerHeader>
+  <Layout smallerHeader page="community">
     <CommunityHeader />
 
     <CommunityWall />

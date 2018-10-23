@@ -1,11 +1,12 @@
 import React from 'react'
 import Layout from '../components/layout'
+import getCurrentPage from '../utils/page'
 
 export default ({ data }) => {
   const { markdownRemark } = data
   const { html } = markdownRemark
   return (
-    <Layout smallerHeader>
+    <Layout smallerHeader page={getCurrentPage()}>
       <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )

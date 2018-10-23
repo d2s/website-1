@@ -10,8 +10,7 @@ import LangSwitch from '../lang-switch'
 import CookieBanner from './cookie-banner'
 import Headroom from 'react-headroom'
 
-export default ({ smallerHeader }) => {
-  const page = getCurrentPage()
+export default ({ smallerHeader, page }) => {
   const extendedHeader =
     !smallerHeader && (page === 'index' || page === 'tech-hiring')
   console.log('nav:', page)
@@ -35,7 +34,7 @@ export default ({ smallerHeader }) => {
         </Headroom>
         {extendedHeader && (
           <Wrapper nowrap>
-            <PageIntro />
+            <PageIntro page={page} />
           </Wrapper>
         )}
       </header>

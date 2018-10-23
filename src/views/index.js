@@ -24,7 +24,7 @@ import peter from '../static/testimonials/Testimonial_Peter_Ringelmann.jpg'
 import '../styles/main.scss'
 
 export default () => (
-  <Layout>
+  <Layout page="index">
     <TextImageWrapper page="index" topic="join" img={idealRole} sign />
 
     <TextImageWrapper img={signUp} rightImage>

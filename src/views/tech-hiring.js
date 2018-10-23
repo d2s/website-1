@@ -16,7 +16,7 @@ import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
 import '../styles/main.scss'
 
 export default () => (
-  <Layout>
+  <Layout page="tech-hiring">
     <TextImageWrapper left page="tech-hiring" topic="access" img={access} />
 
     <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />

@@ -6,8 +6,8 @@ import Link from 'gatsby-link'
 
 const component = 'page-intro'
 
-export default () => {
-  const page = getCurrentPage()
+export default ({ page }) => {
+  //const page = getCurrentPage()
   const color = page === 'tech-hiring' ? 'blue' : 'yellow'
   const target = page === 'index' ? 'tech-hiring' : ''
   console.log(`"${page}", "${color}"`)

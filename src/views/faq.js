@@ -14,7 +14,7 @@ const employerTopics = Object.keys(
 ).filter(topic => topic !== 'type')
 
 export default () => (
-  <Layout smallerHeader>
+  <Layout smallerHeader page="faq">
     <NamespacesConsumer ns={'faq'}>
       {t => (
         <div className={'c-info'}>
