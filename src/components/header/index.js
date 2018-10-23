@@ -13,7 +13,6 @@ import Headroom from 'react-headroom'
 export default ({ smallerHeader, page }) => {
   const extendedHeader =
     !smallerHeader && (page === 'index' || page === 'tech-hiring')
-  console.log('nav:', page)
 
   return (
     <div>
