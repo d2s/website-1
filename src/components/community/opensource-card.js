@@ -7,7 +7,14 @@ export default ({ headline, text, link, link_text, stars, image }) => (
     <h4>{headline}</h4>
     <p>{text}</p>
     <div className="c-opensource-card__info">
-      <a href={link}>{link_text}</a>
+      <a
+        target="_blank"
+        rel="noopener
+        noreferrer"
+        href={link}
+      >
+        {link_text}
+      </a>
       <span className="c-opensource-card__gh_stars">
         {stars}
         <img className="c-opensource-card__star_icon" src={star} />
