@@ -14,6 +14,7 @@ export default ({ smallerHeader }) => {
   const page = getCurrentPage()
   const extendedHeader =
     !smallerHeader && (page === 'index' || page === 'tech-hiring')
+  console.log('nav:', page)
 
   return (
     <div>
