@@ -1,7 +1,6 @@
 import React from 'react'
 import Navigation from './navigation'
 import logo from '../../static/logo.svg'
-import { getLang } from '../../utils/i18n'
 import Link from 'gatsby-link'
 import PageIntro from './page-intro'
 import CompanyBar from './company-bar'
@@ -10,8 +9,6 @@ import Wrapper from '../wrapper'
 import LangSwitch from '../lang-switch'
 import CookieBanner from './cookie-banner'
 import Headroom from 'react-headroom'
-
-const lang = getLang()
 
 export default ({ smallerHeader }) => {
   const page = getCurrentPage()

@@ -8,9 +8,8 @@ const component = 'page-intro'
 
 export default () => {
   const page = getCurrentPage()
-  const color = page == 'tech-hiring' ? 'blue' : 'yellow'
-  const target = page == 'index' ? 'tech-hiring' : ''
-  console.log(page, color, target)
+  const color = page === 'tech-hiring' ? 'blue' : 'yellow'
+  const target = page === 'index' ? 'tech-hiring' : ''
   return (
     <NamespacesConsumer ns={page}>
       {t => (
