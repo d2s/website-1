@@ -9,11 +9,11 @@ const component = 'page-intro'
 export default class PageIntro extends Component {
   render() {
     const page = getCurrentPage()
-    const color = page === 'tech-hiring' ? 'blue' : 'yellow'
-    const target = page === 'index' ? 'tech-hiring' : ''
+    const color = page == 'tech-hiring' ? 'blue' : 'yellow'
+    const target = page == 'index' ? 'tech-hiring' : ''
     console.log(page, color, target)
     return (
-      <NamespacesConsumer ns={`${page}`}>
+      <NamespacesConsumer ns={page}>
         {t => (
           <div className="page-intro">
             {/* <div className="page-intro__note">Note</div> */}
