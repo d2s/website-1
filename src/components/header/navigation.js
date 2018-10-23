@@ -6,10 +6,10 @@ import getCurrentPage, { getLinkTo } from '../../utils/page'
 
 //const links = ['index', 'tech-hiring', 'community', 'login']
 const links = [
-  { name: 'index', page: '' },
-  { name: 'tech-hiring', page: 'tech-hiring' },
-  { name: 'community', page: 'community' },
-  { name: 'about', page: 'about' },
+  { name: 'index', link: '' },
+  { name: 'tech-hiring', link: 'tech-hiring' },
+  { name: 'community', link: 'community' },
+  { name: 'about', link: 'about' },
 ]
 
 export default ({ page }) => {
