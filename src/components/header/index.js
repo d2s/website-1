@@ -27,7 +27,7 @@ export default ({ smallerHeader, page }) => {
               <Link to={getLinkTo('')}>
                 <img src={logo} className="header__logo" />
               </Link>
-              <Navigation />
+              <Navigation page={page} />
               <LangSwitch />
             </div>
           </div>

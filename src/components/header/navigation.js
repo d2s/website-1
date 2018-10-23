@@ -12,19 +12,19 @@ const links = [
   { name: 'about', page: 'about' },
 ]
 
-export default () => {
+export default ({ page }) => {
   return (
     <NamespacesConsumer ns={['header']}>
       {t => (
         <nav className="header__nav">
           <ul className="header__link-list">
-            {links.map(({ name, page }) => (
+            {links.map(({ name, link }) => (
               <li key={name} className="header__link-item">
                 <Link
                   className={`text-link ${
-                    name === getCurrentPage() ? 'header__link-item--active' : ''
+                    name === page ? 'header__link-item--active' : ''
                   }`}
-                  to={getLinkTo(page)}
+                  to={getLinkTo(link)}
                 >
                   {t(name)}
                 </Link>
