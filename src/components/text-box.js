@@ -1,5 +1,6 @@
 import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
+import { getLang } from '../utils/i18n'
 import Link from 'gatsby-link'
 import arrow from '../static/arrow_blue.svg'
 import links from './sign-up-links'
@@ -31,7 +32,7 @@ export default ({ page, topic, sign, small }) => {
               noreferrer"
               href={links[page]}
             >
-              {t('sign-up')}
+              {t(`${getLang()}.sign-up`)}
             </a>
           )}
         </div>

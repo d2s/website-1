@@ -5,14 +5,17 @@
   "sign-up": "Signup to Honeypot",
   "de": {
     "tagline": "Europas tech- und developer-fokussierte Job Plattform",
-    "tagline2": "Europas tech-fokussierte Job Plattform"
+    "tagline2": "Europas tech-fokussierte Job Plattform",
+    "sign-up": "Registrieren"
   },
   "en": {
     "tagline": "Europe's Tech & Developer-Focused Job Platform",
-    "tagline2": "Europe's Tech-Focused Job Platform"
+    "tagline2": "Europe's Tech-Focused Job Platform",
+    "sign-up": "Signup to Honeypot"
   },
   "nl": {
     "tagline": "Europe's Tech & Developer-Focused Job Platform",
-    "tagline2": "Europa's Tech-Focused Job Platform"
+    "tagline2": "Europa's Tech-Focused Job Platform",
+    "sign-up": "Signup to Honeypot"
   }
 }

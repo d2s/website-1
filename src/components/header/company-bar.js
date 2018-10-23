@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import { getLang } from '../../utils/i18n'
 import zalando from '../../static/logos/Zalando_Logo.png'
-import helpling from '../../static/logos/Helpling.png'
 import n26 from '../../static/logos/N26_Logo.png'
 import onefootball from '../../static/logos/Onefootball_Logo.png'
 import travis from '../../static/logos/TravisCI_Logo.png'
@@ -28,7 +27,6 @@ import 'slick-carousel/slick/slick.scss'
 const component = 'company-bar'
 const companies = [
   zalando,
-  helpling,
   n26,
   onefootball,
   travis,
