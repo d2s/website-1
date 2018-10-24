@@ -6,8 +6,8 @@ import Header from '../components/header/'
 import Footer from '../components/footer'
 //import { StickyContainer } from 'react-sticky'
 
-export default ({ smallerHeader, children, page }) => (
-  <I18nextProvider i18n={i18n} initialLanguage={getLang()}>
+export default ({ smallerHeader, children, page, lang }) => (
+  <I18nextProvider i18n={i18n} initialLanguage={lang}>
     <div>
       <Seo page={page} />
       <Header smallerHeader={smallerHeader} page={page} />

@@ -8,18 +8,21 @@ import DocumentaryBox from '../components/community/documentary-box'
 import CommunityHeader from '../components/community/community-header.js'
 import ArticlesWall from '../components/community/articles-wall'
 
-export default () => (
-  <Layout smallerHeader page="community">
-    <CommunityHeader />
+export default o => {
+  const lang = o.pageContext.langKey
+  return (
+    <Layout smallerHeader page="community" lang={lang}>
+      <CommunityHeader />
 
-    <CommunityWall />
+      <CommunityWall />
 
-    <CaptionBar page="community" topic="documentaries" />
+      <CaptionBar page="community" topic="documentaries" />
 
-    <DocumentaryBox />
+      <DocumentaryBox />
 
-    <OpensourceWall />
+      <OpensourceWall />
 
-    <ArticlesWall />
-  </Layout>
-)
+      <ArticlesWall />
+    </Layout>
+  )
+}

@@ -16,42 +16,45 @@ import LocationWall from '../components/about/location-wall'
 
 import '../styles/main.scss'
 
-export default () => (
-  <Layout smallerHeader page="about">
-    <TextImageWrapper img={header}>
-      <h1 className="c-about-header">
-        Life at
-        <br />
-        <b>Honeypot</b>
-      </h1>
-    </TextImageWrapper>
+export default o => {
+  const lang = o.pageContext.langKey
+  return (
+    <Layout smallerHeader page="about" lang={lang}>
+      <TextImageWrapper img={header}>
+        <h1 className="c-about-header">
+          Life at
+          <br />
+          <b>Honeypot</b>
+        </h1>
+      </TextImageWrapper>
 
-    <DoubleTextBox page="about" />
+      <DoubleTextBox page="about" />
 
-    <TeamPicture />
+      <TeamPicture />
 
-    <CaptionBar page="about" topic="life" />
+      <CaptionBar page="about" topic="life" />
 
-    <VideoWall />
+      <VideoWall />
 
-    <CaptionBar page="about" topic="team" />
+      <CaptionBar page="about" topic="team" />
 
-    <EmployeeWall />
+      <EmployeeWall />
 
-    <CaptionBar page="about" topic="advisors" />
+      <CaptionBar page="about" topic="advisors" />
 
-    <AdvisorsWall />
+      <AdvisorsWall />
 
-    <TextImageWrapper rightImage img={success}>
-      <NewsText />
-    </TextImageWrapper>
+      <TextImageWrapper rightImage img={success}>
+        <NewsText />
+      </TextImageWrapper>
 
-    <TextImageWrapper img={care}>
-      <CareText />
-    </TextImageWrapper>
+      <TextImageWrapper img={care}>
+        <CareText />
+      </TextImageWrapper>
 
-    <CaptionBar page="about" topic="where" />
+      <CaptionBar page="about" topic="where" />
 
-    <LocationWall />
-  </Layout>
-)
+      <LocationWall />
+    </Layout>
+  )
+}

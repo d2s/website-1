@@ -15,33 +15,41 @@ import dineke from '../static/testimonials/Testimonial_Dineke.jpg'
 import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
 import '../styles/main.scss'
 
-export default () => (
-  <Layout page="tech-hiring">
-    <TextImageWrapper left page="tech-hiring" topic="access" img={access} />
+export default o => {
+  const lang = o.pageContext.langKey
+  const page = o.pageContext.slug
+    .split('/')
+    .slice(1, -1)
+    .pop()
 
-    <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />
+  return (
+    <Layout page={page} lang={lang}>
+      <TextImageWrapper left page="tech-hiring" topic="access" img={access} />
 
-    <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
+      <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />
 
-    <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
+      <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
 
-    <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
+      <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
 
-    <PaymentOptions />
+      <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
 
-    <TextImageWrapper page="tech-hiring" img={employer}>
-      <TextBox small page="tech-hiring" topic="employer.1" />
-      <TextBox small page="tech-hiring" topic="employer.2" />
-      <TextBox small page="tech-hiring" topic="employer.3" />
-    </TextImageWrapper>
+      <PaymentOptions />
 
-    <PositionOverview />
+      <TextImageWrapper page="tech-hiring" img={employer}>
+        <TextBox small page="tech-hiring" topic="employer.1" />
+        <TextBox small page="tech-hiring" topic="employer.2" />
+        <TextBox small page="tech-hiring" topic="employer.3" />
+      </TextImageWrapper>
 
-    <Testimonial
-      left={['flip-v']}
-      right={['flip-h']}
-      page="tech-hiring"
-      index={[2, sellin]}
-    />
-  </Layout>
-)
+      <PositionOverview />
+
+      <Testimonial
+        left={['flip-v']}
+        right={['flip-h']}
+        page="tech-hiring"
+        index={[2, sellin]}
+      />
+    </Layout>
+  )
+}

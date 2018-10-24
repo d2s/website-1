@@ -23,37 +23,50 @@ import peter from '../static/testimonials/Testimonial_Peter_Ringelmann.jpg'
 
 import '../styles/main.scss'
 
-export default () => (
-  <Layout page="index">
-    <TextImageWrapper page="index" topic="join" img={idealRole} sign />
+export default o => {
+  const lang = o.pageContext.langKey
+  const page = o.pageContext.slug
+    .split('/')
+    .slice(1, -1)
+    .pop()
+  return (
+    <Layout page="index" lang={lang}>
+      <TextImageWrapper page="index" topic="join" img={idealRole} sign />
 
-    <TextImageWrapper img={signUp} rightImage>
-      <SignUp />
-    </TextImageWrapper>
+      <TextImageWrapper img={signUp} rightImage>
+        <SignUp />
+      </TextImageWrapper>
 
-    <TextImageWrapper page="index" topic="stack" img={techStack} sign />
+      <TextImageWrapper page="index" topic="stack" img={techStack} sign />
 
-    <Testimonial left page="index" index={[1, shuhei]} />
+      <Testimonial left page="index" index={[1, shuhei]} />
 
-    <TextImageWrapper
-      page="index"
-      topic="location"
-      img={location}
-      sign
-      rightImage
-    />
+      <TextImageWrapper
+        page="index"
+        topic="location"
+        img={location}
+        sign
+        rightImage
+      />
 
-    <TestimonialGroup
-      page="index"
-      indexes={[[2, emil], [3, veronica], [4, sashen]]}
-    />
+      <TestimonialGroup
+        page="index"
+        indexes={[[2, emil], [3, veronica], [4, sashen]]}
+      />
 
-    <TextImageWrapper page="index" topic="support" img={support} sign />
+      <TextImageWrapper page="index" topic="support" img={support} sign />
 
-    <Testimonial left right={['rotate']} page="index" index={[5, peter]} />
+      <Testimonial left right={['rotate']} page="index" index={[5, peter]} />
 
-    <TextImageWrapper page="index" topic="worth" img={worth} sign rightImage />
+      <TextImageWrapper
+        page="index"
+        topic="worth"
+        img={worth}
+        sign
+        rightImage
+      />
 
-    {/*<Newsletter />*/}
-  </Layout>
-)
+      {/*<Newsletter />*/}
+    </Layout>
+  )
+}

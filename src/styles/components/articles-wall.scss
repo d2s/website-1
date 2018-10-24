@@ -34,12 +34,14 @@
   &__top {
     height: 150px;
     width: 240px;
+    background: no-repeat top center url('../static/amsterdam-salaries.png');
     @include media-breakpoint-down(md) {
       width: 100%;
     }
-    background-color: $blue-3;
-    > h4 {
-      color: $blue-2;
+    > h4,
+    a {
+      font-weight: 600;
+      color: $white-color;
     }
   }
 
@@ -58,6 +60,7 @@
     background: no-repeat top center url('../static/katie_resized.png');
     > h4,
     a {
+      font-weight: 600;
       color: $white-color;
     }
   }

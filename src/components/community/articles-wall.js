@@ -32,7 +32,7 @@ export default () => (
             Tech Salaries in Amsterdam
           </h4>
           <a
-            className="text-link text-link--blue text-link--arrow"
+            className="text-link text-link--blue"
             target="_blank"
             rel="noopener
             noreferrer"
