@@ -11,15 +11,15 @@ export default () => (
     {t => (
       <div className="c-video-wall">
         {[
-          [work, links.work],
-          [offsite, links.offsite],
-          [teamevent, links.teamevent],
-        ].map(([image, link], i) => {
+          ['work', links.work],
+          ['offsite', links.offsite],
+          ['teamevent', links.teamevent],
+        ].map(([name, link], i) => {
           return (
             <VideoCard
               key={i.toString()}
               text={t(`life.${i + 1}.text`)}
-              image={image}
+              imageName={name}
               link={link}
             />
           )

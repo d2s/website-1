@@ -1,4 +1,21 @@
 .c-video-card {
+  &__thumbnail {
+    background-color: black;
+    height: 246px;
+    width: 300px;
+    position: relative;
+    text-align: center;
+    padding-top: 90px;
+    &--work {
+      background: no-repeat center url('../static/work.png');
+    }
+    &--offsite {
+      background: no-repeat center url('../static/offsite.png');
+    }
+    &--teamevent {
+      background: no-repeat center url('../static/teamevent.png');
+    }
+  }
   &__text {
     text-align: center;
   }
