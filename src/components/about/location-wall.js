@@ -7,7 +7,6 @@ import berlin from '../../static/Map_Germany.png'
 import amsterdam from '../../static/Map_Netherlands.png'
 import links from './location-links.json'
 const images = { berlin, amsterdam }
-console.log(links)
 
 export default () => (
   <NamespacesConsumer ns={'about'}>

@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: '/',
   siteMetadata: {
     title: 'Gatsby Default Starter',
+    siteUrl: `https://www.honeypot.io`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -40,6 +41,26 @@ module.exports = {
             }
           } `,
         },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/sitemap.xml`,
+        query: `{
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+          allSitePage {
+            edges {
+              node {
+                path
+              }
+            }
+          }
+        }`,
       },
     },
     /*

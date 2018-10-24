@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import { NamespacesConsumer } from 'react-i18next'
 import getCurrentPage from '../utils/page'
+import { getLang } from '../utils/i18n'
 import { withPrefix } from 'gatsby'
 
 export default ({ page }) => {
@@ -13,6 +14,7 @@ export default ({ page }) => {
     <NamespacesConsumer ns={'seo'}>
       {t => (
         <Helmet>
+          <html lang={getLang()} />
           <title>{t(`${page}.title`)}</title>
           <meta name="description" content={t(`${page}.description`)} />
           <meta property="og:type" content="website" />
