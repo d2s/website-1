@@ -21,7 +21,7 @@ export default ({ page }) => {
           {langs.map(l => (
             <link
               rel="alternate"
-              href={`http://www.honeypot.io/${l}/${
+              href={`https://www.honeypot.io/${l}/${
                 page === 'index' ? '' : page
               }`}
               hrefLang={l}
