@@ -14,10 +14,10 @@ export default () => (
           <CaptionBar page="community" topic="opensource" />
           <div className="c-opensource-wall">
             {[
-              [searchspot, 671, 'https://github.com/honeypotio/searchspot'],
-              [reina, 212, 'https://github.com/honeypotio/reina'],
-              [github, 308, 'https://github.com/honeypotio'],
-            ].map(([image, stars, link], i) => (
+              [searchspot, 'https://github.com/honeypotio/searchspot'],
+              [reina, 'https://github.com/honeypotio/reina'],
+              [github, 'https://github.com/honeypotio'],
+            ].map(([image, link], i) => (
               <OpensourceCard
                 key={++i}
                 image={image}
@@ -25,7 +25,6 @@ export default () => (
                 text={t(`opensource.${i}.text`)}
                 link={link}
                 link_text={t(`opensource.link-text`)}
-                stars={stars}
               />
             ))}
           </div>

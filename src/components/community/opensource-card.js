@@ -1,7 +1,7 @@
 import React from 'react'
 import star from '../../static/star.png'
 
-export default ({ headline, text, link, link_text, stars, image }) => (
+export default ({ headline, text, link, link_text, image }) => (
   <div className="c-opensource-card">
     <img className="c-opensource-card__image" src={image} />
     <h4>{headline}</h4>
@@ -15,10 +15,6 @@ export default ({ headline, text, link, link_text, stars, image }) => (
       >
         {link_text}
       </a>
-      <span className="c-opensource-card__gh_stars">
-        {stars}
-        <img className="c-opensource-card__star_icon" src={star} />
-      </span>
     </div>
   </div>
 )
