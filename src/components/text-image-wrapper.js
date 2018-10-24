@@ -5,6 +5,7 @@ import SideBackground from './side-bg'
 
 export default ({
   img,
+  responsive,
   topic,
   page,
   sign,
@@ -30,7 +31,14 @@ export default ({
       <Wrapper>
         <div className={`text-image-wrapper ${dir}`}>
           <div className="text-image-wrapper__image">
-            <img src={img} />
+            <img
+              src={img}
+              srcSet={
+                responsive
+                  ? `${img.replace(/\.(png|jpe?g|svg)$/i, '@2x.$1')} 2x`
+                  : null
+              }
+            />
           </div>
           <div className="text-image-wrapper__text">
             {children || <TextBox page={page} topic={topic} sign={sign} />}

@@ -30,3 +30,16 @@ exports.createPages = ({ graphql, actions }) => {
     })
   })
 }
+
+exports.onCreateWebpackConfig = ({ actions, loaders, getConfig }) => {
+  const config = getConfig()
+
+  const imageRule = config.module.rules.find(
+    rule =>
+      String(rule.test) === `/\\.(ico|svg|jpg|jpeg|png|gif|webp)(\\?.*)?$/`
+  )
+  imageRule.use[0].options.name = imageRule.use[0].options.name.replace(
+    '-[hash]',
+    ''
+  )
+}
