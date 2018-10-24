@@ -15,10 +15,14 @@ export default ({ page }) => {
         <Helmet>
           <title>{t(`${page}.title`)}</title>
           <meta name="description" content={t(`${page}.description`)} />
-          <meta name="og:title" content={t(`${page}.og-title`)} />
-          <meta name="og:description" content={t(`${page}.og-description`)} />
-          <meta name="og:image" content={withPrefix(image)} />
-          <meta name="og:image:alt" content={t(`${page}.og-image-alt`)} />
+          <meta property="og:type" content="website" />
+          <meta property="og:title" content={t(`${page}.og-title`)} />
+          <meta
+            property="og:description"
+            content={t(`${page}.og-description`)}
+          />
+          <meta property="og:image" content={withPrefix(image)} />
+          <meta property="og:image:alt" content={t(`${page}.og-image-alt`)} />
         </Helmet>
       )}
     </NamespacesConsumer>
