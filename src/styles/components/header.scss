@@ -5,6 +5,10 @@
   transition: none !important;
 }
 .header {
+  @include media-breakpoint-down(md) {
+    padding: 0;
+    padding-bottom: 20px;
+  }
   &--index {
     height: 600px;
     background: no-repeat top right url('../static/index.header.svg');
@@ -42,9 +46,12 @@
     display: flex;
     list-style-type: none;
     @include media-breakpoint-down(md) {
+      position: absolute;
+      width: 120px;
       background-color: $white-color;
-      top: 50px;
+      top: 10px;
       flex-direction: column;
+      padding-bottom: 20px;
     }
   }
 
@@ -76,9 +83,27 @@
   &__nav {
     flex: 2 1 auto;
     position: relative;
+    &--hide > ul {
+      display: none;
+    }
     @include media-breakpoint-down(md) {
       flex: none;
       order: -1;
     }
+    &:after {
+      @include media-breakpoint-down(md) {
+        content: '≡';
+        font-weight: 600;
+        font-size: $fs-4;
+      }
+    }
+  }
+}
+
+.c-headroom {
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    margin: 0;
+    background-color: $white-color;
   }
 }

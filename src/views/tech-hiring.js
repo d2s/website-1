@@ -29,15 +29,39 @@ export default o => {
 
   return (
     <Layout page={page} lang={lang}>
-      <TextImageWrapper left page="tech-hiring" topic="access" img={access} responsive={true} />
+      <TextImageWrapper
+        left
+        page="tech-hiring"
+        topic="access"
+        img={access}
+        responsive={true}
+      />
 
-      <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} responsive={true} />
+      <TextImageWrapper
+        page="tech-hiring"
+        topic="hire"
+        rightImage
+        img={hire}
+        responsive={true}
+      />
 
-      <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} responsive={true} />
+      <TextImageWrapper
+        page="tech-hiring"
+        topic="skills"
+        sign
+        img={skills}
+        responsive={true}
+      />
 
       <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
 
-      <TextImageWrapper page="tech-hiring" topic="visa" img={visa} responsive={true} rightImage />
+      <TextImageWrapper
+        page="tech-hiring"
+        topic="visa"
+        img={visa}
+        responsive={true}
+        rightImage
+      />
 
       <PaymentOptions />
 

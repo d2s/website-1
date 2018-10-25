@@ -37,13 +37,25 @@ export default o => {
     .pop()
   return (
     <Layout page="index" lang={lang}>
-      <TextImageWrapper page="index" topic="join" img={idealRole} responsive={true} sign />
+      <TextImageWrapper
+        page="index"
+        topic="join"
+        img={idealRole}
+        responsive={true}
+        sign
+      />
 
       <TextImageWrapper img={signUp} responsive={true} rightImage>
         <SignUp />
       </TextImageWrapper>
 
-      <TextImageWrapper page="index" topic="stack" img={techStack} responsive={true} sign />
+      <TextImageWrapper
+        page="index"
+        topic="stack"
+        img={techStack}
+        responsive={true}
+        sign
+      />
 
       <Testimonial left page="index" index={[1, shuhei]} />
 
@@ -61,7 +73,13 @@ export default o => {
         indexes={[[2, emil], [3, veronica], [4, sashen]]}
       />
 
-      <TextImageWrapper page="index" topic="support" img={support} responsive={true} sign />
+      <TextImageWrapper
+        page="index"
+        topic="support"
+        img={support}
+        responsive={true}
+        sign
+      />
 
       <Testimonial left right={['rotate']} page="index" index={[5, peter]} />
 

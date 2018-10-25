@@ -20,7 +20,7 @@ export default ({ smallerHeader, page }) => {
       <header
         className={`container-fluid header header--${!smallerHeader && page}`}
       >
-        <Headroom pinStart={80}>
+        <Headroom pinStart={80} className="c-headroom">
           <div className="container-fluid header__wrapper">
             <div className="header__controls container">
               <Link to={getLinkTo('')} className="header__logo_link">
