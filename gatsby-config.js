@@ -1,7 +1,12 @@
 const activeEnv =
   process.env.ACTIVE_ENV || process.env.NODE_ENV || 'development'
 
+require('dotenv').config({
+  path: `.env.${activeEnv}`,
+})
+
 module.exports = {
+  pathPrefix: process.env.SITE_URL,
   siteMetadata: {
     title: 'Gatsby Default Starter',
     siteUrl: `https://www.honeypot.io`,

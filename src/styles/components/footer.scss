@@ -4,8 +4,9 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  @include media-breakpoint-between(lg, xs) {
+  @include media-breakpoint-down(md) {
     width: 100%;
+    flex-wrap: wrap;
   }
   margin: 0 auto;
 
@@ -35,7 +36,7 @@
 
     &--careers {
       position: relative;
-      
+
       &:before {
         @include media-breakpoint-down(lg) {
           display: none;
@@ -59,5 +60,3 @@
     text-align: center;
   }
 }
-
-
