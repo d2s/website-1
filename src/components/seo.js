@@ -10,6 +10,7 @@ export default ({ page, lang }) => {
   if (page === 'about' || page === 'community') {
     image = `${page}-og.jpg`
   }
+  const pageTitle = page === 'index' ? '' : page
   const langs = ['en', 'de', 'nl'].filter(l => l !== lang)
   return (
     <NamespacesConsumer ns={'seo'}>
@@ -21,9 +22,7 @@ export default ({ page, lang }) => {
             <link
               key={l}
               rel="alternate"
-              href={`https://www.honeypot.io/${l}/${
-                page === 'index' ? '' : page
-              }`}
+              href={`https://www.honeypot.io/${l}/${pageTitle}`}
               hrefLang={l}
             />
           ))}
@@ -31,11 +30,22 @@ export default ({ page, lang }) => {
           <meta property="og:type" content="website" />
           <meta property="og:title" content={t(`${page}.og-title`)} />
           <meta
+            property="og:url"
+            content={`https://www.honeypot.io/${lang}/${pageTitle}`}
+          />
+          <meta
             property="og:description"
             content={t(`${page}.og-description`)}
           />
           <meta property="og:image" content={withPrefix(image)} />
           <meta property="og:image:alt" content={t(`${page}.og-image-alt`)} />
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:image" content={withPrefix(image)} />
+          <meta
+            property="twitter:description"
+            content={t(`${page}.og-description`)}
+          />
+          <meta property="twitter:title" content={t(`${page}.og-title`)} />
         </Helmet>
       )}
     </NamespacesConsumer>
