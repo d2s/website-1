@@ -99,20 +99,20 @@
       "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
     },
     "legal_notice": {
-      "title": "Legal Notice - $t(general:company-name) | $t(general:de.tagline2)",
+      "title": "Legal Notice - $t(general:company-name) | $t(general:en.tagline2)",
       "description": "Our legal notice, address, contact details and commercial information",
       "og-title": "$t(legal_notice.title)",
       "og-description": "$t(legal_notice.description)",
       "og-image": "",
-      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+      "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
     },
     "privacy_policy": {
-      "title": "Privacy Policy - $t(general:company-name) | $t(general:de.tagline2)",
+      "title": "Privacy Policy - $t(general:company-name) | $t(general:en.tagline2)",
       "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
       "og-title": "$t(privacy_policy.title)",
       "og-description": "$t(privacy_policy.description)",
       "og-image": "",
-      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+      "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
     }
   },
   "nl": {
@@ -149,7 +149,7 @@
       "og-image-alt": "Community events at Honeypot"
     },
     "faq": {
-      "title": "FAQ - $t(general:company-name) | $t(general:en.tagline)",
+      "title": "FAQ - $t(general:company-name) | $t(general:nl.tagline)",
       "description": "Ontdek hoe het Honeypot-platform werkt. Leer meer over ons screeningsproces, jouw Talent Rep & interview uitnodigingen.",
       "og-title": "$t(faq.title)",
       "og-description": "$t(faq.description)",
@@ -157,20 +157,20 @@
       "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
     },
     "legal_notice": {
-      "title": "Legal Notice - $t(general:company-name) | $t(general:de.tagline2)",
+      "title": "Legal Notice - $t(general:company-name) | $t(general:nl.tagline2)",
       "description": "Our legal notice, address, contact details and commercial information",
       "og-title": "$t(legal_notice.title)",
       "og-description": "$t(legal_notice.description)",
       "og-image": "",
-      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
     },
     "privacy_policy": {
-      "title": "Privacy Policy - $t(general:company-name) | $t(general:de.tagline2)",
+      "title": "Privacy Policy - $t(general:company-name) | $t(general:nl.tagline2)",
       "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
       "og-title": "$t(privacy_policy.title)",
       "og-description": "$t(privacy_policy.description)",
       "og-image": "",
-      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
     }
   }
 }
