@@ -3,11 +3,16 @@ import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import getCurrentPage from '../utils/page'
 
-export default ({ data }) => {
-  const { markdownRemark } = data
+export default o => {
+  const { markdownRemark } = o.data
   const { html } = markdownRemark
+  const lang = o.pageContext.langKey
+  const page = o.pageContext.slug
+    .split('/')
+    .slice(1, -1)
+    .pop()
   return (
-    <Layout smallerHeader page={getCurrentPage()}>
+    <Layout smallerHeader page={page} lang={lang}>
       <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
