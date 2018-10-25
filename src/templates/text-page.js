@@ -11,7 +11,6 @@ export default o => {
     .split('/')
     .slice(1, -1)
     .pop()
-  console.log(o)
   return (
     <Layout smallerHeader page={page} lang={lang}>
       <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
