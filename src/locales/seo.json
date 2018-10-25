@@ -39,6 +39,22 @@
       "og-description": "$t(faq.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+    },
+    "legal_notice": {
+      "title": "Legal Notice - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "Our legal notice, address, contact details and commercial information",
+      "og-title": "$t(legal_notice.title)",
+      "og-description": "$t(legal_notice.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+    },
+    "privacy_policy": {
+      "title": "Privacy Policy - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
+      "og-title": "$t(privacy_policy.title)",
+      "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
     }
   },
   "en": {
@@ -81,6 +97,22 @@
       "og-description": "$t(faq.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
+    },
+    "legal_notice": {
+      "title": "Legal Notice - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "Our legal notice, address, contact details and commercial information",
+      "og-title": "$t(legal_notice.title)",
+      "og-description": "$t(legal_notice.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+    },
+    "privacy_policy": {
+      "title": "Privacy Policy - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
+      "og-title": "$t(privacy_policy.title)",
+      "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
     }
   },
   "nl": {
@@ -123,6 +155,22 @@
       "og-description": "$t(faq.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    },
+    "legal_notice": {
+      "title": "Legal Notice - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "Our legal notice, address, contact details and commercial information",
+      "og-title": "$t(legal_notice.title)",
+      "og-description": "$t(legal_notice.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+    },
+    "privacy_policy": {
+      "title": "Privacy Policy - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
+      "og-title": "$t(privacy_policy.title)",
+      "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
     }
   }
 }

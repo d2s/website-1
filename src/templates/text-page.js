@@ -6,11 +6,12 @@ import getCurrentPage from '../utils/page'
 export default o => {
   const { markdownRemark } = o.data
   const { html } = markdownRemark
-  const lang = o.pageContext.langKey
+  const lang = o.pageContext.langKey || 'en'
   const page = o.pageContext.slug
     .split('/')
     .slice(1, -1)
     .pop()
+  console.log(o)
   return (
     <Layout smallerHeader page={page} lang={lang}>
       <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
