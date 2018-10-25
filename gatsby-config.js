@@ -1,5 +1,8 @@
+const activeEnv =
+  process.env.ACTIVE_ENV || process.env.NODE_ENV || 'development'
+
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: '',
   siteMetadata: {
     title: 'Gatsby Default Starter',
     siteUrl: `https://www.honeypot.io`,
