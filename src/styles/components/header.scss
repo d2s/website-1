@@ -38,6 +38,12 @@
     padding: 0;
     display: flex;
     list-style-type: none;
+    background-color: $white-color;
+    @include media-breakpoint-down(md) {
+      position: absolute;
+      top: 50px;
+      flex-direction: column;
+    }
   }
 
   &__link-item {
@@ -57,9 +63,16 @@
 
   &__logo {
     height: 35px;
+    @include media-breakpoint-down(md) {
+      order: 2;
+    }
   }
 
   &__nav {
     flex: 2 1 auto;
+    position: relative;
+    @include media-breakpoint-down(md) {
+      flex: 1 1;
+    }
   }
 }

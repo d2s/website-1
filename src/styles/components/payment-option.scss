@@ -4,11 +4,15 @@
   &__headline {
     text-align: center;
     width: 577px;
+    @include media-breakpoint-down(md) {
+      width: 100%;
+    }
     margin: 50px auto;
   }
   &__wrapper {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
   }
 }
 .payment-option {

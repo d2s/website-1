@@ -8,8 +8,6 @@ export default () => (
       <div className="c-documentary-box">
         <div className="c-documentary-box__thumbnail">
           <iframe
-            width="450"
-            height="250"
             src="https://www.youtube.com/embed/lxYFOM3UJzo"
             frameBorder="0"
             allow="autoplay; encrypted-media"

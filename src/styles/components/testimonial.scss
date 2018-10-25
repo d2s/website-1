@@ -89,9 +89,15 @@
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: space-between;
+    @include media-breakpoint-down(md) {
+      justify-content: center;
+    }
   }
 
   &__testimonial {
     width: 260px;
+    @include media-breakpoint-down(md) {
+      margin-top: 50px;
+    }
   }
 }

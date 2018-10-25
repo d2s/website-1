@@ -63,6 +63,9 @@
       font-weight: 600;
       color: $white-color;
     }
+    @include media-breakpoint-down(md) {
+      width: 100%;
+    }
   }
 
   &__tile {

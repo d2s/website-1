@@ -2,7 +2,9 @@
   display: flex;
   justify-content: space-around;
   align-items: stretch;
-  &__left, &__right {
+  flex-wrap: wrap;
+  &__left,
+  &__right {
     width: 40%;
   }
 

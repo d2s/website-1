@@ -10,4 +10,13 @@
   &__text {
     width: 300px;
   }
+  &__thumbnail {
+    & > iframe {
+      width: 450px;
+      height: 250px;
+      @include media-breakpoint-down(md) {
+        width: 100%;
+      }
+    }
+  }
 }

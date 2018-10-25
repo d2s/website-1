@@ -1,5 +1,8 @@
 .company-bar {
   padding: 50px 0;
+  @include media-breakpoint-down(md) {
+    margin-top: 300px;
+  }
 
   &__tagline {
     margin-bottom: 50px;
@@ -9,6 +12,7 @@
   &__logos {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
   }
 
   &__logo {
