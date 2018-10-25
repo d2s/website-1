@@ -5,10 +5,15 @@ import TextImageWrapper from '../components/text-image-wrapper'
 import TextBox from '../components/text-box'
 import Testimonial from '../components/testimonial'
 import access from '../static/access.png'
+import access2x from '../static/access@2x.png'
 import hire from '../static/hire.png'
+import hire2x from '../static/hire@2x.png'
 import visa from '../static/visa.png'
+import visa2x from '../static/visa@2x.png'
 import skills from '../static/skills.png'
-import employer from '../static/employer.svg'
+import skills2x from '../static/skills@2x.png'
+import employer from '../static/employer.png'
+import employer2x from '../static/employer@2x.png'
 import PaymentOptions from '../components/tech-hiring/payment-options'
 import PositionOverview from '../components/tech-hiring/position-overview'
 import dineke from '../static/testimonials/Testimonial_Dineke.jpg'
@@ -24,19 +29,19 @@ export default o => {
 
   return (
     <Layout page={page} lang={lang}>
-      <TextImageWrapper left page="tech-hiring" topic="access" img={access} />
+      <TextImageWrapper left page="tech-hiring" topic="access" img={access} responsive={true} />
 
-      <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} />
+      <TextImageWrapper page="tech-hiring" topic="hire" rightImage img={hire} responsive={true} />
 
-      <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} />
+      <TextImageWrapper page="tech-hiring" topic="skills" sign img={skills} responsive={true} />
 
       <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
 
-      <TextImageWrapper page="tech-hiring" topic="visa" img={visa} rightImage />
+      <TextImageWrapper page="tech-hiring" topic="visa" img={visa} responsive={true} rightImage />
 
       <PaymentOptions />
 
-      <TextImageWrapper page="tech-hiring" img={employer}>
+      <TextImageWrapper page="tech-hiring" img={employer} responsive={true}>
         <TextBox small page="tech-hiring" topic="employer.1" />
         <TextBox small page="tech-hiring" topic="employer.2" />
         <TextBox small page="tech-hiring" topic="employer.3" />
