@@ -19,8 +19,8 @@ export default o => {
 }
 
 export const query = graphql`
-  query TOSQuery($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query TOSQuery($slug: String!, $langKey: String!) {
+    markdownRemark(fields: { slug: { eq: $slug }, langKey: { eq: $langKey } }) {
       html
     }
   }

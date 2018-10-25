@@ -10,6 +10,7 @@ exports.createPages = ({ graphql, actions }) => {
             node {
               fields {
                 slug
+                langKey
               }
             }
           }
@@ -23,6 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
           context: {
             // Data passed to context is available in page queries as GraphQL variables.
             slug: node.fields.slug,
+            langKey: node.fields.langKey,
           },
         })
       })
