@@ -13,7 +13,7 @@ const employerTopics = Object.keys(
   i18n.getResource(currentLanguage, 'faq', 'employers')
 ).filter(topic => topic !== 'type')
 
-export default () => {
+export default o => {
   const lang = o.pageContext.langKey
   return (
     <Layout smallerHeader page="faq" lang={lang}>
