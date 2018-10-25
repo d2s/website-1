@@ -5,8 +5,7 @@ import getCurrentPage from '../utils/page'
 import { getLang } from '../utils/i18n'
 import { withPrefix } from 'gatsby'
 
-export default ({ page }) => {
-  const lang = getLang()
+export default ({ page, lang }) => {
   let image = 'default-og.png'
   if (page === 'about' || page === 'community') {
     image = `${page}-og.jpg`
@@ -20,6 +19,7 @@ export default ({ page }) => {
           <title>{t(`${page}.title`)}</title>
           {langs.map(l => (
             <link
+              key={l}
               rel="alternate"
               href={`https://www.honeypot.io/${l}/${
                 page === 'index' ? '' : page

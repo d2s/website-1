@@ -9,7 +9,7 @@ import Footer from '../components/footer'
 export default ({ smallerHeader, children, page, lang }) => (
   <I18nextProvider i18n={i18n} initialLanguage={lang}>
     <div>
-      <Seo page={page} />
+      <Seo page={page} lang={lang} />
       <Header smallerHeader={smallerHeader} page={page} />
       <div className="body">{children}</div>
       <Footer />
