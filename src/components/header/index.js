@@ -23,7 +23,7 @@ export default ({ smallerHeader, page }) => {
         <Headroom pinStart={80}>
           <div className="container-fluid header__wrapper">
             <div className="header__controls container">
-              <Link to={getLinkTo('')}>
+              <Link to={getLinkTo('')} className="header__logo_link">
                 <img src={logo} className="header__logo" />
               </Link>
               <Navigation page={page} />

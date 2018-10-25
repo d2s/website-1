@@ -25,6 +25,9 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
+    @include media-breakpoint-down(md) {
+      //justify-content: space-evenly;
+    }
   }
 
   &__introduction {
@@ -40,7 +43,6 @@
     list-style-type: none;
     background-color: $white-color;
     @include media-breakpoint-down(md) {
-      position: absolute;
       top: 50px;
       flex-direction: column;
     }
@@ -61,18 +63,22 @@
     }
   }
 
+  &__logo-link {
+    @include media-breakpoint-down(md) {
+      order: 1;
+    }
+  }
+
   &__logo {
     height: 35px;
-    @include media-breakpoint-down(md) {
-      order: 2;
-    }
   }
 
   &__nav {
     flex: 2 1 auto;
     position: relative;
     @include media-breakpoint-down(md) {
-      flex: 1 1;
+      flex: none;
+      order: -1;
     }
   }
 }
