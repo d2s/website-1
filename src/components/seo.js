@@ -40,7 +40,10 @@ export default ({ page, lang }) => {
           <meta property="og:image" content={withPrefix(image)} />
           <meta property="og:image:alt" content={t(`${page}.og-image-alt`)} />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:image" content={withPrefix(image)} />
+          <meta
+            property="twitter:image"
+            content={`${process.env.SITE_URL}/${image}`}
+          />
           <meta
             property="twitter:description"
             content={t(`${page}.og-description`)}
