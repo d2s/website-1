@@ -515,7 +515,7 @@ export default [
   {
     name: 'Wiktoria',
     last_name: 'Vowles',
-    title: 'Customer Success Manager',
+    title: 'Customer Development Manager',
     favorite_color: '#ffcc00',
     linkedin: 'https://www.linkedin.com/in/wiktoria-vowles-919821a4',
     twitter: 'https://twitter.com/WiktaV',
