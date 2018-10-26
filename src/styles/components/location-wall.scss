@@ -3,4 +3,14 @@
   justify-content: space-between;
   flex-wrap: wrap;
   margin-bottom: 100px;
+
+  @include media-breakpoint-down(md) {
+    align-content: space-between;
+    justify-content: space-evenly;
+    height: 600px;
+  }
+  @include media-breakpoint-down(sm) {
+    justify-content: center;
+    height: 1000px;
+  }
 }

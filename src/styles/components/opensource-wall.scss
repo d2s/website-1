@@ -6,6 +6,6 @@
   padding-top: 50px;
   @include media-breakpoint-down(sm) {
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 }
