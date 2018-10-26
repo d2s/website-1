@@ -32,7 +32,7 @@ export default ({ page, topic, sign, small }) => {
               noreferrer"
               href={links[page]}
             >
-              {t(`${getLang()}.sign-up`)}
+              {t(`sign-up`)}
             </a>
           )}
         </div>

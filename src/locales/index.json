@@ -128,7 +128,7 @@
     },
     "stack": {
       "headline": "Arbeite mit einem Tech-Stack, der Deinen Vorlieben entspricht",
-      "text": "Ob Ruby, Scala, JavaScript oder irgendetwas anderes ist, auf Honeypot bekommst Du nur Angebote von Unternehmen für Deinen bevorzugten Tech-Stack und Dein gewünschtes Gehalt."
+      "text": "Ob Ruby, Scala, JavaScript oder etwas anderes, auf Honeypot bekommst Du nur Angebote von Unternehmen für Deinen bevorzugten Tech-Stack und Dein gewünschtes Gehalt."
     },
     "location": {
       "headline": "Wähle die Stadt, die zu Dir passt",
@@ -184,7 +184,7 @@
     }
   },
   "nl": {
-    "sign-up": "Sluit je aan",
+    "sign-up": "Schrijf je in bij Honeypot",
     "page-intro": {
       "headline1": "Choose a",
       "headline2": "Job You Love",
@@ -211,7 +211,7 @@
       },
       "step3": {
         "headline": "Word zichtbaar op Honeypot",
-        "text": "Zodat bedrijven je profiel kunnen vinden en je aanbiedingen kunnen sturen compleet met salaris en tech stack."
+        "text": "Zodat bedrijven je profiel kunnen vinden en je aanbiedingen kunnen sturen, compleet met salaris en tech stack."
       },
       "step4": {
         "headline": "Word aangenomen",

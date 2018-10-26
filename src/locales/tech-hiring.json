@@ -104,6 +104,7 @@
     }
   },
   "de": {
+    "sign-up": "Registrieren",
     "page-intro": {
       "headline1": "Stelle Dein",
       "headline2": "Tech Team zusammen",
@@ -208,6 +209,7 @@
     }
   },
   "nl": {
+    "sign-up": "Schrijf je in bij Honeypot",
     "page-intro": {
       "headline1": "Bouwe Je",
       "headline2": "Tech Team",
