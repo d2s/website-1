@@ -1,11 +1,12 @@
 .company-bar {
-  padding: 50px 0;
+  margin-top: -20px;
+  padding: 10px 0;
   @include media-breakpoint-down(md) {
-    margin-top: 300px;
+    //    margin-top: 300px;
   }
 
   &__tagline {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     //flex: 0 0 200px;
   }
 

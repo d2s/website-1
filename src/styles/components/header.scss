@@ -12,11 +12,13 @@
   &--index {
     height: 600px;
     background: no-repeat top right url('../static/index.header.svg');
+    background-size: contain;
   }
 
   &--tech-hiring {
     height: 600px;
     background: no-repeat top right url('../static/tech-hiring.header.svg');
+    background-size: contain;
   }
 
   &__wrapper {
@@ -46,7 +48,7 @@
       position: absolute;
       width: 135px;
       background-color: $white-color;
-      top: 10px;
+      top: 30px;
       flex-direction: column;
       padding-bottom: 20px;
     }

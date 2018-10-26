@@ -20,10 +20,25 @@ export default class Navigation extends React.Component {
     this.state = {
       show: false,
     }
+    this.closeMenu = this.closeMenu.bind(this)
+    this.toggleMenu = this.toggleMenu.bind(this)
   }
   toggleMenu() {
     const { show } = this.state
     this.setState({ show: !show })
+  }
+  closeMenu() {
+    this.setState({ show: false })
+  }
+  componentDidMount() {
+    if (typeof window !== 'undefined') {
+      window.addEventListener('scroll', this.closeMenu)
+    }
+  }
+  componentWillUnmount() {
+    if (typeof window !== 'undefined') {
+      window.removeEventListener('scroll', this.closeMenu)
+    }
   }
   render() {
     return (
@@ -33,7 +48,7 @@ export default class Navigation extends React.Component {
             className={`header__nav ${
               !this.state.show ? 'header__nav--hide' : null
             }`}
-            onClick={this.toggleMenu.bind(this)}
+            onClick={this.toggleMenu}
           >
             <ul className="header__link-list">
               {links.map(({ name, link }) => (

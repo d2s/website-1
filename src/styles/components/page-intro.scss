@@ -4,7 +4,6 @@
   display: flex;
   flex-direction: column;
   @include media-breakpoint-down(md) {
-    padding-top: 450px;
     width: 100%;
   }
 
