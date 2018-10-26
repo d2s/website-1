@@ -120,16 +120,16 @@
       "text": "Jeden Montag erscheinen neue Talente in Deiner Suchliste. Kontaktiere die Besten der Besten!"
     },
     "hire": {
-      "headline": "Stell schneller ein!",
+      "headline": "Stelle schneller ein!",
       "text": "Mit einer Antwortrate von 95% hast Du schnell eine gute Auswahl an Talenten und kannst Dein Team effizienter zusammenstellen als über andere Kanäle. 80% der Unternehmen stellen innerhalb von vier Wochen jemanden ein."
     },
     "visa": {
-      "headline": "Kostenlose Visum Unterstützung",
-      "text": "Du willst Kontakt zu den besten globalen Talenten aufnehmen? Kein Problem, wir helfen Dir! Im Falle einer Einstellung von außerhalb der EU, bieten wir kostenlos einen umfassenden Visa-Support."
+      "headline": "Kostenloser Visa Support",
+      "text": "Du willst Kontakt zu den besten globalen Talenten aufnehmen? Kein Problem, wir helfen Dir! Falls Du jemanden von außerhalb der EU einstellst, bieten wir Dir kostenlos einen umfassenden Visa-Support."
     },
     "skills": {
-      "headline": "Verifizierte Skills",
-      "text": "Nur 10% aller Kandidaten schaffen es auf Honeypot. Alle Kandidaten laufen durch unsere Code Prüfung wie auch ein Telefonat mit unserem Talent Management Team. Bedeutet weniger Zeitverschwendung für Sie."
+      "headline": "Geprüfte Kandidaten",
+      "text": "Nur 10% aller Kandidaten schaffen es auf Honeypot. Alle Talente durchlaufen eine Code Prüfung sowie ein Video-Telefonat mit unserem Talent Management Team."
     },
     "employer": {
       "1": {
@@ -137,16 +137,16 @@
         "text": "Arbeit befindet sich im Umbruch. Honeypot fokussiert sich auf einen kandidatengetriebenen Recruitment Ansatz."
       },
       "2": {
-        "headline": "Tech Recruitment Schulung",
-        "text": "Benchmark eure Gehälter und Recruiting Praktiken mit unseren Customer Success Managers."
+        "headline": "Weiterbildung in Tech Recruitment",
+        "text": "Benchmarke Deine Gehälter und Recruiting Praktiken mit Hilfe unserer Customer Success Manager."
       },
       "3": {
-        "headline": "Arbeite an Deiner Employer-Brand",
+        "headline": "Kontaktiere Kandidaten, wenn sie kontaktiert werden möchten!",
         "text": "Finde Deine Kandidaten, wenn sie gefunden werden möchten! Kein markenschädigendes Direct Sourcing mehr!"
       }
     },
     "payment-options": {
-      "headline": "Honeypot bietet verschieden Zahlungsmodelle je nach Deinem Personalbedarf",
+      "headline": "Honeypot bietet verschiedene Zahlungsmodelle je nach Deinem Personalbedarf",
       "basic": {
         "name": "Basic",
         "tagline": "Pay per Hire",
