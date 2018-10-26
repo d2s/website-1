@@ -9,9 +9,9 @@
       "tagline": "We are active organizers of events across Europe, from cozy meetups to large, international conferences.",
       "link-text": "Show",
       "1": {
-        "headline": "GraphQL Europe",
-        "text": "GraphQL Europe is a conference with speakers from all around the world. Organized in collaboration with Prisma and the founding team of the GraphQL technology, GraphQL Europe is the largest GraphQL conference east of the Atlantic. Learn about GraphQL best practices from industry experts and become part of the thriving GraphQL community.",
-        "link": "https://www.graphql-europe.org/"
+        "headline": "GraphQL Conf",
+        "text": "GraphQL Conf is a conference with speakers from all around the world. Organized in collaboration with Prisma and the founding team of the GraphQL technology, GraphQL Conf is the largest GraphQL conference east of the Atlantic. Learn about GraphQL best practices from industry experts and become part of the thriving GraphQL community.",
+        "link": "https://www.graphqlconf.org/"
       },
       "2": {
         "headline": "Hive Conference",
@@ -75,13 +75,13 @@
       "2": "Tech Community Europas!"
     },
     "meet": {
-      "headline": "",
+      "headline": "Lerne die Community kennen",
       "tagline": "Wir organisieren aktiv eigene Events in Europa: vom Meetup und Workshop im kleineren Kreis bis hin zu großen internationalen Konferenzen.",
       "link-text": "",
       "1": {
-        "headline": "GraphQL Europe",
-        "text": "GraphQL Europe ist eine Konferenz mit Speakern aus der ganzen Welt.  Das Event in gemeinsamer Organisation mit Prisma und dem Gründerteam von GraphQL ist das grösste GraphQL Event ostwärts des Atlantiks. Erfahre mehr über GraphQL best practices von Branchenexperten und werde Teil der pulsierenden GraphQL community.",
-        "link": "https://www.graphql-europe.org/"
+        "headline": "GraphQL Conf",
+        "text": "GraphQL Conf ist eine Konferenz mit Speakern aus der ganzen Welt.  Das Event in gemeinsamer Organisation mit Prisma und dem Gründerteam von GraphQL ist das grösste GraphQL Event ostwärts des Atlantiks. Erfahre mehr über GraphQL best practices von Branchenexperten und werde Teil der pulsierenden GraphQL community.",
+        "link": "https://www.graphqlconf.org/"
       },
       "2": {
         "headline": "Hive Conference",
@@ -149,9 +149,9 @@
       "tagline": "Wij organiseren evenementen in heel Europa, van intieme bijeenkomsten en workshops tot grote, internationale conferenties. ",
       "link-text": "",
       "1": {
-        "headline": "GraphQL Europe",
-        "text": "GraphQL Europe is een conferentie met sprekers van over de hele wereld. Georganiseerd in samenwerking met Prisma en het founding team van de GraphQL technologie is GraphQL Europe is de grootste GraphQL-conferentie ten oosten van de Atlantische Oceaan. Lees meer over de best practices van GraphQL van experts uit de branche en maak deel uit van de bloeiende GraphQL-community.",
-        "link": "https://www.graphql-europe.org/"
+        "headline": "GraphQL Conf",
+        "text": "GraphQL Conf is een conferentie met sprekers van over de hele wereld. Georganiseerd in samenwerking met Prisma en het founding team van de GraphQL technologie is GraphQL Conf is de grootste GraphQL-conferentie ten oosten van de Atlantische Oceaan. Lees meer over de best practices van GraphQL van experts uit de branche en maak deel uit van de bloeiende GraphQL-community.",
+        "link": "https://www.graphqlconf.org/"
       },
       "2": {
         "headline": "Hive Conference",
@@ -179,7 +179,7 @@
       }
     },
     "documentaries": {
-      "headline": "Documentaries",
+      "headline": "Documentaires",
       "tagline": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld.",
       "elixir": {
         "headline": "Elixir: A Mini-Documentary",

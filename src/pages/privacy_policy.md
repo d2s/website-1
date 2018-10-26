@@ -1,9 +1,8 @@
-
 ## Privacy Policy of Honeypot
 
 The protection of your privacy is of particular importance to us.
 
-Honeypot GmbH, Schlesische Strasse 26, 10997 Berlin, Germany, e-mail:
+Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, e-mail:
 hello@honeypot.io (see imprint),hereinafter "Honeypot", as operator of the
 website "www.honeypot.io" is the controller for the use of the personal data of
 users of the website pursuant to Art. 4 (7) of the EU General Data Protection
@@ -18,6 +17,7 @@ We will collect, process and use your personal data in compliance with
 applicable European and German data protection law.
 
 ##### What is this Privacy Policy about?
+
 The details provided in this Privacy Policy shall provide you with information
 about when and how we collect personal data relating to you during your use of
 the websites and service operated by Honeypot under the domain ”honeypot.io”
@@ -37,6 +37,7 @@ use of your personal data in compliance with the laws applicable to the
 protection of personal data and the following provisions.
 
 ##### What is personal data?
+
 Personal data is any information relating to an identified or identifiable
 natural person. A person is identifiable, if the person can be identified,
 directly or indirectly, in particular by reference to an identification number
@@ -67,22 +68,23 @@ inter alia from the German Commercial Code, the German Tax Code or the Money
 Laundering Act. The storage periods can be up to ten years.
 
 ##### What kind of personal data does Honeypot collect?
+
 With every access of our Service data related to this event is being saved to a
 protocol file or database on the server of our hosting service provider. This
 also applies to data you enter in order to use the Service or contact us.
 
 We collect the following information:
 
-* File name of the content retrieved (respectively, information submitted by you
-in the course of using our service);
-* Date and time of the request;
-* Amount of data transferred, access status (content transmitted, content not
-found, etc.);
-* Operating system, browser and device type;
-* Screen resolution, language and time zone settings;
-* Referrer-URL, i.e. internet address of the website visited previous to
-accessing our offering;
-* IP address and name of your internet service provider.
+- File name of the content retrieved (respectively, information submitted by you
+  in the course of using our service);
+- Date and time of the request;
+- Amount of data transferred, access status (content transmitted, content not
+  found, etc.);
+- Operating system, browser and device type;
+- Screen resolution, language and time zone settings;
+- Referrer-URL, i.e. internet address of the website visited previous to
+  accessing our offering;
+- IP address and name of your internet service provider.
 
 The IP address is stored for the period of use only and will be deleted or
 anonymized afterwards immediately.
@@ -93,16 +95,17 @@ website. The legal basis of this processing is Art. 6 (1) sentence 1 lit. f)
 GDPR.
 
 ##### How does Honeypot use my personal data?
+
 Honeypot uses the data for the following purposes:
 
-* Providing the services you requested, e.g. matching you with other members of
-our service.
-* Making certain that you have the best possible user experience, e.g. edit your
-profile and manage your privacy settings.
-* Honoring our contractual obligations to you, e.g. inform you about possible
-connections (Interview Invites) via the platform, email or phone.
-* Enabling you to participate in our interactive service as far as you like.
-* To inform you about changes to our service.
+- Providing the services you requested, e.g. matching you with other members of
+  our service.
+- Making certain that you have the best possible user experience, e.g. edit your
+  profile and manage your privacy settings.
+- Honoring our contractual obligations to you, e.g. inform you about possible
+  connections (Interview Invites) via the platform, email or phone.
+- Enabling you to participate in our interactive service as far as you like.
+- To inform you about changes to our service.
 
 On our website you can set up an account to use our services in form of an
 online job marketplace platform. In case you sign up as a candidate (“Talent”),
@@ -143,6 +146,7 @@ period of [e.g. 2 years] we restrict the use of specific data and, as a
 consequence, the data may be used to comply with legal obligations only.
 
 ##### Does Honeypot transfer data to third parties?
+
 We transmit your personal data to third parties only if you have consented to
 the transfer, if the transfer is necessary for the performance of the contract,
 or we are enforced to do so by law.
@@ -177,6 +181,7 @@ standard contractual clauses or binding corporate rules) or a person has given
 its consent to do so.
 
 ##### Does Honeypot use Cookies?
+
 In addition to the aforementioned usage data, cookies are stored on your
 computer when you use our website. These are small text files that are stored on
 your device and through which Honeypot receives certain information. However,
@@ -199,6 +204,7 @@ personal demands and, for example, decline all cookies. However, non-acceptance
 of cookies may limit the functionality of our website.
 
 ##### Does Honeypot use analytics tools?
+
 Honeypot uses Google Analytics, a web analytics service provided by Google Inc.
 ("Google"). Google Analytics uses so-called "cookies", text files that are saved
 on your computer and that allow an analysis of your use of our website. The
@@ -224,7 +230,7 @@ of the data generated by the cookie and relating to your use of our website
 downloading and installing the browser plug-in available under the following
 link: http://tools.google.com/dlpage/gaoptout?hl=de.
 
-Honeypot uses Google Analytics with the extension "_anonymizeIp ()".
+Honeypot uses Google Analytics with the extension "\_anonymizeIp ()".
 Accordingly, IP addresses are truncated and, thus, a reference to persons can be
 ruled out. If the data collected about you have a personal reference, this
 reference is immediately excluded and the personal data is deleted immediately.
@@ -243,6 +249,7 @@ protection: http://www.google.com/intl/de/analytics/learn/privacy.html, and
 privacy policy: http://www.google.de/intl/de/policies/privacy.
 
 ##### Does Honeypot use Google Adwords?
+
 Honeypot uses Google Adwords to draw attention to our offers by using
 advertising materials (so-called Google Adwords) on external websites. In
 relation to the data of the advertising campaigns, we can determine how
@@ -305,6 +312,7 @@ http://www.networkadvertising.org. Google is part of the EU-US Privacy Shield,
 https://www.privacyshield.gov/EU-US-Framework.
 
 ##### Does Honeypot use Social-Media-Plug-ins?
+
 Honeypot currently uses the following social media plug-ins on our website:
 Facebook, Twitter, LinkedIn, Github.
 
@@ -382,6 +390,7 @@ https://enterprise.github.com/privacy. Github is part of the
 EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
 
 ##### Does Honeypot save my data in case of me making a request?
+
 In case you direct an inquiry to Honeypot, Honeypot saves the communication
 history with you as well as information and data submitted in the course of this
 communication (e.g. email address), in order to optimally answer your request
@@ -390,6 +399,7 @@ storage is no longer required or restrict the processing if statutory retention
 periods exist.
 
 ##### Is my data secure?
+
 Honeypot takes all appropriate technical and organizational security measures to
 protect your data against manipulation, loss, destruction or unauthorized access
 by third parties. Our systems are secured against unauthorized access.. However,
@@ -397,6 +407,7 @@ we have to point out that the Internet does not allow for absolute data security
 despite all technical measures. We are not liable for actions of third parties.
 
 ##### What are my rights in relation to Honeypot?
+
 You have the right of access, rectification or erasure, restriction of
 processing, to object and to data portability with respect to your personal
 data.
@@ -424,6 +435,7 @@ countermeasures against illegal activities or suspected fraud, or to apply or
 enforce any of our contracts and licensing rights.
 
 ##### Is an amendment of the Privacy Policy possible?
+
 Honeypot reserves the right to amend this Privacy Policy at any time, but
 Honeypot will always observe the applicable statutes concerning data protection.
 An up-to-date version is available at our website. Honeypot recommends that
@@ -431,11 +443,12 @@ users regularly review our Privacy Policy in order to be informed about our
 current Privacy Policy.
 
 ##### How do I contact Honeypot in regard to data privacy aspects?
+
 We look forward to your contact in case you might have requests, questions, or
 suggestions relating to data privacy. Please direct written requests to:
 
 Honeypot GmbH<br />
-Schlesische Strasse 26<br /> 
+Schlesische Straße 26<br />
 10997 Berlin, Germany<br />
 
 or

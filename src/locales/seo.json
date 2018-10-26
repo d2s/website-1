@@ -26,7 +26,7 @@
     },
     "community": {
       "title": "Community - $t(general:company-name) | $t(general:de.tagline2)",
-      "description": "Wir sind stolze Organisatoren der Konferenzen Hive und GraphQL Europe! Halte Dich auf dem Laufenden über unsere bevorstehenden Events und Konferenzen und schau Dir unser neuesten Dokumentarfilme oder Open Source Contributions an.",
+      "description": "Wir sind stolze Organisatoren der Konferenzen Hive und GraphQL Conf! Halte Dich auf dem Laufenden über unsere bevorstehenden Events und Konferenzen und schau Dir unser neuesten Dokumentarfilme oder Open Source Contributions an.",
       "og-title": "$t(community.title)",
       "og-description": "$t(community.description)",
       "og-image": "",
@@ -84,7 +84,7 @@
     },
     "community": {
       "title": "Community - $t(general:company-name) | $t(general:en.tagline2)",
-      "description": "We’re proud organizers of Hive by Honeypot and GraphQL Europe! Stay up to date with our upcoming talks and conferences and check out our latest documentaires, open source stories and contributions.",
+      "description": "We’re proud organizers of Hive by Honeypot and GraphQL Conf! Stay up to date with our upcoming talks and conferences and check out our latest documentaires, open source stories and contributions.",
       "og-title": "$t(community.title)",
       "og-description": "$t(community.description)",
       "og-image": "",
@@ -142,7 +142,7 @@
     },
     "community": {
       "title": "Community - $t(general:company-name) | $t(general:nl.tagline)",
-      "description": "We zijn de trotse organisatoren van Hive by Honeypot en GraphQL Europe! Blijf op de hoogte van onze aankomende events en conferenties en bekijk onze nieuwste documentaires en open source projecten.",
+      "description": "We zijn de trotse organisatoren van Hive by Honeypot en GraphQL Conf! Blijf op de hoogte van onze aankomende events en conferenties en bekijk onze nieuwste documentaires en open source projecten.",
       "og-title": "$t(community.title)",
       "og-description": "$t(community.description)",
       "og-image": "",

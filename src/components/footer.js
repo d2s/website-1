@@ -110,9 +110,9 @@ export default () => {
                   target="_blank"
                   rel="noopener
                   noreferrer"
-                  href={'https://www.graphql-europe.org/'}
+                  href={'https://www.graphqlconf.org/'}
                 >
-                  {t('GraphQL Europe')}
+                  {t('GraphQL Conf')}
                 </a>
               </li>
               <li className="footer__link-item">

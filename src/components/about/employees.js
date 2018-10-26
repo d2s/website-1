@@ -53,8 +53,6 @@ import lisa from '../../static/employees/Bearpot_Team.jpg'
 import lisa_ from '../../static/employees/Bearpot_Team.jpg'
 import mai from '../../static/employees/DSC02011.jpg'
 import mai_ from '../../static/employees/DSC02015.jpg'
-import marc from '../../static/employees/Bearpot_Team.jpg'
-import marc_ from '../../static/employees/Bearpot_Team.jpg'
 import matthijs from '../../static/employees/DSC01869.jpg'
 import matthijs_ from '../../static/employees/DSC01875.jpg'
 import max from '../../static/employees/DSC01825.jpg'
@@ -117,18 +115,6 @@ export default [
     github: '',
     image: apoorv,
     image_: apoorv,
-  },
-  {
-    name: 'Baku',
-    last_name: '',
-    title: 'Vice President of Dogs',
-    favorite_color: '',
-    linkedin: '',
-    twitter: '',
-    image_: agathe_,
-    github: '',
-    image: baku,
-    image_: baku_,
   },
   {
     name: 'Buğra',
@@ -384,17 +370,6 @@ export default [
     image_: mai_,
   },
   {
-    name: 'Marc',
-    last_name: 'Redemske',
-    title: 'Software Developer',
-    favorite_color: '',
-    linkedin: '',
-    twitter: '',
-    github: '',
-    image: marc,
-    image_: marc_,
-  },
-  {
     name: 'Matthijs',
     last_name: 'den Boer',
     title: 'Business Development Manager',
@@ -463,7 +438,7 @@ export default [
   {
     name: 'Munya',
     last_name: 'Mangwana',
-    title: 'Customer Success Manager',
+    title: 'Product Owner',
     favorite_color: 'Navy Blue',
     linkedin: '',
     twitter: '',
@@ -547,5 +522,17 @@ export default [
     github: '',
     image: wiktoria,
     image_: wiktoria_,
+  },
+  {
+    name: 'Baku',
+    last_name: '',
+    title: 'Vice President of Dogs',
+    favorite_color: '',
+    linkedin: '',
+    twitter: '',
+    image_: agathe_,
+    github: '',
+    image: baku,
+    image_: baku_,
   },
 ]
