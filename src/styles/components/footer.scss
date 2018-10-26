@@ -11,7 +11,18 @@
   margin: 0 auto;
 
   &__column {
+    margin: 0 40px 40px 40px;
+    order: -1;
     flex-grow: 1;
+    @include media-breakpoint-down(md) {
+      margin: 0 20px 20px 20px;
+    }
+  }
+
+  &__logo-column {
+    @include media-breakpoint-down(md) {
+      order: 1 !important;
+    }
   }
 
   &__headline {

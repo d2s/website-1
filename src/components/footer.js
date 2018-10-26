@@ -24,7 +24,7 @@ export default () => {
     <NamespacesConsumer ns={['footer', 'header']}>
       {t => (
         <footer className="footer">
-          <div className="footer__column">
+          <div className="footer__column footer__logo-column">
             <div className="footer__wrapper">
               <Link to="/">
                 <img src={logo} className="footer__logo" />
