@@ -18,6 +18,7 @@ export default ({ page, lang }) => {
         <Helmet>
           <html lang={lang} />
           <title>{t(`${page}.title`)}</title>
+          <link rel="shortcut icon" type="image/svg" href="/favicon.svg" />
           {langs.map(l => (
             <link
               key={l}
