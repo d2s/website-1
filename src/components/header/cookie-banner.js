@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Link from 'gatsby-link'
+import { getLinkTo } from '../../utils/page'
 import { NamespacesConsumer } from 'react-i18next'
 
 //sets up cookie info
@@ -47,7 +48,10 @@ export default class CookieBanner extends Component {
                   >
                     {t('accept')}
                   </a>
-                  <Link className="c-cookie-banner__info" to="privacy_policy">
+                  <Link
+                    className="c-cookie-banner__info"
+                    to={getLinkTo('privacy_policy')}
+                  >
                     {t('info')}
                   </Link>
                 </span>
