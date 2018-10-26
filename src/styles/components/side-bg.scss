@@ -6,11 +6,17 @@
   //top: 0;
 
   &--left {
+    @include media-breakpoint-down(md) {
+      top: 0;
+    }
     left: 0;
     bottom: 0;
   }
 
   &--right {
+    @include media-breakpoint-down(md) {
+      bottom: 0;
+    }
     right: 0;
   }
 
@@ -24,7 +30,7 @@
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     filter: FlipH;
-    -ms-filter: "FlipH";
+    -ms-filter: 'FlipH';
   }
 
   &--flip-v {
@@ -33,7 +39,7 @@
     -webkit-transform: scaleY(-1);
     transform: scaleY(-1);
     filter: FlipV;
-    -ms-filter: "FlipV";
+    -ms-filter: 'FlipV';
   }
 
   &--index {
@@ -44,4 +50,3 @@
     background: no-repeat left top url('../static/leaf.svg');
   }
 }
-

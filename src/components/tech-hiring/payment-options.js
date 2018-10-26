@@ -7,11 +7,11 @@ export default () => (
   <NamespacesConsumer ns={'tech-hiring'}>
     {t => (
       <div className="payment-options" id="pricing">
-        <SideBackground settings={['left', 'tech-hiring']} />
-        <SideBackground settings={['right', 'rotate', 'tech-hiring']} />
         <h2 className="payment-options__headline">
           {t('payment-options.headline')}
         </h2>
+        <SideBackground settings={['left', 'tech-hiring']} />
+        <SideBackground settings={['right', 'rotate', 'tech-hiring']} />
         <div className="payment-options__wrapper">
           <PaymentOption option="basic" modifier="yellow" />
           <PaymentOption option="member" modifier="blue" />

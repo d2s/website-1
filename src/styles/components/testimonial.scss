@@ -2,6 +2,16 @@
 .testimonial-wrapper {
   position: relative;
   margin-bottom: 100px;
+  > .side-bg--left.side-bg--tech-hiring {
+    @include media-breakpoint-down(md) {
+      display: none;
+    }
+  }
+  > .side-bg--right.side-bg--tech-hiring {
+    @include media-breakpoint-down(md) {
+      top: -120px;
+    }
+  }
 }
 .testimonial {
   margin: 0 auto;
