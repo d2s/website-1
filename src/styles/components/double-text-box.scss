@@ -5,6 +5,9 @@
   flex-wrap: wrap;
   &__left,
   &__right {
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+    }
     width: 40%;
   }
 

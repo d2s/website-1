@@ -120,16 +120,16 @@
       "text": "Jeden Montag erscheinen neue Talente in Deiner Suchliste. Kontaktiere die Besten der Besten!"
     },
     "hire": {
-      "headline": "Stell schneller ein!",
+      "headline": "Stelle schneller ein!",
       "text": "Mit einer Antwortrate von 95% hast Du schnell eine gute Auswahl an Talenten und kannst Dein Team effizienter zusammenstellen als über andere Kanäle. 80% der Unternehmen stellen innerhalb von vier Wochen jemanden ein."
     },
     "visa": {
-      "headline": "Kostenlose Visum Unterstützung",
-      "text": "Du willst Kontakt zu den besten globalen Talenten aufnehmen? Kein Problem, wir helfen Dir! Im Falle einer Einstellung von außerhalb der EU, bieten wir kostenlos einen umfassenden Visa-Support."
+      "headline": "Kostenloser Visa Support",
+      "text": "Du willst Kontakt zu den besten globalen Talenten aufnehmen? Kein Problem, wir helfen Dir! Falls Du jemanden von außerhalb der EU einstellst, bieten wir Dir kostenlos einen umfassenden Visa-Support."
     },
     "skills": {
-      "headline": "Verifizierte Skills",
-      "text": "Nur 10% aller Kandidaten schaffen es auf Honeypot. Alle Kandidaten laufen durch unsere Code Prüfung wie auch ein Telefonat mit unserem Talent Management Team. Bedeutet weniger Zeitverschwendung für Sie."
+      "headline": "Geprüfte Kandidaten",
+      "text": "Nur 10% aller Kandidaten schaffen es auf Honeypot. Alle Talente durchlaufen eine Code Prüfung sowie ein Video-Telefonat mit unserem Talent Management Team."
     },
     "employer": {
       "1": {
@@ -137,16 +137,16 @@
         "text": "Arbeit befindet sich im Umbruch. Honeypot fokussiert sich auf einen kandidatengetriebenen Recruitment Ansatz."
       },
       "2": {
-        "headline": "Tech Recruitment Schulung",
-        "text": "Benchmark eure Gehälter und Recruiting Praktiken mit unseren Customer Success Managers."
+        "headline": "Weiterbildung in Tech Recruitment",
+        "text": "Benchmarke Deine Gehälter und Recruiting Praktiken mit Hilfe unserer Customer Success Manager."
       },
       "3": {
-        "headline": "Arbeite an Deiner Employer-Brand",
+        "headline": "Kontaktiere Kandidaten, wenn sie kontaktiert werden möchten!",
         "text": "Finde Deine Kandidaten, wenn sie gefunden werden möchten! Kein markenschädigendes Direct Sourcing mehr!"
       }
     },
     "payment-options": {
-      "headline": "Honeypot bietet verschieden Zahlungsmodelle je nach Deinem Personalbedarf",
+      "headline": "Honeypot bietet verschiedene Zahlungsmodelle je nach Deinem Personalbedarf",
       "basic": {
         "name": "Basic",
         "tagline": "Pay per Hire",
@@ -211,7 +211,7 @@
   "nl": {
     "sign-up": "Schrijf je in bij Honeypot",
     "page-intro": {
-      "headline1": "Bouwe Je",
+      "headline1": "Bouw Je",
       "headline2": "Tech Team",
       "tagline": "Honeypot is eenvoudigste manier om Software Developers, DevOps Engineers, Data Scientists, Product Owners, QA Testers en Engineering Leaders aan te nemen.",
       "button1": "Begin nu!",
@@ -221,7 +221,7 @@
       "tagline": "Al meer dan 1000 bedrijven gebruiken Honeypot"
     },
     "access": {
-      "headline": "Iedere Maandag Toegang tot Nieuw Tech Talent",
+      "headline": "Iedere maandag toegang tot nieuw tech talent",
       "text": "Elke maandag verschijnt er nieuw tech talent in je zoeklijst.  Connect met de talenten die jou aanspreken!"
     },
     "hire": {
@@ -230,7 +230,7 @@
     },
     "visa": {
       "headline": "Gratis Visa Support",
-      "text": "Gratis Visa Support om 's werelds beste developers aan te nemen.  Wil je in contact komen met het beste tech talent van over de hele wereld?  We have your back! Wanneer je iemand van buiten de EU aan neemt, bieden wij gratis visa support!"
+      "text": "Gratis visa support om 's werelds beste developers aan te nemen.  Wil je in contact komen met het beste tech talent van over de hele wereld?  We have your back! Wanneer je iemand van buiten de EU aanneemt, bieden wij gratis visa support!"
     },
     "skills": {
       "headline": "Geverifieerde skills",
@@ -288,7 +288,7 @@
         "text": "Vind frontend, backend, devops, mobile en game developers op Honeypot, met skills zoals JavaScript, Ruby, PHP, Android, iOS, Scala, Java en nog veel meer."
       },
       "2": {
-        "headline": "Produc Talent",
+        "headline": "Product Talent",
         "text": "Bouw je pijplijn van QA Testers en Product Owners om je product visie en richting te geven."
       },
       "3": {
