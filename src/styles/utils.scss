@@ -26,11 +26,15 @@ a {
 }
 
 .bg-stripes {
-  background: no-repeat center url('../static/advisors-bg.png');
+  background: no-repeat center center url('../static/advisors-bg.png');
 }
 
 .bg-stripes-os {
-  background: no-repeat center url('../static/opensource-bg.png');
+  background: no-repeat center center url('../static/opensource-bg.png');
+  @include media-breakpoint-down(sm) {
+    background: no-repeat center center url('../static/bg-stripes@2x.png');
+    background-size: 1500px auto;
+  }
 }
 
 .text-link {

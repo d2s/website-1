@@ -1,6 +1,16 @@
 .c-community-header {
   &__image {
+    @include media-breakpoint-down(sm) {
+      display: none;
+    }
     max-width: 100%;
+  }
+  &__image2 {
+    max-width: 100%;
+    display: none;
+    @include media-breakpoint-down(sm) {
+      display: block;
+    }
   }
   &__headline {
     margin: 50px auto;

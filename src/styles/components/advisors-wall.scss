@@ -1,5 +1,9 @@
 .c-advisors-wall {
-  background: no-repeat center url('../static/advisors-bg.png');
+  background: no-repeat center center url('../static/advisors-bg.png');
+  @include media-breakpoint-down(sm) {
+    background: no-repeat center center url('../static/bg-stripes@2x.png');
+    background-size: 1090px 1704px;
+  }
   &__wrapper {
     display: flex;
     flex-flow: row wrap;
