@@ -1,7 +1,27 @@
 const path = require(`path`)
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
+
+  const Redirects = {
+    '/pages/for_employers': '/tech-hiring',
+    '/pages/about': '/about',
+    '/pages/how_it_works': '/',
+    '/pages/privacy': '/privacy_policy',
+    '/pages/legal_notice': '/legal_notice',
+    '/pages/faq': '/faq',
+    '/pages/terms_of_service': '/terms_of_service',
+  }
+
+  for (let page of Object.keys(Redirects)) {
+    createRedirect({
+      fromPath: page,
+      toPath: Redirects[page],
+      isPermanent: true,
+      redirectInBrowser: true,
+    })
+  }
+
   return new Promise((resolve, reject) => {
     graphql(`
       {

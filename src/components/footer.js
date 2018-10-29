@@ -90,6 +90,11 @@ export default () => {
                   {t('privacy_policy')}
                 </Link>
               </li>
+              <li className="footer__link-item">
+                <Link className="footer__link" to={`${prefix}terms_of_service`}>
+                  {t('terms-of-service')}
+                </Link>
+              </li>
             </ul>
           </div>
           <div className="footer__column">
