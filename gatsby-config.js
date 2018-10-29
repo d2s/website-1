@@ -13,6 +13,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-google-tagmanager`,
+      options: {
+        id: 'GTM-PJX579',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './static/favicon.png',
