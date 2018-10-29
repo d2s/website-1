@@ -4,10 +4,9 @@
   box-shadow: 0 2px 26px 1px rgba(0, 0, 0, 0.07);
   border-radius: 4px;
   width: 390px;
+  margin-bottom: 50px;
   @include media-breakpoint-down(sm) {
     width: 100%;
-    margin: 0;
-    margin-bottom: 20px;
   }
   &--gray {
     background-color: $gray-4;
