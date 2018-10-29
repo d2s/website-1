@@ -1,0 +1,100 @@
+$step-list-counter-size: 40px;
+$global-spacing: 15px;
+.step-list {
+  list-style: none;
+  margin-left: 0;
+  counter-reset: step-list-counter;
+
+  @include media-breakpoint-up(md) {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.step-list__item {
+  position: relative;
+  @include media-breakpoint-down(md) {
+    padding-left: $step-list-counter-size + $global-spacing;
+    min-height: $step-list-counter-size;
+
+    // Vertically align the text in the middle
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    &:not(:first-child) {
+      margin-top: $step-list-counter-size;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    text-align: center;
+    padding-left: $global-spacing;
+    padding-right: $global-spacing;
+
+    // Equal width columns
+    flex: 1;
+  }
+}
+
+// Step counter ⓵ ⓶ ⓷ …
+.step-list__item:before {
+  border: 1px solid;
+  border-radius: 50%;
+  color: $blue-2;
+  counter-increment: step-list-counter;
+  content: counter(step-list-counter);
+  display: inline-block;
+  width: $step-list-counter-size;
+  height: $step-list-counter-size;
+  text-align: center;
+  line-height: 2.8em;
+
+  //@include font-size($step-list-counter-size / 2, $step-list-counter-size);
+  @include media-breakpoint-down(md) {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  @include media-breakpoint-up(md) {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: $global-spacing / 2;
+  }
+}
+
+// Line between steps - - - …
+.step-list__item:not(:last-child):after {
+  background-color: $blue-3;
+  content: ' ';
+  position: absolute;
+  top: $step-list-counter-size;
+  left: $step-list-counter-size / 2;
+  width: 1px;
+  height: 100%;
+
+  @include media-breakpoint-up(md) {
+    height: 1px;
+    width: calc(100% - #{$step-list-counter-size});
+    left: calc(50% + #{$step-list-counter-size / 2});
+    top: $step-list-counter-size / 2;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.company-invite-received {
+  text-align: center;
+  &__header-heading {
+    font-weight: 600;
+    margin: 20px auto;
+  }
+  &__next-steps {
+    font-weight: 600;
+    margin: 40px auto;
+  }
+  &__step-list {
+    margin: 0 auto;
+    width: 800px;
+  }
+}
