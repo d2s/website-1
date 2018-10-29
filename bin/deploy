@@ -1,0 +1,18 @@
+#!/bin/bash
+if [ "$TRAVIS_BRANCH" == "master" -o "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_TAG" != "" ]
+then
+  mkdir -p tmp
+  npm run build 2>&1| tee tmp/output.txt
+  if [ "$(cat tmp/output.txt | grep error)" == "" ]; then
+    if [ -n "$S3_CFG" ]; then
+      bundle exec s3_website cfg apply --headless
+      [ $? -gt 0 ] && echo 'failed to apply config' && exit 1
+    fi
+    echo "Uploading assets $( [ -n "$S3_FORCE" ] && echo 'with --force ')..."
+    bundle exec s3_website push $( [ -n "$S3_FORCE" ] && echo '--force')
+  else
+    exit 1
+  fi
+else
+  echo "no deployment for branch $TRAVIS_BRANCH"
+fi
