@@ -12,6 +12,12 @@ module.exports = {
     siteUrl: `https://www.honeypot.io`,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-favicon',
+      options: {
+        logo: './static/favicon.png',
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',

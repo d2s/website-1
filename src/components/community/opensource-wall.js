@@ -7,12 +7,12 @@ import searchspot from '../../static/searchspot-icon.png'
 import CaptionBar from '../caption'
 
 export default () => (
-  <div className="container-fluid bg-stripes-os">
+  <div className="container-fluid">
     <NamespacesConsumer ns={'community'}>
       {t => (
         <div>
           <CaptionBar page="community" topic="opensource" />
-          <div className="c-opensource-wall">
+          <div className="c-opensource-wall bg-stripes-os">
             {[
               [searchspot, 'https://github.com/honeypotio/searchspot'],
               [reina, 'https://github.com/honeypotio/reina'],
