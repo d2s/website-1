@@ -1,16 +1,12 @@
 language: node_js
 node_js:
-  - "6.9.5"
+  - "10.10.0"
 cache:
   bundler: true
   directories:
     - node_modules
-before_install:
-  - ruby --version
 install:
-  - npm install node-smushit -g
   - npm install
-  - bundle install
 
 script: npm test && travis_wait ./bin/deploy
 
