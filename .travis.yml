@@ -5,11 +5,13 @@ cache:
   bundler: true
   directories:
     - node_modules
+before_install:
+  - ruby --version
 install:
   - npm install
+  - bundle install
 
-    # script: npm test && travis_wait ./bin/deploy
-script: npm run build
+script: npm test && travis_wait ./bin/deploy
 
 env:
   global:
