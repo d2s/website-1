@@ -3,7 +3,6 @@ import Layout from '../components/layout'
 import TextBox from '../components/text-box'
 import { NamespacesConsumer } from 'react-i18next'
 import i18n, { getLang } from '../utils/i18n'
-import '../styles/main.scss'
 
 const currentLanguage = getLang()
 const talentTopics = Object.keys(

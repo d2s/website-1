@@ -4,7 +4,7 @@ import i18n, { getLang } from '../utils/i18n'
 import Seo from '../components/seo'
 import Header from '../components/header/'
 import Footer from '../components/footer'
-//import { StickyContainer } from 'react-sticky'
+import '../styles/main.scss'
 
 export default ({ smallerHeader, children, page, lang }) => (
   <I18nextProvider i18n={i18n} initialLanguage={lang}>

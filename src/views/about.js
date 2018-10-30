@@ -17,8 +17,6 @@ import CareText from '../components/about/care-text'
 import EmployeeWall from '../components/about/employee-wall'
 import LocationWall from '../components/about/location-wall'
 
-import '../styles/main.scss'
-
 export default o => {
   const lang = o.pageContext.langKey
   return (

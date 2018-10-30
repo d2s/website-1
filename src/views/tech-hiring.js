@@ -18,7 +18,6 @@ import PaymentOptions from '../components/tech-hiring/payment-options'
 import PositionOverview from '../components/tech-hiring/position-overview'
 import dineke from '../static/testimonials/Testimonial_Dineke.jpg'
 import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
-import '../styles/main.scss'
 
 export default o => {
   const lang = o.pageContext.langKey

@@ -27,8 +27,6 @@ import emil from '../static/testimonials/testimonial_emil.png'
 import veronica from '../static/testimonials/Testimonial_Veronica.png'
 import peter from '../static/testimonials/Testimonial_Peter_Ringelmann.jpg'
 
-import '../styles/main.scss'
-
 export default o => {
   const lang = o.pageContext.langKey
   const page = o.pageContext.slug
