@@ -66,6 +66,7 @@ module.exports = {
       resolve: `gatsby-plugin-sitemap`,
       options: {
         output: `/sitemap.xml`,
+        exclude: [`/company_invite_received`],
         query: `{
           site {
             siteMetadata {
