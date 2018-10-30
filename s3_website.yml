@@ -75,7 +75,14 @@ s3_key_prefix: <%= ENV['PREFIX_FOLDER'] %>
 redirects:
   pages/404: errors/404
   pages/500: errors/500
-  pages/how_does_it_work: /
+  pages/how_it_works: /
+  pages/for_employers: /tech-hiring
+  pages/about: /about
+  pages/terms_of_service: /terms_of_service
+  pages/legal_notice: /legal_notice
+  pages/privacy: /privacy_policy
+  pages/faq: /faq
+  
 
 routing_rules:
   - condition:
