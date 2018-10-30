@@ -71,7 +71,7 @@ export default class Navigation extends React.Component {
                   target="_blank"
                   rel="noopener
                   noreferrer"
-                  href="https://app.honeypot.io/users/login"
+                  href="/users/login"
                 >
                   {t('login')}
                 </a>

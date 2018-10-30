@@ -6,16 +6,16 @@ require('dotenv').config({
 })
 
 module.exports = {
-  pathPrefix: process.env.SITE_URL,
+  pathPrefix: process.env.HOST,
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: "Honeypot.io | Europe's Tech & Developer-Focused Job Platform",
     siteUrl: `https://www.honeypot.io`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
-        id: 'GTM-PJX579',
+        id: process.env.GTM_ID,
       },
     },
     {

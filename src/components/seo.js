@@ -23,31 +23,22 @@ export default ({ page, lang }) => {
             <link
               key={l}
               rel="alternate"
-              href={`https://www.honeypot.io/${l}/${pageTitle}`}
+              href={`/${l}/${pageTitle}`}
               hrefLang={l}
             />
           ))}
           <meta name="description" content={t(`${page}.description`)} />
           <meta property="og:type" content="website" />
           <meta property="og:title" content={t(`${page}.og-title`)} />
-          <meta
-            property="og:url"
-            content={`https://www.honeypot.io/${lang}/${pageTitle}`}
-          />
+          <meta property="og:url" content={`/${lang}/${pageTitle}`} />
           <meta
             property="og:description"
             content={t(`${page}.og-description`)}
           />
-          <meta
-            property="og:image"
-            content={`${process.env.SITE_URL}/${image}`}
-          />
+          <meta property="og:image" content={`/${image}`} />
           <meta property="og:image:alt" content={t(`${page}.og-image-alt`)} />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta
-            property="twitter:image"
-            content={`${process.env.SITE_URL}/${image}`}
-          />
+          <meta property="twitter:image" content={`/${image}`} />
           <meta
             property="twitter:description"
             content={t(`${page}.og-description`)}

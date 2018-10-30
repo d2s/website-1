@@ -33,7 +33,7 @@ export default ({ option, modifier }) => {
               ))}
           </ul>
           <a
-            href="https://app.honeypot.io/invite_requests/new"
+            href="/invite_requests/new"
             target="_blank"
             rel="noopener
             noreferrer"
