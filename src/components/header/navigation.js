@@ -68,7 +68,6 @@ export default class Navigation extends React.Component {
               <li className="header__link-item">
                 <a
                   className="text-link"
-                  target="_blank"
                   rel="noopener
                   noreferrer"
                   href="/users/login"
@@ -79,7 +78,6 @@ export default class Navigation extends React.Component {
               <li className="header__link-item">
                 <a
                   className="button button--primary header__link-item--button"
-                  target="_blank"
                   rel="noopener
                   noreferrer"
                   href={extlinks.index}
