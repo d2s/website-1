@@ -44,6 +44,7 @@ export default ({ page, lang }) => {
             content={t(`${page}.og-description`)}
           />
           <meta property="twitter:title" content={t(`${page}.og-title`)} />
+          <meta name="google-site-verification" content="y7RH4nna34BHMme9iRo-fSyKxXNTp6_k5ghKEaKY0bI" />
         </Helmet>
       )}
     </NamespacesConsumer>
