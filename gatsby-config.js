@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-favicon',
       options: {
-        logo: './static/favicon.png',
+        logo: './static/favicon.svg',
       },
     },
     'gatsby-plugin-react-helmet',
