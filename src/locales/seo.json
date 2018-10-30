@@ -55,6 +55,14 @@
       "og-description": "$t(privacy_policy.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
+    },
+    "terms_of_service": {
+      "title": "Nutzungsbedingungen - $t(general:company-name) | $t(general:de.tagline2)",
+      "description": "",
+      "og-title": "$t(privacy_policy.title)",
+      "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:de.tagline)"
     }
   },
   "en": {
@@ -113,6 +121,14 @@
       "og-description": "$t(privacy_policy.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
+    },
+    "terms_of_service": {
+      "title": "Terms of Service - $t(general:company-name) | $t(general:en.tagline2)",
+      "description": "",
+      "og-title": "$t(terms_of_servie.title)",
+      "og-description": "$t(terms_of_servie.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:en.tagline)"
     }
   },
   "nl": {
@@ -169,6 +185,14 @@
       "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
       "og-title": "$t(privacy_policy.title)",
       "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    },
+    "terms_of_service": {
+      "title": "Terms of Service - $t(general:company-name) | $t(general:nl.tagline2)",
+      "description": "",
+      "og-title": "$t(terms_of_service.title)",
+      "og-description": "$t(terms_of_service.description)",
       "og-image": "",
       "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
     }
