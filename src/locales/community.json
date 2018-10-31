@@ -49,11 +49,11 @@
     },
     "opensource": {
       "headline": "Love contributing to open-source projects?",
-      "tagline": "So do we! Check out these internal products our tech team members have shared with the world.",
+      "tagline": "So do we! Check out these internal tools our tech team members have shared with the world.",
       "link-text": "Show",
       "1": {
         "name": "Searchspot",
-        "text": "Responsible for Honeypot's ElasticSearch data and mainly powered by Rust and Iron, companies use it on the platform to search through"
+        "text": "Responsible for Honeypot's ElasticSearch data and mainly powered by Rust and Iron, companies use it on the platform to search the developers they need to hire."
       },
       "2": {
         "name": "Reina",
