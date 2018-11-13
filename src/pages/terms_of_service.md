@@ -2,7 +2,7 @@
 
 [For Talents](#for-talents) & [For Employers](#for-employers)
 
-### For Talents
+<h3 id="#for-talents">For Talents</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 167934 B, Managing Directors: Kaya Taner, Emma Tracey, VAT-ID: DE300856850 (hereinafter referred to as "Honeypot" or "us" ) operates an online job marketplace platform via https://www.honeypot.io/ and other channels (the "Service" ).
 The Service connects companies ( "Company or "Companies" ), and candidates ( "Talent" or "Talents" ) with each other trying to match the right person with the right job.
@@ -149,7 +149,7 @@ Companies are natural persons or business entities searching for new employees o
    7. The English version of these Terms of Service is decisive.
    8. By submitting an application to join the Service, Talent affirms and acknowledges that Talent has read these Terms of Service in their entirety and agrees to be bound by all of its terms and conditions. If Talent does not wish to be bound by these Terms of Service, Talent should not submit an application to join the Service.
 
-### For Companies
+<h3 id="#for-employers">For Companies</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 167934 B, Managing Directors: Kaya Taner, Emma Tracey, VAT-ID: DE300856850 (hereinafter referred to as “Honeypot” or “us” ) operates an online job marketplace platform via www.honeypot.io and other channels (the “Service” ).
 The Service connects companies ( “Company” or “Companies” ), and candidates ( “Talent” or “Talents” ) with each other trying to match the right person with the right job.
