@@ -2,7 +2,7 @@
 
 [Für Talente](#for-talents) & [Für Unternehmen](#for-employers)
 
-<h3 id="#for-talents">Für Talente</h3>
+<h3 id="for-talents">Für Talente</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job-Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ).
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
@@ -150,7 +150,7 @@ Unternehmen sind natürliche Personen oder Geschäftseinheiten, die durch den Se
    7. Die englische Version dieser Servicebedingungen ist maßgebend.
    8. Durch die Einreichung eines Antrags auf Teilnahme am Service bestätigt das Talent, dass das Talent diese Servicebedingungen vollständig gelesen hat und erklärt sich damit einverstanden, an alle entsprechenden Bedingungen gebunden zu sein. Wenn das Talent nicht an diese Servicebedingungen gebunden sein möchte, sollte das Talent keinen Antrag auf Teilnahme am Service einreichen.
 
-<h3 id="#for-employers">Für Unternehmen</h3>
+<h3 id="for-employers">Für Unternehmen</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ).
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
