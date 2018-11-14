@@ -1,8 +1,8 @@
 ﻿## Terms of Service
 
-[Voor Talenten](#voor-talenten) & [Voor Bedrijven](#voor-bedrijven)
+[Voor Talenten](#for-talents) & [Voor Bedrijven](#for-employers)
 
-<h3 id="voor-talenten">Voor Talenten</h3>
+<h3 id="for-talents">Voor Talenten</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
 De Service verbindt bedrijven ( "Bedrijf” of "Bedrijven" ) en kandidaten ( "Talent" of "Talenten" ) met elkaar in een poging de juiste persoon te vinden voor de juiste baan.
@@ -149,7 +149,7 @@ Bedrijven zijn natuurlijke personen of bedrijfsentiteiten op zoek naar nieuwe we
    7. De Engelse versie van deze Servicevoorwaarden is doorslaggevend.
    8. Bij het indienen van een aanvraag om zich aan te sluiten bij de Service bevestigt en erkent Talent deze Servicevoorwaarden in zijn geheel te hebben gelezen en in te stemmen gebonden te zijn door alle voorwaarden. Indien Talent niet gebonden wil zijn door deze Servicevoorwaarden, dient Talent niet een aanvraag voor aansluiting bij de Service in te dienen.
 
-<h3 id="voor-bedrijven">Voor Bedrijven</h3>
+<h3 id="for-employers">Voor Bedrijven</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlijn, Duitsland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Algemeen Directeuren: Kaya Taner, Emma Tracey, BTW-nummer: DE300856850 (hierna aangeduid als "Honeypot" of "ons" ) is werkzaam als online arbeidsmarkt platform via https://www.honeypot.io/ en andere kanalen (de "Service" ).
 De Service verbindt bedrijven ( "Bedrijf” of "Bedrijven" ) en kandidaten ( "Talent" of "Talenten" ) met elkaar in een poging de juiste persoon te vinden voor de juiste baan.
