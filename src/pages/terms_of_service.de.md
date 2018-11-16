@@ -2,7 +2,7 @@
 
 [Für Talente](#for-talents) & [Für Unternehmen](#for-employers)
 
-### Für Talente
+<h3 id="for-talents">Für Talente</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job-Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ).
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
@@ -141,7 +141,7 @@ Unternehmen sind natürliche Personen oder Geschäftseinheiten, die durch den Se
    1. Diese Vereinbarung unterliegt deutschem Recht und ist entsprechend auszulegen. Wenn das Talent in der EU ansässig ist, darf ihm der durch das verbindliche Verbraucherschutzgesetz seines Wohnsitzlandes gebotene Schutz nicht entzogen werden. Sofern das Talent rechtliche Schritte einleitet, muss die Klage bei einem deutschen Gericht oder beim Gericht des Wohnsitzes des Talents eingereicht werden.
 
 1. **Allgemeine Bestimmungen**
-   1. Die Vereinbarung enthält die gesamte Vereinbarung zwischen Honeypot und dem Talent in Bezug auf den Gegenstand der Vereinbarung und ersetzt alle früheren oder gleichzeitigen schriftlichen oder mündlichen Vereinbarungen oder Absprachen. Geschäftsbedingungen des Talents werden nicht Bestandteil der Vereinbarung, es sei denn, Honeypot hat diese schriftlich akzeptiert.
+   1. Die Vereinbarung enthält die gesamte Vereinbarung zwischen Honeypot und dem Talent in Bezug auf den Gegenstand der Vereinbarung und ersetzt alle früheren oder gleichzeitigen schriftlichen oder mündlichen Vereinbarungen oder Absprachen. Geschäftsbedingungen des Talents werden nicht Bestandteil der Vereinbarung, es sei denn, Honeypot hat diese schriftgitlich akzeptiert.
    2. Alle Rechte und Pflichten von Honeypot im Rahmen der Vereinbarung können einem späteren Inhaber oder Betreiber des Service im Rahmen eines Zusammenschlusses, eines Erwerbs oder eines Verkaufs aller oder aller wesentlichen Vermögenswerte von Honeypot übertragen werden. Das Talent darf diese Vereinbarung oder einzelne oder sämtliche Rechte nicht ohne vorherige schriftliche Zustimmung von Honeypot abtreten oder übertragen. Diese Vereinbarung ist für die gesetzlichen Vertreter, Rechtsnachfolger und gültigen Bevollmächtigten der Parteien bindend.
    3. Vorbehaltlich der Bestimmungen in Ziff. 14 darf die Vereinbarung ohne vorherige schriftliche Zustimmung beider Parteien nicht geändert werden. Änderungen, Ergänzungen oder die Aufhebung der Vereinbarung (ganz oder teilweise) bedürfen der Schriftform (Brief, Fax oder E-Mail); auf das Erfordernis der Schriftform kann nur durch Schriftform verzichtet werden.
    4. Jede Partei der Vereinbarung ist gegenüber der anderen Partei ein unabhängiger Vertragspartner bezüglich aller Angelegenheiten, die sich aus dieser Vereinbarung ergeben. Nichts in dieser Vereinbarung soll so ausgelegt werden, dass eine Partnerschaft, ein Joint Venture, eine Vereinigung oder ein Arbeitsverhältnis zwischen den Parteien entsteht.
@@ -150,7 +150,7 @@ Unternehmen sind natürliche Personen oder Geschäftseinheiten, die durch den Se
    7. Die englische Version dieser Servicebedingungen ist maßgebend.
    8. Durch die Einreichung eines Antrags auf Teilnahme am Service bestätigt das Talent, dass das Talent diese Servicebedingungen vollständig gelesen hat und erklärt sich damit einverstanden, an alle entsprechenden Bedingungen gebunden zu sein. Wenn das Talent nicht an diese Servicebedingungen gebunden sein möchte, sollte das Talent keinen Antrag auf Teilnahme am Service einreichen.
 
-### Für Unternehmen
+<h3 id="for-employers">Für Unternehmen</h3>
 
 Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Deutschland, Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B, Geschäftsführer: Kaya Taner, Emma Tracey, Umsatzsteuer-ID: DE300856850 (im Folgenden "Honeypot" oder "uns" ) betreibt eine Online-Job Vermittlungsplattform unter https://www.honeypot.io/ und über andere Kanäle ("Service" ).
 Der Service verbindet Unternehmen ( "Unternehmen" ) und Kandidaten ("Talent" oder "Talente" ), um der passenden Person den passenden Job zu vermitteln.
