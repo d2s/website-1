@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 import TextBox from '../components/text-box'
 import { NamespacesConsumer } from 'react-i18next'
 import i18n, { getLang } from '../utils/i18n'
+import Markdown from 'react-remarkable'
 
 const currentLanguage = getLang()
 const talentTopics = Object.keys(
@@ -44,7 +45,11 @@ export default o => {
                           <strong>
                             {t(`talents.${topic}.text.${index}.qn`)}
                           </strong>
-                          <p>{t(`talents.${topic}.text.${index}.ans`)}</p>
+                          <p>
+                            <Markdown>
+                              {t(`talents.${topic}.text.${index}.ans`)}
+                            </Markdown>
+                          </p>
                         </li>
                       ))}
                   </ul>
@@ -67,7 +72,11 @@ export default o => {
                           <strong>
                             {t(`employers.${topic}.text.${index}.qn`)}
                           </strong>
-                          <p>{t(`employers.${topic}.text.${index}.ans`)}</p>
+                          <p>
+                            <Markdown>
+                              {t(`employers.${topic}.text.${index}.ans`)}
+                            </Markdown>
+                          </p>
                         </li>
                       ))}
                   </ul>
