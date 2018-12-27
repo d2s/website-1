@@ -1,1 +1,3 @@
-export { default } from '../views/community'
+import Default from '../views/community'
+
+export default Default

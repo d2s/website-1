@@ -1,1 +1,3 @@
-export { default } from '../views/tech-hiring'
+import Default from '../views/tech-hiring'
+
+export default Default

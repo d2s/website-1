@@ -1,11 +1,14 @@
 language: node_js
 node_js:
-  - "10.10.0"
+  - 10.10.0
+before_cache:
+  - rm -f ./node_modules/.bin/which # <-- workaround for https://github.com/travis-ci/travis-ci/issues/5092
 cache:
   bundler: true
   directories:
     - node_modules
 before_install:
+  - rvm install 2.5.1
   - ruby --version
 install:
   - npm install

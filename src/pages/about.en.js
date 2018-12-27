@@ -1,1 +1,3 @@
-export { default } from '../views/about'
+import Default from '../views/about'
+
+export default Default
