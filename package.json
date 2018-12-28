@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "honeypot-website",
+  "description": "Honeypot static website",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Honeypot GmbH",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gatsby": "^2.0.9",
@@ -30,7 +30,8 @@
     "slick-carousel": "^1.8.1"
   },
   "keywords": [
-    "gatsby"
+    "honeypot",
+    "developers"
   ],
   "license": "MIT",
   "scripts": {
@@ -50,6 +51,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/honeypotio/website"
   }
 }

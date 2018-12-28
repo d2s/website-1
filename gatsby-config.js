@@ -43,7 +43,8 @@ module.exports = {
       resolve: 'gatsby-plugin-i18n',
       options: {
         langKeyDefault: 'en',
-        langKeyForNull: 'any',
+        useLangKeyLayout: true,
+        langKeyForNull: 'en',
         markdownRemark: {
           postPage: 'src/templates/text-page.js',
           query: ` {

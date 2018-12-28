@@ -76,5 +76,5 @@ export function getLang() {
 }
 
 export function getPathLang() {
-  return getCurrentLangKey(languages, '', getPath())
+  return getCurrentLangKey(languages, 'en', getPath())
 }
