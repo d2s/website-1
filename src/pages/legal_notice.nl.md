@@ -7,11 +7,11 @@ _Informatie in lijn met artikel 5 TMG:_
 ###### Adres
 
 Schlesische Straße 26<br />
-10997 BERLIJN, DUITSLAND<br />
+10997 Berlijn, Duitsland<br />
 
 ###### Contact
 
-Telefoon: +49 (0)176 471 708 19<br />
+Telefoon: +49 (0)172 8463975<br />
 E-Mail: [hello@honeypot.io](mailto:hello@honeypot.io)<br />
 Bestuurders: Kaya Taner, Emma Tracey<br />
 Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B<br />
