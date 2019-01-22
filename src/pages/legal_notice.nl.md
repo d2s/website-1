@@ -11,7 +11,8 @@ Schlesische Straße 26<br />
 
 ###### Contact
 
-Telefoon: +49 (0)172 8463975<br />
+Telefoon (GER): +49 (0)172 8463975<br />
+Telefoon (NL): +31 (0)20 24 42 841<br />
 E-Mail: [hello@honeypot.io](mailto:hello@honeypot.io)<br />
 Bestuurders: Kaya Taner, Emma Tracey<br />
 Handelsregister: Amtsgericht Charlottenburg, HRB 167934 B<br />
