@@ -5,6 +5,16 @@ import getCurrentPage from '../utils/page'
 import { getLang } from '../utils/i18n'
 import { withPrefix } from 'gatsby'
 
+ const injectMarketingScripts = () => {
+  if (process.env.INCLUDE_MARKETING_SCRIPTS !== "true") {
+    return null;
+  };
+  // all marketing prod scripts go here
+  return (
+    <script src="https://bae46957d1da4ad39e84912610a75c6d.js.ubembed.com" async></script>
+  );
+ }
+
 export default ({ page, lang }) => {
   let image = 'default-og.png'
   if (page === 'about' || page === 'community') {
@@ -46,6 +56,7 @@ export default ({ page, lang }) => {
           <meta property="twitter:title" content={t(`${page}.og-title`)} />
           <meta name="google-site-verification" content="y7RH4nna34BHMme9iRo-fSyKxXNTp6_k5ghKEaKY0bI" />
           <meta name="msvalidate.01" content="7B285FD20E71ED936D884CFB9D360466" />
+          { injectMarketingScripts() }
         </Helmet>
       )}
     </NamespacesConsumer>
