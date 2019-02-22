@@ -16,7 +16,7 @@ import employer from '../static/employer.png'
 import employer2x from '../static/employer@2x.png'
 import PaymentOptions from '../components/tech-hiring/payment-options'
 import PositionOverview from '../components/tech-hiring/position-overview'
-import dineke from '../static/testimonials/Testimonial_Dineke.jpg'
+import julia from '../static/testimonials/Testimonial_Julia.jpg'
 import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
 
 export default o => {
@@ -52,7 +52,7 @@ export default o => {
         responsive={true}
       />
 
-      <Testimonial right={['flip-h']} page="tech-hiring" index={[1, dineke]} />
+      <Testimonial right={['flip-h']} page="tech-hiring" index={[1, julia]} />
 
       <TextImageWrapper
         page="tech-hiring"
