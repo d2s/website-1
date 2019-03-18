@@ -26,3 +26,10 @@ npm install
 ```bash
 npm run develop
 ```
+
+### QA
+
+To see a staging deployment, open the following link in your browser:
+```
+http://staging.honeypot.co/pr-<pr number>/<route of the page you want to check>
+```
