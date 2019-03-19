@@ -80,7 +80,7 @@ export default class Navigation extends React.Component {
                   className="button button--primary header__link-item--button"
                   rel="noopener
                   noreferrer"
-                  href={extlinks.index}
+                  href={this.props.page === 'tech-hiring' ? extlinks.tech_hiring : extlinks.index}
                 >
                   {t('sign-up')}
                 </a>
