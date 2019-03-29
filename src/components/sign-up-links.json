@@ -1,4 +1,5 @@
 {
   "index": "/users/sign_up",
-  "tech_hiring": "/invite_requests/new"
+  "tech_hiring": "/invite_requests/new",
+  "tech-hiring": "/invite_requests/new"
 }
