@@ -103,6 +103,30 @@ Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; 
 LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; http://www.linkedin.com/legal/privacy-policy. LinkedIn hat sich dem EU-US-Privacy-Shield unterworfen, https://www.privacyshield.gov/EU-US-Framework.
 Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA; https://enterprise.github.com/privacy. Github hat sich dem EU-US-Privacy-Shield unterworfen, https://www.privacyshield.gov/EU-US-Framework.
 
+##### Nutzt Honeypot Remarketing-Services?
+
+Honeypot nutzt Remarketing Services von Google, LinkedIn, Twitter und Facebook. Dieser Service ermöglicht es uns, Nutzern, die unsere Website bereits einmal besucht oder sich bei uns registriert haben, gezielte Informationen oder Angebote von Honeypot auf Grundlage der gesammelten Informationen auszuspielen. Im Falle von Facebook nutzen wir Facebook Pixel, welcher auf unserer Website eingebunden ist.
+
+Adressen und URL inklusive Links zu Datenschutzerklärung:
+
+Google:
+- Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland
+- Datenschutzerklärung: https://adssettings.google.com/authenticated
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+LinkedIn:
+- LinkedIn Ireland Unlimited Company, Wilton Place,Dublin 2, Irland
+- Datenschutzerklärung: http://www.linkedin.com/legal/privacy-policy
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0
+
+Facebook Pixel:
+- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Irland)
+- Datenschutzerklärung: https://www.facebook.com/policy.php
+
+Twitter:
+- Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07 Irland)
+- Datenschutzerklärung: https://twitter.com/de/privacy
+
 ##### Speichert Honeypot meine Daten im Falle einer Anfrage?
 
 Wenn Du eine Anfrage an Honeypot richtest, speichert Honeypot den Kommunikationsverlauf mit Dir sowie die im Rahmen dieser Kommunikation übermittelten Informationen und Daten (z. B. E-Mail-Adresse), um Deine Anfrage und weitere Nachfragen zu beantworten. Honeypot löscht die entsprechenden Daten, nachdem eine Speicherung nicht mehr notwendig ist, oder beschränkt die Verarbeitung, sofern gesetzliche Aufbewahrungsfristen bestehen.

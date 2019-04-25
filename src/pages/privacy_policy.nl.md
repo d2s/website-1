@@ -378,6 +378,31 @@ Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA;
 https://enterprise.github.com/privacy. Github is onderdeel van de
 EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
 
+##### Gebruikt Honeypot retargetingdiensten?
+
+Op dit moment gebruikt Honeypot retargetingfuncties van Google, LinkedIn, Twitter en Facebook. Deze dienst maakt het mogelijk om gebruikers te bereiken die eerder onze website hebben gebruikt of zich er hebben geregistreerd, en deze gebruikers gerichte advertenties en aanbiedingen te laten zien gebaseerd op de verzamelde informatie. In het geval van Facebook gebruiken we de Facebook Pixel die is geïmplementeerd op onze website.
+
+Adressen en URL’s met privacybeleidverklaringen:
+
+Google:
+- Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ierland
+- Privacybeleid: https://adssettings.google.com/authenticated
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+LinkedIn:
+- LinkedIn Ireland Unlimited Company, Wilton Place,Dublin 2, Ierland
+- Privacybeleid: http://www.linkedin.com/legal/privacy-policy
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0
+
+Facebook Pixel:
+- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ierland)
+- Privacybeleid: https://www.facebook.com/policy.php
+
+Twitter:
+- Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07 Ierland)
+- Privacybeleid: https://twitter.com/privacy
+
+
 #####Slaat Honeypot mijn gegevens op wanneer ik een verzoek indien?
 
 In het geval dat u een vraag stelt aan Honeypot, slaat Honeypot zowel de

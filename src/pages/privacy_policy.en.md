@@ -389,6 +389,30 @@ Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA;
 https://enterprise.github.com/privacy. Github is part of the
 EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
 
+##### Does Honeypot uses Retargeting-Services?
+
+Honeypot currently uses retargeting functions of Google, LinkedIn, Twitter and Facebook. This service makes it possible to reach users who previously visited or register on our website to show targeted advertisements and offers of Honeypot based on the collected informations. In case of Facebook we are using the Facebook Pixel which is implemented on our website.
+
+Addresses and URL with privacy policies:
+
+Google:
+- Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+- Privacy Policy: https://adssettings.google.com/authenticated
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+LinkedIn:
+- LinkedIn Ireland Unlimited Company, Wilton Place,Dublin 2, Ireland
+- Privacy Policy: http://www.linkedin.com/legal/privacy-policy
+- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0
+
+Facebook Pixel:
+- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland)
+- Privacy Policy: https://www.facebook.com/policy.php
+
+Twitter:
+- Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07 Ireland)
+- Privacy Policy: https://twitter.com/privacy
+
 ##### Does Honeypot save my data in case of me making a request?
 
 In case you direct an inquiry to Honeypot, Honeypot saves the communication
