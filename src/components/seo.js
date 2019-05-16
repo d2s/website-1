@@ -4,6 +4,7 @@ import { NamespacesConsumer } from 'react-i18next'
 import getCurrentPage from '../utils/page'
 import { getLang } from '../utils/i18n'
 import { withPrefix } from 'gatsby'
+import { vmoScripts } from './vwo-scripts'
 
  const injectMarketingScripts = () => {
   if (process.env.INCLUDE_MARKETING_SCRIPTS !== "true") {
@@ -57,6 +58,9 @@ export default ({ page, lang }) => {
           <meta name="google-site-verification" content="y7RH4nna34BHMme9iRo-fSyKxXNTp6_k5ghKEaKY0bI" />
           <meta name="msvalidate.01" content="7B285FD20E71ED936D884CFB9D360466" />
           { injectMarketingScripts() }
+          { process.env.VWO_ID && vmoScripts.map(content => (
+            <script type="text/javascript">{content}</script>
+          ))}
         </Helmet>
       )}
     </NamespacesConsumer>
