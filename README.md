@@ -34,5 +34,3 @@ From [Gatsby documentation](https://www.gatsbyjs.org/docs/environment-variables/
 - `VWO_ID` will be available to your site (Server-side) as `process.env.VWO_ID`.
 - If you commit your `.env.*` file containing `VWO_ID` to source control it would also be available on the client-side.
 - However they strongly advise against that! You should prefix your variable with `GATSBY_` instead and Gatsby automatically makes it available in the browser context.
-
-**We are defining `VWO_ID` in the `.env.production` file to be aligned to the implementation of `INCLUDE_MARKETING_SCRIPTS`**

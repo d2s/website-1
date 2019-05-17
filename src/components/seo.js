@@ -58,9 +58,9 @@ export default ({ page, lang }) => {
           <meta name="google-site-verification" content="y7RH4nna34BHMme9iRo-fSyKxXNTp6_k5ghKEaKY0bI" />
           <meta name="msvalidate.01" content="7B285FD20E71ED936D884CFB9D360466" />
           { injectMarketingScripts() }
-          { process.env.VWO_ID && vmoScripts.map(content => (
-            <script type="text/javascript">{content}</script>
-          ))}
+          {process.env.GATSBY_VWO_ID ? vmoScripts.map((content, i) => (
+            <script type="text/javascript" key={i}>{content}</script>
+          )) : null}
         </Helmet>
       )}
     </NamespacesConsumer>

@@ -3,7 +3,7 @@
  */
 export const vmoScripts = [
   `
-    var _vis_opt_account_id = ${process.env.VWO_ID};
+    var _vis_opt_account_id = ${process.env.GATSBY_VWO_ID};
     var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
     document.write('<s' + 'cript src="' + _vis_opt_protocol +
       'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
