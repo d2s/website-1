@@ -39,6 +39,9 @@ export default ({ page, lang }) => {
             />
           ))}
           <meta name="description" content={t(`${page}.description`)} />
+          {process.env.GATSBY_DISALLOW_ROBOTS === 'true' ?
+            <meta name="robots" content="noindex, nofollow" />
+          : null}
           <meta property="og:type" content="website" />
           <meta property="og:title" content={t(`${page}.og-title`)} />
           <meta property="og:url" content={`/${lang}/${pageTitle}`} />

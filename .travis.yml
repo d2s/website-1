@@ -18,6 +18,9 @@ script: ./bin/deploy
 
 env:
   global:
+    # This is staging only
+    - GATSBY_DISALLOW_ROBOTS=$([ "$TRAVIS_TAG" == "" ] && echo "$STAGING_DISALLOW_ROBOTS")
+
     - PREFIX_FOLDER=$([ "$TRAVIS_PULL_REQUEST" != "false" ] && echo "pr-$TRAVIS_PULL_REQUEST")
     - HOST=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_HOST" || echo "$STAGING_HOST")
     - APP_HOST=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_APP_HOST" || echo "$STAGING_APP_HOST")
