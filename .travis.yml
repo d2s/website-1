@@ -10,6 +10,7 @@ cache:
 before_install:
   - rvm install 2.5.1
   - ruby --version
+  - gem install bundler -v 1.16.1
   - bundle --version
 install:
   - npm install
