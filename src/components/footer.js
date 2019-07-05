@@ -126,7 +126,7 @@ export default () => {
                   target="_blank"
                   rel="noopener
                   noreferrer"
-                  href={'https://hive.honeypot.io/hive-conference-2018/'}
+                  href={'https://hive.honeypot.io/'}
                 >
                   {t('hive-con')}
                 </a>

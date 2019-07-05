@@ -1,6 +1,8 @@
-language: node_js
-node_js:
-  - 10.10.0
+language: scala
+scala:
+   2.11.2
+jdk:
+  - oraclejdk8
 before_cache:
   - rm -f ./node_modules/.bin/which # <-- workaround for https://github.com/travis-ci/travis-ci/issues/5092
 cache:
@@ -10,6 +12,9 @@ cache:
 before_install:
   - rvm install 2.5.1
   - ruby --version
+  - gem install bundler -v 1.16.1
+  - bundle --version
+  - java -version
 install:
   - npm install
   - bundle install
