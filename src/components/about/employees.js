@@ -1,8 +1,6 @@
 import bear from '../../static/employees/Bearpot_Team.jpg'
 import agathe from '../../static/employees/DSC01861.jpg'
 import agathe_ from '../../static/employees/DSC01862.jpg'
-import amar from '../../static/employees/DSC01793.jpg'
-import amar_ from '../../static/employees/DSC01794.jpg'
 import apoorv from '../../static/employees/Bearpot_Team.jpg'
 import apoorv_ from '../../static/employees/Bearpot_Team.jpg'
 import baku from '../../static/employees/DSC02034.jpg'
@@ -57,18 +55,12 @@ import matthijs from '../../static/employees/DSC01869.jpg'
 import matthijs_ from '../../static/employees/DSC01875.jpg'
 import max from '../../static/employees/DSC01825.jpg'
 import max_ from '../../static/employees/DSC01829.jpg'
-import meriem from '../../static/employees/DSC01783.jpg'
-import meriem_ from '../../static/employees/DSC01787.jpg'
 import mia from '../../static/employees/DSC01898.jpg'
 import mia_ from '../../static/employees/DSC01902.jpg'
 import mirko from '../../static/employees/Bearpot_Team.jpg'
 import mirko_ from '../../static/employees/Bearpot_Team.jpg'
-import monika from '../../static/employees/Bearpot_Team.jpg'
-import monika_ from '../../static/employees/Bearpot_Team.jpg'
 import munya from '../../static/employees/DSC01903.jpg'
 import munya_ from '../../static/employees/DSC01911.jpg'
-import priscilla from '../../static/employees/Bearpot_Team.jpg'
-import priscilla_ from '../../static/employees/Bearpot_Team.jpg'
 import pierre from '../../static/employees/DSC01802.jpg'
 import pierre_ from '../../static/employees/DSC01805.jpg'
 import sarah from '../../static/employees/DSC01970.jpg'
@@ -93,17 +85,6 @@ export default [
     github: '',
     image: agathe,
     image_: agathe_,
-  },
-  {
-    name: 'Amar',
-    last_name: 'Ahlers',
-    title: 'Customer Success Manager',
-    favorite_color: 'Cyan',
-    linkedin: 'https://www.linkedin.com/in/amarahlers/',
-    twitter: '',
-    github: '',
-    image: amar,
-    image_: amar_,
   },
   {
     name: 'Apoorv',
@@ -196,7 +177,7 @@ export default [
   {
     name: 'Geneva',
     last_name: 'Brooks',
-    title: 'Talent Rep',
+    title: 'Talent Relocation Manager',
     favorite_color: 'Green',
     linkedin: 'https://www.linkedin.com/in/geneva-brooks/',
     twitter: '',
@@ -273,7 +254,7 @@ export default [
   {
     name: 'Julian',
     last_name: 'Schnute',
-    title: 'Operations Manager',
+    title: 'Talent Relocation Manager',
     favorite_color: 'Skin colour (White)',
     linkedin: '',
     twitter: '',
@@ -328,7 +309,7 @@ export default [
   {
     name: 'Laura',
     last_name: 'Godolphin',
-    title: 'Talent Rep',
+    title: 'Recruiter',
     favorite_color: 'Purple',
     linkedin: '',
     twitter: '',
@@ -350,7 +331,7 @@ export default [
   {
     name: 'Lisa',
     last_name: 'Gaertner',
-    title: 'Talent Relocation Manager',
+    title: 'Business Development Manager',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -392,17 +373,6 @@ export default [
     image_: max_,
   },
   {
-    name: 'Meriem',
-    last_name: 'Hebaz',
-    title: 'Talent Rep',
-    favorite_color: 'Dark Blue',
-    linkedin: 'https://www.linkedin.com/in/meriem-hebaz-5239a3115/',
-    twitter: '',
-    github: '',
-    image: meriem,
-    image_: meriem_,
-  },
-  {
     name: 'Mia',
     last_name: 'Bijman',
     title: 'Customer Success Manager',
@@ -416,24 +386,13 @@ export default [
   {
     name: 'Mirko',
     last_name: 'Nitschke',
-    title: 'Business Development Manager',
+    title: 'Product Owner',
     favorite_color: '',
     linkedin: '',
     twitter: '',
     github: '',
     image: mirko,
     image_: mirko_,
-  },
-  {
-    name: 'Monika',
-    last_name: 'Marinova',
-    title: 'Talent Rep',
-    favorite_color: 'Pink',
-    linkedin: 'https://www.linkedin.com/in/monika-marinova-0aba8b110/',
-    twitter: '',
-    github: '',
-    image: monika,
-    image_: monika_,
   },
   {
     name: 'Munya',
@@ -447,20 +406,9 @@ export default [
     image_: munya_,
   },
   {
-    name: 'Priscilla',
-    last_name: 'Tenggara',
-    title: 'B2B Marketing',
-    favorite_color: '',
-    linkedin: '',
-    twitter: '',
-    github: '',
-    image: priscilla,
-    image_: priscilla_,
-  },
-  {
     name: 'Pierre',
     last_name: 'Le Buhan',
-    title: 'Business Developer',
+    title: 'Head of Internationalization',
     favorite_color: 'Green',
     linkedin: '',
     twitter: '',
@@ -493,7 +441,7 @@ export default [
   {
     name: 'Tabea',
     last_name: 'Müller',
-    title: 'BI and Finance Team Lead',
+    title: 'VP Engineering',
     favorite_color: 'Burgundy',
     linkedin: 'https://de.linkedin.com/in/tabea-müller-384a10115',
     twitter: '',
@@ -515,7 +463,7 @@ export default [
   {
     name: 'Wiktoria',
     last_name: 'Vowles',
-    title: 'Customer Development Manager',
+    title: 'Team Lead Customer Development',
     favorite_color: '#ffcc00',
     linkedin: 'https://www.linkedin.com/in/wiktoria-vowles-919821a4',
     twitter: 'https://twitter.com/WiktaV',
