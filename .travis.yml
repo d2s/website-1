@@ -37,7 +37,7 @@ env:
     - URL_BASE=$([ "$PREFIX_FOLDER" != "" ] && echo "/$PREFIX_FOLDER")
     - GTM_ID=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_GTM_ID" || echo "$STAGING_GTM_ID")
     - GA_ID=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_GA_ID" || echo "$STAGING_GA_ID")
-    - GATSBY_VWO_ID=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_VWO_ID")
+    - GATSBY_VWO_ID=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_VWO_ID" || echo "$STAGING_VWO_ID")
     - COOKIE_DOMAIN=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_COOKIE_DOMAIN" || echo "$STAGING_COOKIE_DOMAIN")
     - CF_DISTRIBUTION=$([ "$TRAVIS_TAG" != "" ] && echo "$PROD_CF_DISTRIBUTION" || echo "$STAGING_CF_DISTRIBUTION")
     - S3_FORCE=$(git log $TRAVIS_PULL_REQUEST_SHA -1 --pretty=%B | grep -E "^\[#s3 .*force.*]" --ignore-case)
