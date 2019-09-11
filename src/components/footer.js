@@ -12,6 +12,7 @@ import linkedin from '../static/icons/linkedin.png'
 import twitter from '../static/icons/Twitter.png'
 import youtube from '../static/icons/youtube.png'
 import mail from '../static/icons/mail.svg'
+import wereHiring from '../static/were-hiring.png'
 
 const column = ['index', 'tech-hiring', 'community']
 const year = new Date().getFullYear()
@@ -68,12 +69,17 @@ export default () => {
                 </Link>
               </li>
               <li className="footer__link-item footer__link-item--careers">
-                <a
+                <div>
+                  <a
                   className="footer__link"
                   href={'https://jobs.lever.co/honeypot'}
                 >
                   {t('careers')}
                 </a>
+                </div>
+                <div className="footer__link-item--careers">
+                  <img src={wereHiring}></img>
+                </div>
               </li>
               <li className="footer__link-item">
                 <Link className="footer__link" to={`${prefix}faq`}>
