@@ -64,12 +64,6 @@ export default ({ page, lang }) => {
           {process.env.GATSBY_VWO_ID ? vmoScripts.map((content, i) => (
             <script type="text/javascript" key={i}>{content}</script>
           )) : null}
-          <script>{
-            `var DIGITAL_CLIMATE_STRIKE_OPTIONS = {
-              fullPageDisplayStartDate: new Date(2037, 8, 20) //forcing to not show
-            };`
-          }</script>
-          <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
         </Helmet>
       )}
     </NamespacesConsumer>
