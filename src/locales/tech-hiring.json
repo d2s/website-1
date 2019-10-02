@@ -2,8 +2,8 @@
   "en": {
     "page-intro": {
       "headline1": "Build Your",
-      "headline2": "Tech Team",
-      "tagline": "Honeypot is the easiest way to hire Software Developers, DevOps Engineers, Data Scientists, Product Owners, QA Testers and Engineering Leaders.",
+      "headline2": "Engineering Team",
+      "tagline": "Honeypot is the easiest way to hire Software Developers, DevOps Engineers and Engineering Leaders.",
       "button1": "Start Hiring!",
       "button2": "I'm Looking for a Job!"
     },
@@ -108,7 +108,7 @@
     "page-intro": {
       "headline1": "Stelle Dein",
       "headline2": "Tech Team zusammen",
-      "tagline": "Honeypot ist die einfachste Art Softwareentwickler, DevOps Engineers, Data Scientists, Product Owner, QA Tester und Engineering Leads einzustellen.",
+      "tagline": "Honeypot ist die einfachste Art Softwareentwickler, DevOps Engineers und Engineering Leads einzustellen.",
       "button1": "Ich stelle ein!",
       "button2": "Ich suche einen Job!"
     },
@@ -213,7 +213,7 @@
     "page-intro": {
       "headline1": "Bouw Je",
       "headline2": "Tech Team",
-      "tagline": "Honeypot is eenvoudigste manier om Software Developers, DevOps Engineers, Data Scientists, Product Owners, QA Testers en Engineering Leaders aan te nemen.",
+      "tagline": "Honeypot is eenvoudigste manier om Software Developers, DevOps Engineers, en Engineering Leaders aan te nemen.",
       "button1": "Begin nu!",
       "button2": "Ik zoek een baan!"
     },

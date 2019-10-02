@@ -3,11 +3,11 @@
     "story": {
       "left": {
         "headline": "Our Story",
-        "text": "Launched in October 2015, Honeypot is Europe's tech-focused job platform. Our mission is to get every developer a great job.  Honeypot helps Developers, Data Scientists, QA, Product People and CTOs find jobs they love."
+        "text": "Launched in October 2015, Honeypot is Europe's developer-focused job platform. Our mission is to get every developer a great job. Honeypot helps Developers, DevOps Engineers and CTOs find jobs they love."
       },
       "right": {
         "headline": "What is Honeypot?",
-        "text": "On Honeypot, companies apply to you. We believe developers and other tech professionals should choose a job they love: whether that’s based on a cutting-edge tech stack, an inspiring team or just good old-fashioned salary. Today, Honeypot is Europe’s leading tech-focused job platform, serving Germany and the Netherlands."
+        "text": "On Honeypot, companies apply to you. We believe developers and other tech professionals should choose a job they love: whether that’s based on a cutting-edge tech stack, an inspiring team or just good old-fashioned salary. Today, Honeypot is Europe’s leading developer-focused job platform, serving Germany and the Netherlands."
       }
     },
     "life": {
@@ -96,7 +96,7 @@
     "story": {
       "left": {
         "headline": "Unsere Story",
-        "text": "Honeypot wurde 2015 gegründet und ist Europas tech-fokussierte Job Plattform. Unsere Mission ist jedem Entwickler einen grossartigen Job zu beschaffen. Honeypot hilft Developern, Data Scientists, QA, Produktleuten und CTOs Jobs zu finden, die sie lieben."
+        "text": "Honeypot wurde 2015 gegründet und ist Europas tech-fokussierte Job Plattform. Unsere Mission ist jedem Entwickler einen grossartigen Job zu beschaffen. Honeypot hilft Developern, und CTOs Jobs zu finden, die sie lieben."
       },
       "right": {
         "headline": "Was ist Honeypot?",
@@ -189,11 +189,11 @@
     "story": {
       "left": {
         "headline": "Ons verhaal",
-        "text": "Honeypot is Europa's Tech Focused Job Platform, opgericht in oktober 2015. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, Data Scientists, QA, Product Owners and CTOs bij het vinden van hun perfecte baan."
+        "text": "Honeypot is Europa's Developer Focused Job Platform, opgericht in oktober 2015. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, and CTOs bij het vinden van hun perfecte baan."
       },
       "right": {
         "headline": "Wat is Honeypot?",
-        "text": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris. Op dit moment is Honeypot Europa's leidende tech-focused job platform, actief in Duitsland en Nederland."
+        "text": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris. Op dit moment is Honeypot Europa's leidende developer-focused job platform, actief in Duitsland en Nederland."
       }
     },
     "life": {

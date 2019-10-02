@@ -15,7 +15,6 @@ import skills2x from '../static/skills@2x.png'
 import employer from '../static/employer.png'
 import employer2x from '../static/employer@2x.png'
 import PaymentOptions from '../components/tech-hiring/payment-options'
-import PositionOverview from '../components/tech-hiring/position-overview'
 import julia from '../static/testimonials/Testimonial_Julia.jpg'
 import sellin from '../static/testimonials/Testimonial_Selin-Glispa.png'
 
@@ -69,8 +68,6 @@ export default o => {
         <TextBox small page="tech-hiring" topic="employer.2" />
         <TextBox small page="tech-hiring" topic="employer.3" />
       </TextImageWrapper>
-
-      <PositionOverview />
 
       <Testimonial
         left={['flip-v']}

@@ -4,7 +4,7 @@
     "page-intro": {
       "headline1": "Choose a",
       "headline2": "Job You Love",
-      "tagline": "Honeypot is Europe’s tech-focused job platform. Create a profile and let companies apply to you.",
+      "tagline": "Honeypot is Europe’s developer-focused job platform. Create a profile and let companies apply to you.",
       "button1": "Find Me a Job!",
       "button2": "I'm Hiring"
     },
@@ -13,7 +13,7 @@
     },
     "join": {
       "headline": "Join an Engineering Team in Your Ideal Role",
-      "text": "On Honeypot, over 1000 companies are hiring Software Developers, DevOps Engineers, Data Scientists, Product Owners, QA Testers and Engineering Leaders just like you!"
+      "text": "On Honeypot, over 1000 companies are hiring Software Developers, DevOps Engineers and Engineering Leaders just like you!"
     },
     "process": {
       "headline": "A Simple and Quick Sign Up Process!",
@@ -105,7 +105,7 @@
     },
     "join": {
       "headline": "Werde Teil eines Engineering-Teams in Deiner idealen Rolle",
-      "text": "Auf Honeypot stellen über 1000 Unternehmen Softwareentwickler, DevOps Engineers, Data Scientists, Product Owner, QA Tester und Engeneering Leads wie Dich ein!"
+      "text": "Auf Honeypot stellen über 1000 Unternehmen Softwareentwickler, DevOps Engineers, und Engeneering Leads wie Dich ein!"
     },
     "process": {
       "headline": "Ein einfacher und schneller Anmeldeprozess",
@@ -197,7 +197,7 @@
     },
     "join": {
       "headline": "Sluit je aan bij een engineering team in jouw ideale functie",
-      "text": "Op Honeypot zijn meer dan 1000 bedrijven op zoek naar Software Developers, DevOps Engineers, Data Scientists, Product Owners, QA Testers en Engineering Leaders!"
+      "text": "Op Honeypot zijn meer dan 1000 bedrijven op zoek naar Software Developers, DevOps Engineers, en Engineering Leaders!"
     },
     "process": {
       "headline": "Een simpel en snel registratieproces!",
