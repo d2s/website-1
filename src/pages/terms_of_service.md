@@ -4,7 +4,7 @@
 
 <h3 id="for-talents">For Talents</h3>
 
-Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 167934 B, Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski, VAT-ID: DE300856850 (hereinafter referred to as "Honeypot" or "us" ) operates an online job marketplace platform via https://www.honeypot.io/ and other channels (the "Service" ).
+Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B, Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski, VAT-ID: DE300856850 (hereinafter referred to as "Honeypot" or "us" ) operates an online job marketplace platform via https://www.honeypot.io/ and other channels (the "Service" ).
 The Service connects companies ( "Company" or "Companies" ), and candidates ( "Talent" or "Talents" ) with each other trying to match the right person with the right job.
 Talents are natural persons seeking new employment or freelance contracts through the Service.
 Companies are natural persons or business entities searching for new employees or contractors through the Service.
@@ -151,7 +151,7 @@ Companies are natural persons or business entities searching for new employees o
 
 <h3 id="for-employers">For Employers</h3>
 
-Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 167934 B, Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski, VAT-ID: DE300856850 (hereinafter referred to as “Honeypot” or “us” ) operates an online job marketplace platform via www.honeypot.io and other channels (the “Service” ).
+Honeypot GmbH, Schlesische Straße 26, 10997 Berlin, Germany, Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B, Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski, VAT-ID: DE300856850 (hereinafter referred to as “Honeypot” or “us” ) operates an online job marketplace platform via www.honeypot.io and other channels (the “Service” ).
 The Service connects companies ( “Company” or “Companies” ), and candidates ( “Talent” or “Talents” ) with each other trying to match the right person with the right job.
 Talents are natural persons seeking new employment or freelance contracts through the Service.
 Companies are natural persons or business entities searching for new employees or contractors through the Service.
