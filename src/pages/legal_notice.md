@@ -15,7 +15,7 @@ Phone (GER): +49 (0)172 8463975<br />
 Phone (NL): +31 (0)20 24 42 841<br />
 E-Mail: hello@honeypot.io<br />
 Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
-Commercial Register: Amtsgericht Charlottenburg, HRB 167934 B<br />
+Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B<br />
 VAT-ID: DE300856850
 
 Responsible for content pursuant to sec 55 subsection 2 of the interstate
