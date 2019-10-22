@@ -17,7 +17,7 @@ import { vmoScripts } from './vwo-scripts'
  }
 
 export default ({ page, lang }) => {
-  let image = 'default-og.png'
+  let image = 'default-og.jpg'
   if (page === 'about' || page === 'community') {
     image = `${page}-og.jpg`
   }
