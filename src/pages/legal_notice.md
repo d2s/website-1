@@ -11,8 +11,9 @@ Schlesische Straße 26<br />
 
 ###### Contact
 
-Phone (GER): +49 (0)172 8463975<br />
+Phone (GER): +49 (0)152 28463177<br />
 Phone (NL): +31 (0)20 24 42 841<br />
+Phone (AUT): +43 (0)660 286 25 22<br />
 E-Mail: hello@honeypot.io<br />
 Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
 Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B<br />
