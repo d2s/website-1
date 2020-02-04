@@ -2,7 +2,7 @@ import React from 'react'
 import { NamespacesConsumer } from 'react-i18next'
 import Link from 'gatsby-link'
 import extlinks from '../sign-up-links.json'
-import getCurrentPage, { getLinkTo } from '../../utils/page'
+import getCurrentPage, { getLinkTo, grabUrlParams} from '../../utils/page'
 
 //const links = ['index', 'tech-hiring', 'community', 'login']
 const links = [
@@ -33,6 +33,7 @@ export default class Navigation extends React.Component {
   componentDidMount() {
     if (typeof window !== 'undefined') {
       window.addEventListener('scroll', this.closeMenu)
+      grabUrlParams();
     }
   }
   componentWillUnmount() {
@@ -77,7 +78,7 @@ export default class Navigation extends React.Component {
               </li>
               <li className="header__link-item">
                 <a
-                  className="button button--primary header__link-item--button"
+                  className="button button--primary header__link-item--button js-signup"
                   rel="noopener
                   noreferrer"
                   href={this.props.page === 'tech-hiring' ? extlinks.tech_hiring : extlinks.index}

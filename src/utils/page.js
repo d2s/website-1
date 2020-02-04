@@ -15,3 +15,8 @@ export function getLinkTo(page) {
   const prefix = lang ? lang + '/' : lang
   return prefix + page
 }
+
+export function grabUrlParams() {
+  const urlParams = window.location.search;
+  document.querySelector('.js-signup').href += urlParams;
+}
