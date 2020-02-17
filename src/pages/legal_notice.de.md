@@ -17,7 +17,7 @@ Telefon (AUT): +43 (0)660 286 25 22<br />
 E-Mail: [hello@honeypot.io](mailto:hello@honeypot.io)<br />
 Geschäftsführer: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
 Handelsregister: Amtsgericht Charlottenburg, HRB 210362 B<br />
-USt-ID: DE300856850
+USt-ID: DE327578486
 
 Verantwortlich für den Inhalt nach §55 Abs. 2 RStV:
 Kaya Taner, Emma Tracey, Dennis Muszynski; Adresse (siehe oben)<br />
