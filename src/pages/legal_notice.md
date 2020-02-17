@@ -17,7 +17,7 @@ Phone (AUT): +43 (0)660 286 25 22<br />
 E-Mail: hello@honeypot.io<br />
 Managing Directors: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
 Commercial Register: Amtsgericht Charlottenburg, HRB 210362 B<br />
-VAT-ID: DE300856850
+VAT-ID: DE327578486
 
 Responsible for content pursuant to sec 55 subsection 2 of the interstate
 broadcasting compact (RStV): Kaya Taner, Emma Tracey, Dennis Muszynski; address see above.
