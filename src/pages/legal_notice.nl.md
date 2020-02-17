@@ -17,7 +17,7 @@ Telefoon (AUT): +43 (0)660 286 25 22<br />
 E-Mail: [hello@honeypot.io](mailto:hello@honeypot.io)<br />
 Bestuurders: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
 Handelsregister: Amtsgericht Charlottenburg, HRB 210362 B<br />
-BTW-nummer: DE300856850
+BTW-nummer: DE327578486
 
 Verantwoordelijk voor content op grond van artikel 55 lid 2 RStV: Kaya Taner,
 Emma Tracey, Dennis Muszynski; adres zie boven.
