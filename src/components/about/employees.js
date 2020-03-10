@@ -103,7 +103,7 @@ export default [
   {
     name: 'Debora',
     last_name: 'Lasoen',
-    title: 'Head of Talent Success Management',
+    title: 'Head of Talent Success',
     favorite_color: 'orange',
     linkedin: 'https://th.linkedin.com/in/dlasoen',
     twitter: '',
@@ -169,7 +169,7 @@ export default [
   {
     name: 'Hana',
     last_name: 'Ensley',
-    title: 'Customer Success Manager',
+    title: 'Client Success Manager',
     favorite_color: 'Green',
     linkedin: '',
     twitter: '',
@@ -334,7 +334,7 @@ export default [
   {
     name: 'Mia',
     last_name: 'Bijman',
-    title: 'Customer Success Manager',
+    title: 'Client Success Manager',
     favorite_color: 'cobalt blue',
     linkedin: 'https://www.linkedin.com/in/miabijman/',
     twitter: '@miabijman ‏',
@@ -378,7 +378,7 @@ export default [
   {
     name: 'Sarah',
     last_name: 'Blech',
-    title: 'Customer Success Team Lead',
+    title: 'Team Lead Customer Success',
     favorite_color: '',
     linkedin: '',
     twitter: '',
