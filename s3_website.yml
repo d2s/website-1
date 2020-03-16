@@ -51,7 +51,11 @@ cloudfront_distribution_config:
     bucket: logs-honeypot.s3.amazonaws.com
     prefix: cf-prod
 <% else %>
+<% if ENV['PREFIX_FOLDER'] == '' %>
 s3_bucket: staging.honeypot.co
+<% else %>
+s3_bucket: staging.honeypotio.co/<%= ENV['PREFIX_FOLDER'] %>
+<% end %>
 cloudfront_distribution_config:
   default_cache_behavior:
     forwarded_values:
@@ -83,7 +87,6 @@ redirects:
   pages/legal_notice: /legal_notice
   pages/privacy: /privacy_policy
   pages/faq: /faq
-  
 
 routing_rules:
   - condition:
