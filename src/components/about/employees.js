@@ -19,8 +19,6 @@ import fenne from '../../static/employees/DSC01923.jpg'
 import fenne_ from '../../static/employees/DSC01927.jpg'
 import florian from '../../static/employees/DSC01945.jpg'
 import florian_ from '../../static/employees/DSC01959.jpg'
-import geneva from '../../static/employees/DSC01847.jpg'
-import geneva_ from '../../static/employees/DSC01851.jpg'
 import hana from '../../static/employees/DSC02026.jpg'
 import hana_ from '../../static/employees/DSC02028.jpg'
 import isabel from '../../static/employees/Bearpot_Team.jpg'
@@ -29,14 +27,10 @@ import itziar from '../../static/employees/DSC01810.jpg'
 import itziar_ from '../../static/employees/DSC01811.jpg'
 import jelle from '../../static/employees/DSC01976.jpg'
 import jelle_ from '../../static/employees/DSC01977.jpg'
-import jeremy from '../../static/employees/DSC01815.jpg'
-import jeremy_ from '../../static/employees/DSC01819.jpg'
 import josiah from '../../static/employees/DSC01929.jpg'
 import josiah_ from '../../static/employees/DSC01932.jpg'
 import julian from '../../static/employees/DSC02047.jpg'
 import julian_ from '../../static/employees/DSC02049.jpg'
-import kado from '../../static/employees/DSC01820.jpg'
-import kado_ from '../../static/employees/DSC01824.jpg'
 import katharina from '../../static/employees/DSC02003.jpg'
 import katharina_ from '../../static/employees/DSC02008.jpg'
 import kaya from '../../static/employees/DSC02072.jpg'
@@ -69,8 +63,6 @@ import stefan from '../../static/employees/DSC01941.jpg'
 import stefan_ from '../../static/employees/DSC01943.jpg'
 import tabea from '../../static/employees/DSC01838.jpg'
 import tabea_ from '../../static/employees/DSC01845.jpg'
-import thomas from '../../static/employees/DSC02080.jpg'
-import thomas_ from '../../static/employees/DSC02089.jpg'
 import wiktoria from '../../static/employees/DSC02001.jpg'
 import wiktoria_ from '../../static/employees/DSC02002.jpg'
 
@@ -78,7 +70,7 @@ export default [
   {
     name: 'Agathe',
     last_name: 'Badia',
-    title: 'Talent Rep',
+    title: 'Software Developer',
     favorite_color: 'Blue',
     linkedin: 'https://fr.linkedin.com/in/agathe-badia-b6712b59/en',
     twitter: '',
@@ -89,7 +81,7 @@ export default [
   {
     name: 'Apoorv',
     last_name: 'Ahlawat',
-    title: 'Performance Marketing Manger',
+    title: 'Performance Marketing Manager',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -100,7 +92,7 @@ export default [
   {
     name: 'Buğra',
     last_name: 'Kantar',
-    title: 'Digital Designer',
+    title: 'Brand Designer',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -111,7 +103,7 @@ export default [
   {
     name: 'Debora',
     last_name: 'Lasoen',
-    title: 'Head of Talent Management',
+    title: 'Head of Talent Success',
     favorite_color: 'orange',
     linkedin: 'https://th.linkedin.com/in/dlasoen',
     twitter: '',
@@ -133,7 +125,7 @@ export default [
   {
     name: 'Emma',
     last_name: 'Hunt',
-    title: 'People Operations Manager',
+    title: 'Head of People & Culture',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -175,20 +167,9 @@ export default [
     image_: florian_,
   },
   {
-    name: 'Geneva',
-    last_name: 'Brooks',
-    title: 'Talent Relocation Manager',
-    favorite_color: 'Green',
-    linkedin: 'https://www.linkedin.com/in/geneva-brooks/',
-    twitter: '',
-    github: '',
-    image: geneva,
-    image_: geneva_,
-  },
-  {
     name: 'Hana',
     last_name: 'Ensley',
-    title: 'Customer Success Manager',
+    title: 'Client Success Manager',
     favorite_color: 'Green',
     linkedin: '',
     twitter: '',
@@ -210,7 +191,7 @@ export default [
   {
     name: 'Itziar',
     last_name: 'Merladet',
-    title: 'Talent Rep',
+    title: 'Talent Success Team Lead',
     favorite_color: 'Blue',
     linkedin: 'https://www.linkedin.com/in/itziarmerladet/',
     twitter: '',
@@ -230,20 +211,9 @@ export default [
     image_: jelle_,
   },
   {
-    name: 'Jeremy',
-    last_name: 'Bello',
-    title: 'Customer Success Manager',
-    favorite_color: 'green',
-    linkedin: 'https://www.linkedin.com/feed/',
-    twitter: '',
-    github: '',
-    image: jeremy,
-    image_: jeremy_,
-  },
-  {
     name: 'Josiah',
     last_name: 'McGarvie',
-    title: 'Video Producer',
+    title: 'Video Producer Team Lead',
     favorite_color: 'Navy Blue',
     linkedin: 'https://www.linkedin.com/in/josiah-mcgarvie-88a087a1/',
     twitter: '',
@@ -254,7 +224,7 @@ export default [
   {
     name: 'Julian',
     last_name: 'Schnute',
-    title: 'Talent Relocation Manager',
+    title: 'Community Manager',
     favorite_color: 'Skin colour (White)',
     linkedin: '',
     twitter: '',
@@ -263,20 +233,9 @@ export default [
     image_: julian_,
   },
   {
-    name: 'Kado',
-    last_name: 'Damball',
-    title: 'Software Developer',
-    favorite_color: 'Navy Blue',
-    linkedin: 'https://www.linkedin.com/in/kado-damball-68835856',
-    twitter: 'kdamball',
-    github: 'kdamball',
-    image: kado,
-    image_: kado_,
-  },
-  {
     name: 'Katharina',
     last_name: 'Kretschmer',
-    title: 'Customer Success Manager',
+    title: 'Business Development Team Lead',
     favorite_color: 'red',
     linkedin: 'https://www.linkedin.com/in/katharina-kretschmer-07254772/',
     twitter: '',
@@ -309,7 +268,7 @@ export default [
   {
     name: 'Laura',
     last_name: 'Godolphin',
-    title: 'Recruiter',
+    title: 'In-house Recruiter',
     favorite_color: 'Purple',
     linkedin: '',
     twitter: '',
@@ -331,7 +290,7 @@ export default [
   {
     name: 'Lisa',
     last_name: 'Gaertner',
-    title: 'Business Development Manager',
+    title: 'Expansion Manager',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -342,7 +301,7 @@ export default [
   {
     name: 'Mai',
     last_name: 'Luong',
-    title: 'Talent Rep',
+    title: 'Talent Success Manager',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -364,7 +323,7 @@ export default [
   {
     name: 'Max',
     last_name: 'Philipp',
-    title: 'Data Scientist',
+    title: 'Head of Data',
     favorite_color: 'Lightblue',
     linkedin: 'www.linkedin.com/in/max-philipp',
     twitter: '',
@@ -375,7 +334,7 @@ export default [
   {
     name: 'Mia',
     last_name: 'Bijman',
-    title: 'Customer Success Manager',
+    title: 'Client Success Manager',
     favorite_color: 'cobalt blue',
     linkedin: 'https://www.linkedin.com/in/miabijman/',
     twitter: '@miabijman ‏',
@@ -386,7 +345,7 @@ export default [
   {
     name: 'Mirko',
     last_name: 'Nitschke',
-    title: 'Product Owner',
+    title: 'Product Manager',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -397,7 +356,7 @@ export default [
   {
     name: 'Munya',
     last_name: 'Mangwana',
-    title: 'Product Owner',
+    title: 'Product Manager',
     favorite_color: 'Navy Blue',
     linkedin: '',
     twitter: '',
@@ -419,7 +378,7 @@ export default [
   {
     name: 'Sarah',
     last_name: 'Blech',
-    title: 'Customer Development Manager',
+    title: 'Team Lead Customer Success',
     favorite_color: '',
     linkedin: '',
     twitter: '',
@@ -430,7 +389,7 @@ export default [
   {
     name: 'Stefan',
     last_name: 'Kingham',
-    title: 'Content Marketing Manager',
+    title: 'Head of Marketing',
     favorite_color: 'Blue',
     linkedin: '',
     twitter: '',
@@ -441,7 +400,7 @@ export default [
   {
     name: 'Tabea',
     last_name: 'Müller',
-    title: 'VP Engineering',
+    title: 'VP of Engineering',
     favorite_color: 'Burgundy',
     linkedin: 'https://de.linkedin.com/in/tabea-müller-384a10115',
     twitter: '',
@@ -450,20 +409,9 @@ export default [
     image_: tabea_,
   },
   {
-    name: 'Thomas',
-    last_name: 'Thiele',
-    title: 'VP Operations',
-    favorite_color: 'Green, Orange',
-    linkedin: 'https://www.linkedin.com/in/computhomas/',
-    twitter: 'computhomas',
-    github: 'https://github.com/computhomas',
-    image: thomas,
-    image_: thomas_,
-  },
-  {
     name: 'Wiktoria',
     last_name: 'Vowles',
-    title: 'Team Lead Customer Development',
+    title: 'Team Lead Client Success',
     favorite_color: '#ffcc00',
     linkedin: 'https://www.linkedin.com/in/wiktoria-vowles-919821a4',
     twitter: 'https://twitter.com/WiktaV',
@@ -478,7 +426,6 @@ export default [
     favorite_color: '',
     linkedin: '',
     twitter: '',
-    image_: agathe_,
     github: '',
     image: baku,
     image_: baku_,
