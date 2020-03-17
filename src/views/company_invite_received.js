@@ -25,12 +25,14 @@ export default o => {
             </h4>
             <ol className="step-list company-invite-received__step-list">
               <li className="step-list__item">
-                We call you to get to know your hiring needs
+                We’ll schedule a call to  get to know you better and introduce you to the platform.📞
               </li>
               <li className="step-list__item">
-                You get access to the platform and pre-screened developers
+                You get access to Honeypot 🔑
               </li>
-              <li className="step-list__item">Start hiring!</li>
+              <li className="step-list__item">
+                Happy Hiring! 🎉
+              </li>
             </ol>
           </div>
         </div>
