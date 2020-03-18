@@ -11,52 +11,43 @@ import cookie from '../locales/cookie.json'
 import about from '../locales/about.json'
 import community from '../locales/community.json'
 
-export const languages = ['en', 'de', 'nl']
+export const languages = ['en', 'de', 'nl', 'es']
 const defaultLang = 'en'
+
+const resources = Object.fromEntries(languages.map((shortCode) => {
+  const ifExists = function(file) {
+    if (file[shortCode]) {
+      return file[shortCode];
+    } else {
+      // FIXME: log missing translations as errors?
+      return file.defaultLang;
+    }
+  };
+
+  const translations = {
+    // special case
+    general,
+
+    footer: ifExists(footer),
+    header: ifExists(header),
+    seo: ifExists(seo),
+    index: ifExists(index),
+    'tech-hiring': ifExists(techHiring),
+    faq: ifExists(faq),
+    cookie: ifExists(cookie),
+    about: ifExists(about),
+    community: ifExists(community),
+  };
+
+  return [shortCode, translations];
+}));
 
 i18n.init({
   lng: defaultLang,
   fallbackLng: defaultLang,
   defaultNS: 'general',
   fallbackNS: 'general',
-  resources: {
-    de: {
-      footer: footer.de,
-      header: header.de,
-      general,
-      seo: seo.de,
-      index: index.de,
-      'tech-hiring': techHiring.de,
-      faq: faq.de,
-      cookie: cookie.de,
-      about: about.de,
-      community: community.de,
-    },
-    en: {
-      footer: footer.en,
-      header: header.en,
-      general,
-      seo: seo.en,
-      index: index.en,
-      'tech-hiring': techHiring.en,
-      faq: faq.en,
-      cookie: cookie.en,
-      about: about.en,
-      community: community.en,
-    },
-    nl: {
-      footer: footer.nl,
-      header: header.nl,
-      general,
-      seo: seo.nl,
-      index: index.nl,
-      'tech-hiring': techHiring.nl,
-      faq: faq.nl,
-      cookie: cookie.nl,
-      about: about.nl,
-      community: community.nl,
-    },
-  },
+  resources
 })
 
 export default i18n

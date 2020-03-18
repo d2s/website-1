@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import { NamespacesConsumer } from 'react-i18next'
 import getCurrentPage from '../utils/page'
-import { getLang } from '../utils/i18n'
+import { languages } from '../utils/i18n'
 import { withPrefix } from 'gatsby'
 import { vmoScripts } from './vwo-scripts'
 
@@ -16,21 +16,21 @@ import { vmoScripts } from './vwo-scripts'
   );
  }
 
-export default ({ page, lang }) => {
+export default ({ page, currentLang }) => {
   let image = 'default-og.jpg'
   if (page === 'about' || page === 'community') {
     image = `${page}-og.jpg`
   }
   const pageTitle = page === 'index' ? '' : page
-  const langs = ['en', 'de', 'nl'].filter(l => l !== lang)
+  const otherLanguages = languages.filter(l => l !== currentLang)
   return (
     <NamespacesConsumer ns={'seo'}>
       {t => (
         <Helmet>
-          <html lang={lang} />
+          <html lang={currentLang} />
           <title>{t(`${page}.title`)}</title>
           {/* <link rel="shortcut icon" type="image/svg" href="/favicon.svg" /> */}
-          {langs.map(l => (
+          {otherLanguages.map(l => (
             <link
               key={l}
               rel="alternate"
@@ -44,7 +44,7 @@ export default ({ page, lang }) => {
           : null}
           <meta property="og:type" content="website" />
           <meta property="og:title" content={t(`${page}.og-title`)} />
-          <meta property="og:url" content={`/${lang}/${pageTitle}`} />
+          <meta property="og:url" content={`/${currentLang}/${pageTitle}`} />
           <meta
             property="og:description"
             content={t(`${page}.og-description`)}

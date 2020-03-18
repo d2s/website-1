@@ -34,3 +34,11 @@ From [Gatsby documentation](https://www.gatsbyjs.org/docs/environment-variables/
 - `VWO_ID` will be available to your site (Server-side) as `process.env.VWO_ID`.
 - If you commit your `.env.*` file containing `VWO_ID` to source control it would also be available on the client-side.
 - However they strongly advise against that! You should prefix your variable with `GATSBY_` instead and Gatsby automatically makes it available in the browser context.
+
+## Adding new languages
+
+If you want to add another language, e.g. Spanish, you need to:
+- get its shortcode, i.e. `es`
+- Ensure that each file with an english suffix in `src/pages` has a corresponding file, e.g. `index.en.js` has a corresponding `index.es.js`. In most cases these files can be identical.
+- Add the shortcode to the `languages` array in `src/utils/i18n.js`.
+- Ensure that each of the files in `src/locales` has a key for `es` and translations for all the values.
