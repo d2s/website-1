@@ -17,6 +17,6 @@
     "number-employees": "Anzahl der Mitarbeiter",
     "contact-person": "Kontaktperson",
     "contact-email": "$t(email) Kontakt",
-    "employer-agree": "Telefonnummer",
+    "employer-agree": "Telefonnummer"
   }
 }

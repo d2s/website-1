@@ -188,6 +188,99 @@
   "nl": {
     "story": {
       "left": {
+        "headline": "Ons verhaal",
+        "text": "Honeypot is Europa's Developer Focused Job Platform, opgericht in oktober 2015. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, and CTOs bij het vinden van hun perfecte baan."
+      },
+      "right": {
+        "headline": "Wat is Honeypot?",
+        "text": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris. Op dit moment is Honeypot Europa's leidende developer-focused job platform, actief in Duitsland en Nederland."
+      }
+    },
+    "life": {
+      "headline": "Life at Honeypot",
+      "tagline": "Nieuwsgierigheid, creativiteit en ambitie zijn belangrijke waarden van ons. Check onze video's voor een impressie over het dagel leven bij Honeypot.",
+      "1": {
+        "video": "",
+        "text": "Work Culture"
+      },
+      "2": {
+        "video": "",
+        "text": "Team Offsites"
+      },
+      "3": {
+        "video": "",
+        "text": "Team Events"
+      }
+    },
+    "team": {
+      "headline": "Maak kennis met ons team",
+      "tagline": "19+ nationaliteiten, 15+ talen"
+    },
+    "advisors": {
+      "headline": "Onze Adviseurs",
+      "tagline": "",
+      "1": {
+        "name": "Felix Plog",
+        "text": "Felix Plog is mede-oprichter van Foodpanda en werkte als SVP of Operations bij Delivery Hero. Foodpanda heeft meer dan $310 miljoen aan funding opgehaald en is in 2016 door Delivery Hero overgenomen. Als angel investor en adviseur voegt Felix uitgebreide operationele ervaring toe aan het Honeypot team. Vóór Foodpanda gaf Felix leiding aan de beursgenoteerde financiële uitgever wallstreet:online als CEO en droeg hij bij aan Axel Springer's expansie in de technologiesector als Head of Portfolio Management. Zijn carrière startte hij bij Roland Berger als consultant."
+      },
+      "2": {
+        "name": "Konstantin Haase",
+        "text": "Konstantin is een softwareontwikkelaar, ondernemer, auteur, spreker en één van de actiefste mensen in de open source community. Hij is mede-oprichter van Travis CI, een continuous integration-as-service-platform, gebruikt door GitHub, Twitter, Facebook en vele anderen. Hij levert een actieve bijdrage aan verschillende open source-projecten, zoals Sinatra, Rubinius, Rack en nog veel meer."
+      },
+      "3": {
+        "name": "Timo Rößner",
+        "text": "Timo is Engineering Manager bij ResearchGate, nadat hij gedurende zijn carrière verschillende lead developer posities bekleedde.  Timo draagt actief bij aan open-source software en is de huidige beheerder van 'reek', een code quality analyser die populair is in de Ruby-community. Hij is een fervent evangelist van nieuwe technologieën en heeft ruime ervaring met het ontwikkelen en promoten van teamcultuur binnen organisaties."
+      },
+      "4": {
+        "name": "Torsten Curdt",
+        "text": "Torsten is een software developer, oprichter, auteur, spreker en blogger. Hij is een specialist in scalable architectures, backend-services, big data, iOS- en Mac-ontwikkeling. Torsten is ook al jarenlang een actieve bijdrager aan open source projecten."
+      }
+    },
+    "news": {
+      "headline": "In het nieuws",
+      "left": {
+        "text": "Recruiting Startup van het jaar - Hiring Succes 18. Bekijk onze winnende pitch! ",
+        "show": "Show",
+        "link": "..."
+      },
+      "right": {
+        "text": "Digital Disruption For Europe's Recruitment Sector",
+        "show": "Show",
+        "link": "..."
+      }
+    },
+    "career": {
+      "headline": "Vacatures",
+      "text": "Geïnteresseerd om je bij het Honeypot team aan te sluiten?",
+      "link": "Check onze vacatures"
+    },
+    "care": {
+      "headline": "Goede doelen waar we om geven",
+      "text": "Ons team ondersteunt organisaties die helpen de wereld te verbeteren."
+    },
+    "where": {
+      "tagline": "",
+      "headline": "Onze kantoren",
+      "show": "Toon locatie",
+      "1": {
+        "city": "Berlin, Duitsland",
+        "street": "Schlesische Straße 26, 10997",
+        "link": ""
+      },
+      "2": {
+        "city": "Amsterdam, Nederland",
+        "street": "TQ, Singel 542, 1017 AZ",
+        "link": ""
+      }
+    },
+    "join": {
+      "text": "Join us!",
+      "show": "Vacatures"
+    }
+  },
+  "es": {
+    "story": {
+      "left": {
         "headline": "Nuestra historia",
         "text": "Lanzada en octubre de 2015, Honeypot es la plataforma europea de empleo para desarrolladores. Nuestra misión consiste en que todos los desarrolladores encuentren un trabajo estupendo. Honeypot ayuda a los desarrolladores, ingenieros de desarrollo e ingenieros punteros a encontrar un puesto que les apasione."
       },

@@ -208,5 +208,75 @@
       "headline": "Blijf up-to-date over je tech-carrière",
       "tagline": "We delen inzichten en data over salarissen, opkomende tech-trends en de gaafste tech-bedrijven van Europa."
     }
+  },
+  "es": {
+    "headline": {
+      "1": "Sluit je aan Europa's grootste",
+      "2": "Tech Community"
+    },
+    "meet": {
+      "headline": "Ontmoet de community",
+      "tagline": "Wij organiseren evenementen in heel Europa, van intieme bijeenkomsten en workshops tot grote, internationale conferenties. ",
+      "link-text": "",
+      "1": {
+        "headline": "GraphQL Conf",
+        "text": "GraphQL Conf is een conferentie met sprekers van over de hele wereld. Georganiseerd in samenwerking met Prisma en het founding team van de GraphQL technologie is GraphQL Conf is de grootste GraphQL-conferentie ten oosten van de Atlantische Oceaan. Lees meer over de best practices van GraphQL van experts uit de branche en maak deel uit van de bloeiende GraphQL-community.",
+        "link": "https://www.graphqlconf.org/"
+      },
+      "2": {
+        "headline": "Hive Conference",
+        "text": "Hive is een conferentie voor HR-leiders, Technical Hiring Managers, CTO's en VP's of Engineering die zich richten op alle aspecten van het bouwen en opschalen van top engineering teams.",
+        "link": "https://hive.honeypot.io/"
+      },
+      "3": {
+        "headline": "Tech Talks & CTO Club",
+        "text": "Wil jij je diep wortelen in de tech community van Duitsland en Nederland? Dan zijn onze tech meetups precies wat jij zoekt - trending tech topics en ervaren sprekers waar je van kunt leren.",
+        "link": {
+          "1": {
+            "link": "https://www.meetup.com/Honeypot_Berlin/",
+            "link-text": "Show Berlijn"
+          },
+          "2": {
+            "link": "https://www.meetup.com/Honeypot_Amsterdam/",
+            "link-text": "Show Amsterdam"
+          }
+        }
+      },
+      "4": {
+        "headline": "HR in Tech",
+        "text": "Is het aannemen van tech talent onderdeel van jouw dagele workflow? Dan zal onze pan-Europese HR in Tech-evenementen reeks helemaal bij je passen. Of je nu in Duitsland of Nederland woont, wij helpen jou graag verder.",
+        "link": "https://www.eventbrite.ie/o/honeypotio-8532947424"
+      }
+    },
+    "documentaries": {
+      "headline": "Documentaires",
+      "tagline": "We maken documentaires over een aantal van de vetste opensourceprojecten ter wereld.",
+      "elixir": {
+        "headline": "Elixir: A Mini-Documentary",
+        "text": "Ontdek hoe de programmeertaal Elixir is ontstaan, de manier waarop het met concurrency omgaat en de snelheid waarmee het gegroeid is sinds de taal is gecreëerd in 2011.",
+        "link-text": "Show"
+      }
+    },
+    "opensource": {
+      "headline": "Ook een opensource fan?",
+      "tagline": "Wij ook! Bekijk deze producten die ons tech team met de wereld heeft gedeeld.",
+      "link-text": "Show",
+      "searchspot": {
+        "name": "Searchspot",
+        "text": "Verantwoordelijk voor de ElasticSearch data van Honeypot en voornamelijk aangedreven door Rust en Iron, bedrijven gebruiken het op het platform om door profielen van developers te zoeken."
+      },
+      "reina": {
+        "name": "Reina",
+        "text": "GitHub bot- en CLI-applicatie voor het afhandelen van deployments en orchestrations van feature stagings op Heroku."
+      },
+      "github": {
+        "name": "Github",
+        "text": "Meedoen? Ga naar onze Github repo om een bijdrage te leveren!"
+      }
+    },
+    "articles": {
+      "headline": "Blijf up-to-date over je tech-carrière",
+      "tagline": "We delen inzichten en data over salarissen, opkomende tech-trends en de gaafste tech-bedrijven van Europa."
+    }
   }
 }

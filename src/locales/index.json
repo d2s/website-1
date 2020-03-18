@@ -184,6 +184,102 @@
     }
   },
   "nl": {
+    "sign-up": "Schrijf je in bij Honeypot",
+    "page-intro": {
+      "headline1": "Choose a",
+      "headline2": "Job You Love",
+      "tagline": "Honeypot is Europa's Tech Job Platform. Maak een profiel aan en laat bedrijven bij jou solliciteren.",
+      "button1": "Vind een baan!",
+      "button2": "Ik ben op zoek naar talent"
+    },
+    "company-bar": {
+      "tagline": "Al meer dan 1000 bedrijven maken gebruik van Honeypot"
+    },
+    "join": {
+      "headline": "Sluit je aan bij een engineering team in jouw ideale functie",
+      "text": "Op Honeypot zijn meer dan 1000 bedrijven op zoek naar Software Developers, DevOps Engineers, en Engineering Leaders!"
+    },
+    "process": {
+      "headline": "Een simpel en snel registratieproces!",
+      "step1": {
+        "headline": "Maak een profiel aan",
+        "text": "Dit is jouw kans om ons te vertellen hoe je volgende functie eruit moet zien – en je hebt er maar 5 minuten voor nodig."
+      },
+      "step2": {
+        "headline": "Doorloop onze screening",
+        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Rep, die je helpt om de beste aanbiedingen te ontvangen."
+      },
+      "step3": {
+        "headline": "Word zichtbaar op Honeypot",
+        "text": "Zodat bedrijven je profiel kunnen vinden en je aanbiedingen kunnen sturen, compleet met salaris en tech stack."
+      },
+      "step4": {
+        "headline": "Word aangenomen",
+        "text": "Praat met de bedrijven die jij interessant vindt en kies het bedrijf dat het beste bij je past."
+      }
+    },
+    "stack": {
+      "headline": "Werk met een tech stack die bij jou past",
+      "text": "Of het nu Ruby, Scala, JavaScript of iets anders is, op Honeypot krijg je alleen aanbiedingen van bedrijven voor de tech stack en het salaris waar jij naar zoekt."
+    },
+    "location": {
+      "headline": "Kies jouw favoriete locatie",
+      "text": "Honeypot is actief in de aantrekkelijkste tech-steden van Europa en in zowel Duitsland als Nederland. Stel je locatievoorkeur in en bedrijven solliciteren bij jou!"
+    },
+    "support": {
+      "headline": "Gratis carrièreondersteuning en -begeleiding",
+      "text": "Je Talent Rep begeleidt je van A – Z, met advies over je CV en sollicitatiegesprekken, en om je salaris te benchmarken, aanbiedingen te evalueren en een geweldige baan te vinden."
+    },
+    "worth": {
+      "headline": "Weet wat je waard bent!",
+      "text": "Bedrijven benaderen je direct zodat je aanbiedingen met elkaar kunt vergelijken. Geen sollicitaties of omslachtig heen-en-weer gedoe met recruitmentbureaus."
+    },
+    "newsletter": {
+      "headline": "Schrijf je in voor onze nieuwsbrief",
+      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content. "
+    },
+    "testimonial": {
+      "headline": "Top banen voor top tech-talenten",
+      "tagline": "Sluit je aan bij de top 10% en kom in contact met Europa's spannendste tech bedrijven",
+      "1": {
+        "image": "/avatar.jpg",
+        "name": "Shuhei Kagawa",
+        "position": "Frontend Developer \n Zalando",
+        "text": "Wat mij beviel aan Honeypot was dat bedrijven interviews aanbieden met een indicatie van het salaris. Het bespaarde de moeite om te solliciteren, interviews te doen, aanbiedingen te krijgen en dan uiteindelijk te ontdekken dat het salaris niet aan mijn eisen voldeed."
+      },
+      "2": {
+        "image": "/avatar.jpg",
+        "name": "Emil Ahlbäck",
+        "position": "Aangenomen als Senior Frontend Developer bij Weissmaler",
+        "text": "Na 2 weken had ik al 13 interview uitnodigingen ontvangen van een geweldige selectie van bedrijven. Hieruit kon ik de uitnodigingen kiezen die het beste bij me pasten, en ik vond daardoor een heel mooie baan."
+      },
+      "3": {
+        "image": "/avatar.jpg",
+        "name": "Veronica Hannibal",
+        "position": "Aangenomen als JavaScript Developer by finAPI",
+        "text": "Binnen een paar weken ontving ik meerdere aanbiedingen en kreeg ik de perfecte baan aangeboden aangeboden direct na het behalen van mijn diploma.  In vergelijking met recruiters en andere platformen voelt Honeypot een stuk persoonlijker."
+      },
+      "4": {
+        "image": "/avatar.jpg",
+        "name": "Sashen Singh",
+        "position": "Aangenomen als Mobile Engineer bij Aperto",
+        "text": "De user experience was fantastich en de site is makkelijk het gebruik. Je hoeft niet te zoeken of bij te houden waar je solliciteert.  Het systeem is erg efficiënt omdat bedrijven jou vinden, dit maakt dat het platform erg simpel en prettig werkt."
+      },
+      "5": {
+        "image": "/avatar.jpg",
+        "name": "Peter Ringelmann",
+        "position": "Frontend Developer \n Deutsche Post E-Post Development",
+        "text": "Honeypot was geweldig! Ik was verbaasd over het grote aantal aanbiedingen en de verscheidenheid van de bedrijven. Mijn Talent Rep gaf me goed advies over hoe ik een professioneel uitziend CV op moest stellen, iets waar ik in het verleden altijd mee worstelde."
+      }
+    },
+    "newsletter": {
+      "headline": "Schrijf je in voor onze nieuwsbrief",
+      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content.",
+      "email-placeholder": "Je E-Mail",
+      "join": ""
+    }
+  },
+  "es": {
     "sign-up": "Regístrate en Honeypot",
     "page-intro": {
       "headline1": "Elige tu",

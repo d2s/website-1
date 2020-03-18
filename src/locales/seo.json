@@ -134,6 +134,72 @@
   "nl": {
     "index": {
       "title": "$t(general:company-name) | $t(general:nl.tagline)",
+      "description": "Honeypot is Europa's Developer-Focused Job Platform voor Software Developers, DevOps Engineers, Engineering Leaders en CTOs. Krijg toegang tot de beste tech banen van Nederland en Duitsland.",
+      "og-title": "$t(index.title)",
+      "og-description": "$t(index.description)",
+      "og-image": "",
+      "og-image-alt": "$t(index.title)"
+    },
+    "tech-hiring": {
+      "title": "Neem Top Tech Talent aan in Duitsland, Nederland and Europa | $t(general:company-name)",
+      "description": "Honeypot is is de makkelte en meest efficiënte manier om ervaren Software Developers, DevOps Engineers, en Engineering Leaders aan te nemen.",
+      "og-title": "$t(tech-hiring.title)",
+      "og-description": "$t(tech-hiring.description)",
+      "og-image": "",
+      "og-image-alt": "$t(tech-hiring.title)"
+    },
+    "about": {
+      "title": "Over ons - $t(general:company-name) | $t(general:nl.tagline)",
+      "description": "Honeypot is Europa's Tech Job Platform voor Software Developers, DevOps, en Engineering Leaders. Kom meer te weten over Honeypot, onze missie & ons team.",
+      "og-title": "$t(about.title)",
+      "og-description": "$t(about.description)",
+      "og-image": "",
+      "og-image-alt": "Honeypot team"
+    },
+    "community": {
+      "title": "Community - $t(general:company-name) | $t(general:nl.tagline)",
+      "description": "We zijn de trotse organisatoren van Hive by Honeypot en GraphQL Conf! Blijf op de hoogte van onze aankomende events en conferenties en bekijk onze nieuwste documentaires en open source projecten.",
+      "og-title": "$t(community.title)",
+      "og-description": "$t(community.description)",
+      "og-image": "",
+      "og-image-alt": "Community events at Honeypot"
+    },
+    "faq": {
+      "title": "FAQ - $t(general:company-name) | $t(general:nl.tagline)",
+      "description": "Ontdek hoe het Honeypot-platform werkt. Leer meer over ons screeningsproces, jouw Talent Rep & interview uitnodigingen.",
+      "og-title": "$t(faq.title)",
+      "og-description": "$t(faq.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    },
+    "legal_notice": {
+      "title": "Juridische Mededeling - $t(general:company-name) | $t(general:nl.tagline2)",
+      "description": "Our legal notice, address, contact details and commercial information",
+      "og-title": "$t(legal_notice.title)",
+      "og-description": "$t(legal_notice.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    },
+    "privacy_policy": {
+      "title": "Privacybeleid - $t(general:company-name) | $t(general:nl.tagline2)",
+      "description": "The protection of your privacy is of particular importance to us. Find out what our privacy policy is about and what kind of personal data we collect",
+      "og-title": "$t(privacy_policy.title)",
+      "og-description": "$t(privacy_policy.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    },
+    "terms_of_service": {
+      "title": "Terms of Service - $t(general:company-name) | $t(general:nl.tagline2)",
+      "description": "",
+      "og-title": "$t(terms_of_service.title)",
+      "og-description": "$t(terms_of_service.description)",
+      "og-image": "",
+      "og-image-alt": "$t(general:company-name) | $t(general:nl.tagline)"
+    }
+  },
+  "es": {
+    "index": {
+      "title": "$t(general:company-name) | $t(general:nl.tagline)",
       "description": "La plataforma europea de empleo para desarrolladores software, ingenieros DevOps y líderes. ¡Encuentra puestos de trabajo con tecnología puntera en Alemania, Holanda, Austria y España!",
       "og-title": "$t(index.title)",
       "og-description": "$t(index.description)",
