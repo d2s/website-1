@@ -14,6 +14,9 @@ import community from '../locales/community.json'
 export const languages = ['en', 'de', 'nl', 'es']
 const defaultLang = 'en'
 
+// Doesn't exist in some node versions yet.
+Object.fromEntries = l => l.reduce((a, [k, v]) => ({ ...a, [k]: v }), {});
+
 const resources = Object.fromEntries(languages.map((shortCode) => {
   const ifExists = function(file) {
     if (file[shortCode]) {
