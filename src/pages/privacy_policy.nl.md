@@ -1,469 +1,184 @@
-## Privacybeleid van Honeypot
+##Política de privacidad de Honeypot
 
-De bescherming van uw privacy is bijzonder belangrijk voor ons.
+Nos importa mucho su privacidad.
 
-Honeypot GmbH, Schlesische Straße 26, 10997 Berlijn, Duitsland, e-mail:
-hello@honeypot.io (zie afdruk), hierna "Honeypot", als beheerder van de website
-"www.honeypot.io" is de verwerkingsverantwoordelijke voor het gebruik van
-persoonlijke gegevens van gebruikers van de website overeenkomstig Art. 4 (7)
-van de EU Algemene Verordening Gegevensbescherming (“AVG”) . U kunt contact
-opnemen met onze functionaris voor gegevensbescherming via privacy@honeypot.io
-of ons postadres ten aanzien van "Functionaris voor gegevensbescherming".
+Honeypot GmbH, Schlesische Straße 26, 10997 Berlín, Alemania, correo electrónico: hello@honeypot.io (véase el pie de imprenta), en adelante «Honeypot», como operador del sitio web «www.honeypot.io», es el responsable para el uso de los datos personales de los usuarios del sitio web, de conformidad con el Art. 4 (7) del Reglamento General de Protección de Datos de la UE («GDPR»). Puede ponerse en contacto con nuestro responsable de protección de datos a través de privacy@honeypot.io, o bien en nuestra dirección postal con la referencia «Responsable de la protección de datos».
 
-Verder is het voor ons van belang dat u weet, op ieder moment, wanneer wij uw
-persoonlijke gegevens opslaan en hoe we deze gebruiken.
+Además, queremos que sepa en todo momento cuándo almacenamos sus datos personales y cómo los utilizamos.
 
-Wij verzamelen, verwerken en gebruiken uw persoonlijke gegevens met inachtneming
-van de toepasselijke Europese en Duitse regelgeving inzake gegevensbescherming.
+Recogeremos, procesaremos y utilizaremos sus datos personales de acuerdo con la ley de protección de datos europea y alemana en vigor.
 
-##### Wat houdt dit Privacybeleid in?
+¿De qué trata esta Política de Privacidad?
+Los detalles incluidos en esta Política de privacidad le proporcionarán información sobre cuándo y cómo recopilamos datos personales relacionados con usted durante su uso de los sitios web y del servicio operado por Honeypot bajo el dominio «honeypot.io» (el «Servicio») y sobre el uso que hacemos de dichos datos. Aquí le informamos acerca del tipo de datos personales, su alcance y los fines para los que se realiza la mencionada recopilación y uso de los datos. Por todo ello, le rogamos que lea atentamente las siguientes explicaciones.
 
-De details zoals genoemd in dit Privacybeleid zullen u voorzien van informatie
-over wanneer en hoe wij persoonlijke gegevens van u verzamelen gedurende uw
-gebruik van de door Honeypot beheerde websites en service onder het domein
-“honeypot.io” (“Service”) en hoe we zulke gegevens gebruiken. Wij informeren u
-over het soort persoonlijke gegevens, de reikwijdte van de persoonlijke gegevens
-en de redenen waarom persoonlijke gegevens worden verzameld en gebruikt. Wij
-vragen u daarom de volgende toelichtingen zorgvuldig te lezen.
-Dit Privacybeleid is slechts geldig voor deze website. De website kan
-verwijzingen ("links") bevatten naar andere websites of derden. Ons
-Privacybeleid is niet van toepassing op websites van derden. Daarom dienen
-gebruikers het privacybeleid van websites van derden welke persoonlijke gegevens
-verzamelen zorgvuldig te raadplegen.
-Bij instemming met ons Privacybeleid stemt u in met het verzamelen, verwerken en
-gebruiken van uw persoonlijke gegevens met inachtneming van de toepasselijke
-regelgeving met betrekking tot het beschermen van persoonsgegevens en de
-volgende bepalingen.
+Esta Política de Privacidad sólo es válida para este sitio web. El sitio web puede contener referencias cruzadas («enlaces») a otros sitios web de terceros proveedores. Nuestra política de privacidad no se aplica a los sitios web de terceros. Por este motivo, los usuarios deben leer atentamente las políticas de privacidad de los sitios web de terceros que recopilan sus datos personales.
 
-##### Wat zijn persoonlijke gegevens?
+Al aceptar nuestra Política de Privacidad, usted acepta también la recopilación, el procesado y el uso de sus datos personales de acuerdo con la legislación vigente en materia de protección de datos personales y sus consiguientes disposiciones.
 
-Persoonlijke gegevens omvat alle informatie met betrekking tot een
-geïdentificeerde of identificeerbare natuurlijke persoon. Een persoon is
-identificeerbaar wanneer de persoon kan worden geïdentificeerd, direct of
-indirect, in het bijzonder door verwijzing naar een identificatienummer of naar
-een of meer factoren kenmerkend voor zijn lichamelijke, fysiologische, mentale,
-economische, culturele of sociale identiteit. Dit kunnen gegevens zijn zoals
-naam, e-mailadres, telefoonnummer en postadres. Wij verwerken uw gegevens in het
-kader van onze dienstverlening alleen wanneer u ons hiervoor toestemming heeft
-verleend, de gegevens noodzakelijk zijn voor de uitvoering van het contract of
-waar het bij wet is toegestaan.
-U kunt op ieder moment uw toestemming voor het verwerken van uw persoonlijke
-gegevens intrekken. Een intrekking is direct van invloed op de toelaatbaarheid
-van het verwerken van uw persoonlijke gegevens zodra deze aan ons gericht is.
-Wanneer het verwerken van uw persoonlijke gegevens gebaseerd is op legitieme
-belangen heeft u het recht bezwaar te maken tegen de verwerking van persoonlijke
-gegevens. Wanneer u van het recht om bezwaar te maken gebruik maakt, vragen wij
-u vriendelijk toe te lichten waarom wij uw persoonlijke gegevens niet zouden
-moeten verwerken. Wanneer uw bezwaar gegrond is, zullen wij de feiten beoordelen
-en de gegevensverwerking aanpassen of wijzigen of u informeren met betrekking
-tot dwingende legitieme belangen voor de verwerking.
-Wij zullen uw persoonlijke gegevens verwijderen zodra deze gegevens niet langer
-van belang zijn voor de desbetreffende doeleinden. Het kan voorkomen dat
-persoonlijke gegevens voor een bepaalde termijn worden bewaard gedurende waarin
-mogelijke vorderingen op ons kunnen worden gedaan (bijvoorbeeld wettelijke
-verjaringstermijn voor een periode van drie, of in sommige gevallen, dertig
-jaar). Verder zijn wij bij wet verplicht om bepaalde gegevens op te slaan als
-gevolg van verplichtingen van bewijs en retentie, onder meer van het Duitse
-Wetboek van Koophandel, het Duitse Belastingrecht of de Anti-witwaswet. De
-bewaartermijnen kunnen oplopen tot tien jaar.
+####¿Qué entendemos por datos personales?
+Los datos personales son cualquier información relativa a una persona física identificada o identificable. Una persona es identificable si puede ser identificada directa o indirectamente, en particular mediante un número de identificación o mediante uno o varios factores concretos de su identidad física, fisiológica, mental, económica, cultural o social. Aquí pueden incluirse datos como, por ejemplo, su nombre, dirección de correo electrónico, número de teléfono y dirección postal. Procesaremos sus datos en el marco de nuestro servicio sólo tras obtener su consentimiento para ello, cuando estos datos sean necesarios para el cumplimiento del contrato o cuando la ley lo permita.
 
-##### Welk soort persoonlijke gegevens verzamelt Honeypot?
+Usted puede revocar su consentimiento para el procesado de sus datos personales en todo momento. Esta revocación tendrá una influencia directa sobre la admisibilidad del tratamiento de sus datos personales tan pronto como nos lo comunique.
 
-Met iedere toegang tot onze Service worden hieraan gerelateerde gegevens bewaard
-in een protocol file of database op de server van onze hosting service provider.
-Dit geldt ook voor gegevens die u invoert om de Service te gebruiken of om
-contact met ons op te nemen.
+Si el procesado de sus datos personales se basa en intereses legítimos, usted tiene el derecho a oponerse al procesado de sus datos personales. En caso de que ejerza su derecho de oposición, le rogamos que nos explique los motivos por los que no debemos procesar sus datos personales. Si su objeción está justificada, revisaremos los hechos y ajustaremos o modificaremos el tratamiento de los datos, o bien le informaremos sobre los motivos legítimo e imperativos que rigen el tratamiento de aquellos.
 
-Wij verzamelen de volgende informatie:
+Borraremos sus datos personales tan pronto como los datos ya no sean necesarios para su propósito correspondiente. Puede ocurrir que conservemos los datos personales durante el tiempo necesario para poder presentar posibles reclamaciones contra nosotros (por ejemplo, un plazo de prescripción de tres años o, en algunos casos, de treinta años). Además, estamos obligados por ley a almacenar ciertos datos debido, entre otras causas, a las obligaciones de prueba y retención que fijan el Código de Comercio alemán, el Código Fiscal alemán o la Ley de Blanqueo de Dinero alemán. Los períodos de almacenamiento pueden prolongarse hasta diez años.
 
-- Bestandsnaam van de opgevraagde content (respectievelijk door u ingediende
-  informatie gedurende het gebruik van onze dienstverlening);
-- Datum en tijdstip van het verzoek;
-- Hoeveelheid overgedragen informatie, toegangsstatus (content overgedragen, niet
-  gevonden content, etc.);
-- Besturingssysteem, browser en type apparaat;
-- Schermresolutie, taal en tijdszone instellingen;
-- Referrer-URL, d.w.z. internetadres van de website voorafgaand aan toegang tot
-  ons aanbod;
-- IP-adres en naam van uw internetprovider.
+####¿Qué tipo de datos personales almacena Honeypot?
+Con cada acceso a nuestro servicio, los datos relacionados con este evento se almacenan en un archivo de protocolo o en una base de datos en el servidor de nuestro proveedor de servicios de alojamiento. Esto también se aplica a los datos que usted introduce para utilizar el Servicio o para ponerse en contacto con nosotros.
 
-Het IP-adres wordt slechts gedurende het gebruik opgeslagen en daarna
-onmiddellijk verwijderd of geanonimiseerd.
+Almacenamos la siguiente información:
 
-Wij verzamelen voornoemde gegevens aangezien dit technisch noodzakelijk is voor
-ons om onze website weer te geven en stabiliteit en veiligheid van de website te
-garanderen. De wettelijke grondslag voor dit verwerken is Art. 6 (1) zin 1 lid
-f) AVG.
+Nombre de archivo del contenido recuperado (respectivamente, información presentada por usted en el curso de la utilización de nuestro servicio); fecha y hora de la solicitud; cantidad de datos transferidos, estado de acceso (contenido transmitido, contenido no encontrado, etc.); sistema operativo, navegador y tipo de dispositivo; resolución de pantalla, idioma y ajustes de zona horaria; referrer-URL, es decir, la dirección de Internet de la página web visitada antes de acceder a nuestra oferta; dirección IP y nombre de su proveedor de servicios de Internet. La dirección IP se almacena sólo durante el periodo de uso y se borrará o anonimizará inmediatamente después.
 
-##### Hoe gebruikt Honeypot mijn persoonlijke gegevens?
+Recopilamos los datos mencionados anteriormente, ya que son técnicamente necesarios para poder mostrar nuestra página web y para garantizar la estabilidad y seguridad de la misma. La base legal de este procesamiento es el Art. 6 (1) frase 1 lit. f) GDPR.
 
-Honeypot gebruikt de gegevens voor de volgende doeleinden:
+####¿Cómo utiliza Honeypot mis datos personales?
+Honeypot utiliza sus datos con los siguientes fines:
 
-- Bieden van door u opgevraagde diensten, bijv. het koppelen van u aan andere
-  gebruikers van onze dienstverlening.
-- Verzekeren dat u de best mogelijke gebruikservaring heeft, bijv. aanpassen van
-  uw profiel en beheren van uw privacy instellingen.
-- Het naleven van onze contractuele verplichtingen aan u, bijv. u informeren
-  over mogelijke connecties (Interview Uitnodigingen) via het platform, e-mail of
-  telefoon.
-- Ervoor zorgen dat u zoveel als u wilt kunt deelnemen aan onze interactieve
-  dienstverlening.
-- U op de hoogte te stellen van wijzigingen in onze dienstverlening.
+Proporcionarle los servicios que usted ha solicitado, como, por ejemplo, ponerlo en contacto con otros miembros de nuestro servicio.
+Garantizar de que disfruta de la mejor experiencia de usuario posible, por ejemplo, al editar su perfil y al gestionar su configuración de privacidad.
+Cumplir con nuestras obligaciones contractuales con usted, por ejemplo, al informarle sobre posibles conexiones (invitaciones para entrevistas) a través de la plataforma, del correo electrónico o por vía telefónica.
+Permitirle participar en nuestro servicio interactivo en la medida en que usted desee.
+Informarle sobre cambios en nuestro servicio.
+En nuestra página web puede crear una cuenta para utilizar nuestros servicios mediante una plataforma en forma de bolsa de empleo en línea. En caso de que se registre como candidato («candidato»), se le pedirá que introduzca sus datos personales, tales como un nombre y un correo electrónico. Además, para crear una cuenta, tendrá que añadir idiomas y otras habilidades, su historial de empleo y formación o su ubicación. También puede registrarse con su cuenta de LinkedIn o Github (para más información, consulte las disposiciones sobre plug-ins de medios sociales infra). En este caso, es posible que se requiera más información, como su nombre, fotografía, puesto actual, etc. Honeypot puede ponerse en contacto con el candidato para determinar la información adicional necesaria y actualizar su perfil en consecuencia. Para inscribirse como empresa es necesario introducir el nombre de la empresa, el lugar de contratación, el número de empleados, la persona de contacto y el correo electrónico de contacto de la misma. La información requerida para la implementación de la relación contractual será procesada sólo con este propósito. En la mayoría de los casos, las empresas acceden por sí mismas a los perfiles de los candidatos en la plataforma después de buscar determinadas habilidades y se ponen en contacto directamente con el candidato. Además, Honeypot puede contactar con el candidato o con el empleador por teléfono, por correo electrónico o por servicio de mensajería, así como sugerir empresas que se ajusten al perfil del candidato o sugerir candidatos que se ajusten al perfil de la empresa. La base legal de este procesamiento es el Art. 6 (1) frase 1 lit. b) GDPR. El almacenamiento de datos puede revocarse en todo momento.
 
-Op onze website kunt u een account aanmaken om onze diensten te gebruiken in de
-vorm van een online arbeidsmarkt. In het geval dat u zich registreert als
-kandidaat (“Talent”), dient u uw persoonlijke gegevens zoals naam en e-mailadres
-in te vullen. Daarnaast dient u talen en andere vaardigheden, werkervaring en
-opleidingen toe te voegen en een locatie om een account aan te maken. U kunt
-zich ook aanmelden met uw LinkedIn of Github account (voor meer informatie zie
-bepalingen met betrekking tot social media plug-ins hieronder). In dit geval is
-verdere informatie mogelijk vereist, zoals naam, foto, huidige functie, etc.
-Honeypot kan contact opnemen met het Talent om te bepalen dat aanvullende
-informatie vereist is en dienovereenkomstig het profiel updaten. Registreren als
-werkgever vereist het invullen van de bedrijfsnaam, locatie indienstneming,
-aantal medewerkers, contactpersoon en contact e-mailadres. De informatie vereist
-voor de uitvoering van de contractsrelatie wordt slechts voor dit doeleinde
-verwerkt. In de meeste gevallen bekijken bedrijven de profielen van Talenten
-zelf op het platform na het zoeken naar bepaalde vaardigheden en nemen direct
-contact op met het Talent. Daarnaast, echter, kan Honeypot contact opnemen met
-het Talent of de werkgever via telefoon, e-mail of berichtensysteem en bedrijven
-aanraden welke passen bij het profiel van het Talent of Talenten aanraden welke
-passen binnen het profiel van het bedrijf. De wettelijke grondslag voor deze
-verwerking is Art. 6 (1) zin 1 lid b) AVG. Opslag van gegevens kan op ieder
-moment worden herroepen.
-De genoemde gegevens en uw gehele gebruikersaccount kunnen altijd worden
-verwijderd in de klantenpagina. U stemt ermee in om persoonlijk toegankelijke
-gegevens vertrouwelijk te gebruiken en deze niet aan niet-gemachtigde derden
-beschikbaar te stellen. Wij erkennen geen aansprakelijkheid voor misbruikte
-wachtwoorden tenzij wij verantwoordelijk zijn voor het misbruik. U dient ons
-onmiddellijk op de hoogte te stellen indien u zich zorgen maakt dat een derde
-kennis heeft van uw wachtwoord, het wachtwoord gebruikt is zonder toestemming of
-dit mogelijk het geval is. U bent ervoor verantwoordelijk dat uw informatie
-correct en compleet is en dat u ons op de hoogte stelt van veranderingen in de
-door u verstrekte informatie. U kunt de verstrekte informatie inzien en
-actualiseren in het onderdeel accountinstellingen van onze website. Na het
-afronden van communicatie met Honeypot dient u uit te loggen en uw
-browservenster te sluiten, met name wanneer u de computer deelt met anderen.
-Als gevolg van commerciële en belastingregelgeving zijn wij mogelijk verplicht
-om een deel van de overgedragen persoonlijke gegevens (bijv. betalingsgegevens)
-te bewaren voor een periode van 10 jaar. Na een periode van [bijv. 2 jaar]
-beperken wij het gebruik van bepaalde gegevens en, ten gevolge hiervan, kunnen
-de gegevens slechts gebruikt worden om wettelijke verplichtingen na te leven.
+Los datos especificados, así como toda su cuenta de usuario, pueden eliminarse en todo momento desde el área de clientes. Usted se compromete a tratar los datos de acceso personales de manera confidencial y a no ponerlos a disposición de terceros no autorizados. No asumimos la responsabilidad por el uso indebido de las contraseñas, a menos que seamos responsables del mismo. Debe notificarnos de inmediato sus sospechas si un tercero podría tener conocimiento de su contraseña, si la contraseña se está utilizando sin autorización o si parece probable que así sea. Usted es el responsable de asegurar que su información es exacta y completa, y de notificarnos cualquier cambio en la información proporcionada. Puede revisar y actualizar dicha información, así como la sección de configuración de su cuenta, desde nuestro sitio web. Después de completar la comunicación con Honeypot, deberá cerrar la sesión y la ventana del navegador, especialmente si comparte el ordenador con otras personas.
 
-##### Draagt Honeypot gegevens over aan derden?
+Debido a la normativa comercial y fiscal, es posible que nos veamos obligados a almacenar parte de los datos personales transferidos (por ejemplo, los datos de pago) durante un período de 10 años. Después de un período de, por ejemplo, 2 años, restringiremos el uso de datos específicos y, como consecuencia de ello, los datos sólo podrán ser utilizados para cumplir con las obligaciones legales.
 
-Wij dragen uw persoonlijke gegevens slechts aan derden over indien u hebt
-ingestemd met de overdracht, de overdracht noodzakelijk is voor de uitvoering
-van het contract, of we hiertoe gedwongen worden bij wet.
-Bedrijven waarmee wij samenwerken om te bemiddelen voor het Talent en de juiste
-persoon te koppelen aan de juiste baan, hebben toegang tot de profielen van de
-Talenten en als gevolg hiervan worden persoonlijke gegevens van Talenten
-overgedragen aan de bedrijven. De bedrijven hebben slechts toestemming deze
-persoonlijke gegevens te verwerken in het kader van de sollicitatieprocedure (de
-gegevens op te slaan in hun sollicitant trackingsysteem) en contact op te nemen
-met het Talent wanneer ze interesse hebben. De wettelijke grondslag voor deze
-verwerking is Art. 6 (1) zin 1 lid b) en f) AVG.
-Wij gebruiken soms externe dienstverleners om uw persoonlijke gegevens te
-verwerken en onze diensten te leveren. Zij zijn zorgvuldig door ons uitgekozen
-en geïnstrueerd. Zij zijn gebonden aan onze instructies en worden regelmatig
-gecontroleerd. De aan onze dienstverleners aangeboden gegevens mogen slechts
-door hen gebruikt worden voor de uitvoer van hun opdrachten.
-Honeypot draagt met name persoonlijke gegevens over aan dienstverleners om
-Talent profielen te creëren en publiceren op het platform, om de kwalificatie
-van het Talent te verifiëren, om Talenten uit te nodigen voor online interviews
-met bedrijven of met Honeypot, om te zorgen voor communicatie tussen Talenten en
-bedrijven en om Talenten en bedrijven te helpen met de visumprocedure.
-Om de dienstverlening van Honeypot te verbeteren en te beoordelen of er snel een
-contract tussen een Talent en een bedrijf tot stand zal komen, heeft Honeypot
-toegang tot de communicatie tussen Talent en bedrijf op het platform.
-Wanneer wij persoonlijke gegevens overdragen buiten de Europese Economische
-Ruimte (EER), doen wij dit enkel wanneer de EU Commissie heeft besloten dat het
-derde land zorgdraagt voor een toereikend niveau van gegevensbescherming, of
-andere passende waarborgen bestaan (bijv. EU modelcontractsbepalingen of
-bindende bedrijfsvoorschriften), of een persoon hiervoor toestemming heeft
-gegeven.
+####¿Transfiere Honeypot datos a terceros?
+Transmitimos sus datos personales a terceros sólo si usted ha consentido dicha transferencia, si la transferencia es necesaria para el cumplimiento del contrato o si la ley nos obliga a hacerlo.
 
-##### Gebruikt Honeypot Cookies?
+Las empresas con las que cooperamos para valorar al candidato y tratar de unir a la persona adecuada con el trabajo idóneo tienen acceso a los perfiles de los candidatos y, por tanto, los datos personales de los candidatos se transmiten a las empresas con este fin. Las empresas sólo están autorizadas a procesar estos datos personales en el marco del proceso de solicitud (en especial, a guardar los datos en su sistema de seguimiento de candidatos) y a ponerse en contacto con el candidato en caso de que estén interesados en él. La base legal de este procesamiento es el Art. 6 (1) frase 1 lit. b) y f) GDPR.
 
-In aanvulling op voornoemde gebruiksgegevens worden er cookies opgeslagen op uw
-computer wanneer u onze website gebruikt. Dit zijn kleine tekstdocumenten welke
-worden opgeslagen op uw apparaat en waardoor Honeypot bepaalde informatie
-ontvangt. Echter, cookies kunnen geen programma’s laten werken of virussen op uw
-computer plaatsen. Wij gebruiken cookies om een bezoek aan onze website
-aantrekkelijker te maken en het gebruik van bepaalde functies mogelijk te maken.
-Wij gebruiken tijdelijke en permanente cookies op onze website. Wanneer u uw
-browser afsluit, worden tijdelijke cookies automatisch verwijderd. Deze cookies
-omvatten in het bijzonder sessie-cookies. Deze stellen ons in staat uw computer
-te herkennen wanneer u terugkeert naar onze website. Sessie-cookies worden
-verwijderd zodra uw uw browser sluit of uitlogt.
-Permanente cookies daarentegen worden automatisch verwijderd na een bepaalde
-tijd. Deze cookies kunnen op elk moment worden verwijderd in de
-beveiligingsinstellingen van uw browser.
-Doorgaans kunt u uw browserinstellingen configureren in overeenstemming met uw
-persoonlijke eisen en, bijvoorbeeld, alle cookies weigeren. Echter, het niet
-accepteren van cookies kan de functionaliteit van onze website beperken.
+A veces utilizamos proveedores de servicios externos para procesar sus datos personales y para prestar nuestros servicios. Dichos proveedores los elegimos e instruimos nosotros mismos cuidadosamente. Ellos están obligados a cumplir con nuestras instrucciones y son objeto de inspecciones con regularidad. Los datos facilitados a nuestros proveedores de servicios sólo pueden ser utilizados por ellos para el cumplimiento de sus tareas.
 
-##### Gebruikt Honeypot websiteanalyses?
+En particular, Honeypot transfiere datos personales a los proveedores de servicios para poder crear y publicar los perfiles de los candidatos en la plataforma, para verificar la cualificación del candidato, para invitar a los candidatos a entrevistas en línea con las empresas o con Honeypot, para garantizar la comunicación entre los candidatos y las empresas o entre los candidatos y Honeypot, y para ayudar a los candidatos y a las empresas durante el proceso de obtención de un visado.
 
-Honeypot gebruikt Google Analytics, een webanalyse dienstverlening aangeboden
-door Google Inc. ("Google"). Google Analytics gebruikt zogenoemde "cookies",
-tekstbestanden die op uw computer worden opgeslagen en een analyse van uw
-gebruik van onze website toestaan. De informatie die wordt verzameld door de
-cookie over uw gebruik van onze website wordt doorgaans overgedragen aan en
-opgeslagen op een Google server in de VS. Echter, in het geval van het activeren
-van IP anonimisatie op onze website, wordt uw IP-adres eerst afgebroken door
-Google binnen lidstaten van de Europese Unie of andere verdragsluitende staten
-bij de Overeenkomst betreffende de Europese Economische Ruimte. Slechts in
-uitzonderlijke omstandigheden wordt het volledige IP-adres doorgestuurd naar een
-Google server in de VS en daar afgebroken. Namens Honeypot zal Google deze
-informatie gebruiken om uw gebruik van onze website te evalueren, rapporten
-samen te stellen over website-activiteit, en andere diensten te verlenen aan
-Honeypot met betrekking tot website-activiteit en internetgebruik.  
-Het door uw browser overgedragen IP-adres als onderdeel van Google Analytics zal
-niet worden gecombineerd met andere gegevens van Google.
-U kunt het opslaan van cookies voorkomen door een aanpassing van uw browser
-software; echter, let erop dat in dit geval u mogelijk niet het volledige
-assortiment aan functies van onze website kunt gebruiken. U kunt ook het
-verzamelen van de door de cookie gegenereerde gegevens welke verband houdt met
-uw gebruik van onze website voorkomen (inclusief uw IP-adres), evenals het
-verwerken van deze gegevens door Google, door de onder de volgende link
-beschikbare browser plug-in te downloaden en installeren:
-http://tools.google.com/dlpage/gaoptout?hl=de.
-Honeypot gebruikt Google Analytics met de extensie "\_anonymizeIp ()".
-IP-adressen worden dienovereenkomstig afgebroken en dus kan een verwijzing naar
-een persoon worden uitgesloten. Wanneer de over u verzamelde gegevens een
-persoonlijke verwijzing bevatten, wordt deze verwijzing onmiddellijk uitgesloten
-en de persoonlijke gegevens onmiddellijk verwijderd.
-Wij gebruiken Google Analytics om onze website te analyseren en het gebruik
-regelmatig te verbeteren. Met de statistieken kunnen wij ons aanbod verbeteren
-en interessanter maken voor u als gebruiker. Voor de uitzonderlijke gevallen
-waarin persoonlijke gegevens zijn overgedragen aan de VS, is Google onderdeel
-van de EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework. De
-wettelijke grondslag voor deze verwerking is Art. 6 (1) zin 1 lid f) AVG.
-Informatie over derde: Google Dublin, Google Ireland Ltd., Gordon House, Barrow
-Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Gebruiksvoorwaarden:
-http://www.google.com/analytics/terms/de.html, Overzicht van
-gegevensbescherming: http://www.google.com/intl/de/analytics/learn/privacy.html,
-en privacybeleid: http://www.google.de/intl/de/policies/privacy.
+Con el fin de mejorar los servicios de Honeypot y para evaluar si un contrato entre candidato y empresa tendrá lugar pronto, Honeypot puede acceder a la comunicación establecida en su plataforma entre candidato y empresa.
 
-##### Gebruikt Honeypot Google Adwords?
+Si transferimos datos personales fuera del Espacio Económico Europeo (EEE), sólo lo haremos si la Comisión de la UE ha decidido que el tercer país garantiza un nivel adecuado de protección de datos u otras garantías adecuadas (por ejemplo, las cláusulas contractuales estándar de la UE u otras normas corporativas vinculantes) o si una persona ha dado su consentimiento para hacerlo.
 
-Honeypot gebruikt Google Adwords om aandacht te vragen voor onze aanbiedingen
-door gebruik van reclamematerialen (zogenaamde Google Adwords) op externe
-websites. Met betrekking tot de gegevens van de reclamecampagnes kunnen wij
-meten hoe succesvol de individuele reclamemaatregelen zijn. Wij willen u reclame
-laten zien die voor u interessant is, om zo onze website interessanter voor u te
-maken en een eerlijke berekening te verkrijgen van onze reclamekosten.
-Deze reclamematerialen worden verzorgd door Google via zogenaamde "ad servers".
-Daarom gebruiken wij ad server cookies, die bepaalde prestaties meten zoals
-advertenties of klikgedrag van gebruikers. Wanneer u via een Google ad op onze
-website terecht komt, slaat Google Adwords een cookie op op uw computer. Deze
-cookies zijn doorgaans maar 30 dagen geldig en zijn niet bedoeld om u te
-identificeren. Gewoonlijk wordt alleen het unieke cookie ID, het aantal
-advertentievertoningen per plaatsing (frequentie), de laatste vertoning
-(relevant voor postview conversies) en opt-out informatie (aangeven dat de
-gebruiker niet wil worden benaderd) opgeslagen.
-Door deze cookies kan Google uw internet browser herkennen. Wanneer een
-gebruiker bepaalde pagina’s bezoekt van een website van een Adwords klant en de
-op hun computer opgeslagen cookie is niet verlopen, dan kan zowel Google als de
-klant nagaan dat de gebruiker op de advertentie heeft geklikt en werd
-doorverwezen naar die pagina. Aan iedere Adwords klant is een andere cookie
-toegewezen. Cookies kunnen niet worden getraceerd via de websites van Adwords
-klanten. Honeypot verzamelt en verwerkt geen persoonlijke gegevens in de
-voornoemde reclamemaatregelen. Wij ontvangen slechts statistische evaluaties van
-Google. Op basis van deze evaluaties kunnen wij bepalen welke gebruikte
-reclamemaatregelen effectief zijn. Wij ontvangen geen verdere gegevens over het
-gebruik van het reclamemateriaal en kunnen met name geen gebruikers
-identificeren op basis van deze informatie.
-Door de gebruikte marketingtools maakt uw browser direct verbinding met de
-Google server. Wij hebben geen controle over de mate en het verdere gebruik van
-de gegevens, welke worden opgehaald door toepassing van deze tool door Google.
-Daarom informeren wij u in overeenstemming met ons kennisniveau: Door de
-integratie van AdWords conversion ontvangt Google de informatie welke u heeft
-ingevuld in het desbetreffende onderdeel van onze internet weergave of door het
-klikken op een advertentie van ons. Wanneer u geregistreerd bent bij een door
-Google verzorgde dienstverlening kan Google dit bezoek verbinden met uw account.
-Zelfs wanneer u niet geregistreerd bent bij Google of wanneer u niet ingelogd
-bent, is er een kans dat de aanbieder uw IP-adres vindt en opslaat.  
-U kunt deelname aan dit tracking proces voorkomen op een aantal manieren: a)
-door uw browser software hierop aan te passen, met name het onderdrukken van
-cookies van derden voorkomt dat u advertenties van derden ontvangt b) door de
-cookies voor conversie tracking uit te schakelen door uw browser in te stellen
-om cookies te blokkeren van het domein "www.googleadservices.com" onder
-https://www.google.de/settings/ads. Echter, deze instelling wordt verwijderd
-wanneer u uw cookies wist c) door het uitschakelen van op interesse gebaseerde
-advertenties welke onderdeel zijn van de zelfregulerende "About Ads" campagne
-via de link http: http://www.aboutads.info/ keuzes, echter, deze instelling
-wordt verwijderd wanneer u uw cookies wist; d) door permanente uitschakeling in
-uw browser (Firefox, Internet Explorer of Google Chrome) via de link
-http://www.google.com/settings/ads/plugin. Wij wijzen u erop dat u in dit geval
-mogelijk niet alle functies van ons aanbod kunt gebruiken.
-De wettelijke grondslag voor verwerking van uw gegevens is Art. 6 (1) zin 1 lid
-f) AVG. Meer informatie over privacy bij Google kunt u hier vinden:
-http://www.google.com/intl/de/policies/privacy and
-https://services.google.com/sitestats/de.html. U kunt ook de website van het
-Network Advertising Initiative (NAI) bezoeken via
-http://www.networkadvertising.org. Google is onderdeel van het EU-US Privacy
-Shield, https://www.privacyshield.gov/EU-US-Framework.
+####¿Utiliza Honeypot cookies?
+Además de los datos de uso mencionados anteriormente, las cookies se almacenan en su ordenador cuando utiliza nuestro sitio web. Se trata de pequeños archivos de texto que se almacenan en su dispositivo y a través de los cuales Honeypot recibe cierta información. Sin embargo, las cookies no pueden ejecutar programas ni transmitir virus a su ordenador. Utilizamos las cookies para configurar una visita a nuestro sitio web más atractiva y para permitir el uso de ciertas funciones.
 
-###### Gebruikt Honeypot Social-Media-Plug-ins?
+En nuestro sitio web utilizamos cookies tanto transitorias como permanentes. Al cerrar su navegador, las cookies transitorias se eliminan automáticamente. Estas cookies incluyen, en particular, cookies de sesión. Esto nos permitirá reconocer su ordenador cuando vuelva a acceder a nuestra página web. Las cookies de sesión se borran en cuanto usted cierra el navegador o la sesión.
 
-Op dit moment gebruikt Honeypot de volgende social media plug-ins op onze
-website: Facebook, Twitter, LinkedIn, Github.
-Honeypot gebruikt de zogenaamde tweekliksoplossing. Dit betekent dat bij bezoek
-aan onze website in eerste instantie geen persoonlijke informatie wordt
-doorgegeven aan de aanbieders van zulke plug-ins.
-De aanbieder van de plug-in kan op onze website worden geïdentificeerd door het
-overeenkomende logo via de desbetreffende knop. Wij geven u de mogelijkheid
-direct te communiceren met de aanbieder van de plug-in. De aanbieder van de
-plug-in ontvangt slechts de informatie dat u op zijn website bent gekomen via
-onze online dienstverlening, wanneer u op het aangewezen veld klikt en het
-activeert. Verder wordt de informatie overgedragen in overeenstemming met de
-toegang en cookies in dit Privacybeleid.
-In Duitsland wordt, in overeenstemming met de informatie van de desbetreffende
-aanbieder bij gebruik van Facebook plug-ins, het IP-adres onmiddellijk na
-verzameling geanonimiseerd.
-Let op dat door het activeren van de plug-in persoonlijke gegevens over u worden
-overgedragen aan de desbetreffende plug-in aanbieder (in geval van Amerikaanse
-aanbieders aan de VS). Het verzamelen van gegevens wordt vooral door plug-in
-aanbieders via cookies gedaan. Dus raden wij aan om alle cookies in de
-beveiligingsinstellingen in uw browser te verwijderen voordat u op de knop
-klikt.
-Wij hebben geen invloed op de verzamelde gegevens en het verwerken van de
-gegevens. Wij zijn tevens niet op de hoogte van de volledige reikwijdte van de
-gegevensverzameling, het doel van de verwerking en de bewaartermijnen. Daarnaast
-hebben wij geen informatie met betrekking tot het verwijderen van de gegevens
-door de plug-in aanbieder.
-De desbetreffende plug-in aanbieder slaat de over uw verzamelde gegevens op in
-profielen en gebruikt deze voor marketing, marktonderzoek en/of aangepast
-ontwerp van zijn website. Zo’n evaluatie wordt in het bijzonder uitgevoerd (ook
-voor niet ingelogde gebruikers) voor de weergave van op maat gemaakte reclame en
-om andere gebruikers van het sociale netwerk op de hoogte te brengen van uw
-activiteiten op onze website. U heeft het recht om bezwaar te maken tegen het
-creëren van zulke gebruiksprofielen. Voor de uitoefening dient u contact op te
-nemen met desbetreffende plug-in aanbieder. De plug-ins laten ons samenwerken
-met sociale netwerken en andere gebruikers zodat wij ons aanbod kunnen
-verbeteren en interessanter maken voor u. De wettelijke grondslag voor het
-gebruik van de plug-ins is Art. 6 (1) zin 1 lid f) AVG.
-Een gegevensoverdracht vindt plaats los van het feit of u een account heeft bij
-de plug-in aanbieder of ingelogd bent. Echter, wanneer u ingelogd bent bij de
-plug-in aanbieder worden de door ons over u verzamelde gegevens direct
-toegewezen aan uw gebruikersaccount. Wanneer u de social media knop activeert en
-bijvoorbeeld een verbinding maakt met de pagina, slaat de plug-in aanbieder deze
-informatie op in uw gebruikersaccount en deelt deze publiekelijk met uw
-contacten. Om deze reden raden wij aan om regelmatig uit te loggen na gebruik
-van een sociaal netwerk, maar met name voorafgaand aan het activeren van de
-knop, aangezien dit voorkomt dat u toegewezen wordt aan uw profiel bij de
-plug-in aanbieder.
-Voor meer informatie over het doel en de mate van gegevensverzameling en de
-verwerking door de plug-in aanbieder, ga naar de privacyverklaringen van de
-desbetreffende aanbieder, welke hieronder zijn weergegeven. U ontvangt ook
-aanvullende informatie met betrekking tot uw rechten en instellingen opties om
-uw privacy te beschermen.
-Adressen van betreffende plug-in aanbieder en URL met privacybeleid:
-Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA;
-http://www.facebook.com/policy.php; meer informatie over gegevensverzameling:
-http://www.facebook.com/help/186325668085084,
-http://www.facebook.com/about/privacy/your-info-on-other#applications en
-http://www.facebook.com/about/privacy/your-info#everyoneinfo. Facebook is
-onderdeel van de EU-US-Privacy-Shield,
-https://www.privacyshield.gov/EU-US-Framework.
-Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA;
-https://twitter.com/privacy. Twitter is onderdeel van de EU-US-Privacy-Shield,
-https://www.privacyshield.gov/EU-US-Framework.
-LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA;
-http://www.linkedin.com/legal/privacy-policy. LinkedIn is onderdeel van de
-EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
-Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA;
-https://enterprise.github.com/privacy. Github is onderdeel van de
-EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+Por el contrario, las cookies persistentes se eliminan de manera automática sólo después de un período de tiempo determinado. Estas cookies pueden eliminarse en cualquier momento desde los ajustes de seguridad de su navegador.
 
-##### Gebruikt Honeypot retargetingdiensten?
+Por lo general, usted puede configurar los ajustes de su navegador de acuerdo con sus exigencias personales y, por ejemplo, rechazar todas las cookies. Sin embargo, la no aceptación de las cookies puede limitar la funcionalidad de nuestra página web.
 
-Op dit moment gebruikt Honeypot retargetingfuncties van Google, LinkedIn, Twitter en Facebook. Deze dienst maakt het mogelijk om gebruikers te bereiken die eerder onze website hebben gebruikt of zich er hebben geregistreerd, en deze gebruikers gerichte advertenties en aanbiedingen te laten zien gebaseerd op de verzamelde informatie. In het geval van Facebook gebruiken we de Facebook Pixel die is geïmplementeerd op onze website.
+####¿Utiliza Honeypot herramientas de análisis?
+Honeypot utiliza Google Analytics, un servicio de análisis web proporcionado por Google Inc. («Google»). Google Analytics utiliza las mencionadas «cookies»: archivos de texto que se guardan en su ordenador y que permiten analizar el uso que usted hace de nuestra página web. La información que genera la cookie sobre su uso de nuestra página web se transmite y almacena normalmente en un servidor de Google en los Estados Unidos. Sin embargo, en caso de activación del anonimato IP en nuestra página web, su dirección IP será truncada previamente por Google dentro de los Estados miembro de la Unión Europea o en otros Estados firmantes del Acuerdo sobre el Espacio Económico Europeo. Sólo en casos excepcionales, la dirección IP completa será enviada a un servidor de Google en los Estados Unidos y truncada allí. En nombre de Honeypot, Google utilizará esta información para evaluar su uso de nuestro sitio web, recopilar informes sobre la actividad del sitio web y proporcionar a Honeypot otros servicios relacionados con la actividad del sitio web y el uso de Internet.
 
-Adressen en URL’s met privacybeleidverklaringen:
+La dirección IP transmitida por su navegador como parte de Google Analytics no se combinará con otros datos de Google.
+
+Puede evitar el almacenamiento de cookies sin más que configurar convenientemente el software de su navegador; sin embargo, tenga en cuenta que en este caso es posible que no pueda utilizar todas las funciones de nuestro sitio web. También puede impedir la recopilación de los datos generados por la cookie y relativos al uso de nuestra página web (incluida su dirección IP), así como el procesamiento de estos datos por parte de Google, descargando e instalando el plug-in del navegador disponible en el siguiente enlace: http://tools.google.com/dlpage/gaoptout?hl=de
+
+Honeypot utiliza Google Analytics con la extensión «_anonymizeIp ()». Por consiguiente, las direcciones IP están truncadas y, por lo tanto, se puede descartar toda referencia personal. Si los datos recogidos sobre usted tienen una referencia personal, esta referencia se excluye y los datos personales se borran inmediatamente.
+
+Utilizamos Google Analytics para analizar y mejorar regularmente el uso de nuestro sitio web. Con las estadísticas podemos mejorar nuestra oferta y hacerla más interesante para usted como usuario. En los casos excepcionales en que se transfieren datos personales a los Estados Unidos, Google forma parte del Escudo de Privacidad UE-EE. UU., https://www.privacyshield.gov/EU-US-Framework. La base legal de este procesamiento es el Art. 6 (1) frase 1 lit. f) GDPR.
+
+Información de terceros proveedores: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublín 4, Irlanda, Fax: +353 (1) 436 1001. Condiciones de uso: http://www.google.com/analytics/terms/de.html; visión general de la protección de datos: http://www.google.com/intl/de/analytics/learn/privacy.html, y política de privacidad: http://www.google.de/intl/de/policies/privacy
+
+####¿Utiliza Honeypot Google Adwords?
+Honeypot utiliza Google Adwords para llamar la atención sobre nuestras ofertas mediante el uso de material publicitario (el llamado Google Adwords) en sitios web externos. En relación con los datos de las campañas publicitarias, podemos determinar el éxito de cada una de las medidas publicitarias. Estamos interesados en mostrarle anuncios que le interesen para que nuestra página web sea más interesante para usted y lograr así un cálculo justo de los costes de publicidad.
+
+Estos materiales publicitarios son suministrados por Google a través de los llamados «ad servers». Por lo tanto, utilizamos cookies del servidor de anuncios que miden ciertas métricas de rendimiento, como los anuncios o los clics de los usuarios. Si usted accede a nuestra página web a través de un anuncio de Google, Google Adwords almacenará una cookie en su PC. Estas cookies suelen perder su validez después de 30 días y no están destinadas a identificarle personalmente. Por lo general, se guardará el ID de la cookie única, el número de impresiones de anuncios por ubicación (frecuencia), la última impresión (relevante para las conversiones posteriores a la visualización) y la información de exclusión (marca que el usuario no desea que se le envíe).
+
+Estas cookies permiten a Google reconocer su navegador de Internet. Si un usuario visita determinadas páginas del sitio web de un cliente de Adwords y la cookie almacenada en su ordenador no ha caducado, Google y el cliente podrán detectar que el usuario ha hecho clic en el anuncio y ha sido redirigido a esa página. Cada cliente de Adwords tiene asignada una cookie diferente. Las cookies no pueden ser rastreadas a través de los sitios web de los clientes de Adwords. Honeypot no recoge ni procesa ningún dato personal en las medidas publicitarias mencionadas anteriormente. Sólo recibimos evaluaciones estadísticas de Google. A partir de estas evaluaciones, podemos identificar cuáles de las medidas publicitarias utilizadas son efectivas. No recibimos ningún otro dato del uso del material publicitario y, en particular, no podemos identificar a los usuarios en base a esta información.
+
+Debido a las herramientas de marketing utilizadas, su navegador establece automáticamente una conexión directa con el servidor de Google. No tenemos ningún control sobre el alcance y el uso posterior de los datos que se generen por la aplicación de esta herramienta por parte de Google. Por lo tanto, le informamos de acuerdo con nuestro nivel de conocimiento. Con la incorporación de la conversión de AdWords, Google recibe la información de que usted ha introducido la parte apropiada de nuestra apariencia en Internet o hace clic en un anuncio nuestro. Si usted está registrado en un servicio proporcionado por Google, Google puede asociar la visita con su cuenta. Incluso si no está registrado en Google o no ha iniciado sesión, existe la posibilidad de que el proveedor encuentre y almacene su dirección IP.
+
+Usted puede evitar la participación en este proceso de seguimiento de varias maneras: a) ajustando el software de su navegador en consecuencia, en particular, la supresión de las cookies de terceros le impedirá recibir cualquier tipo de publicidad de terceros; b) desactivando las cookies para el seguimiento de la conversión configurando su navegador para bloquear las cookies del dominio «www.googleadservices.com» en https://www.google.de/settings/ads. Sin embargo, esta configuración se eliminará cuando usted borre las cookies; c) desactivando los anuncios basados en intereses de los proveedores que forman parte de la campaña de autorregulación «Acerca de los anuncios» a través de las opciones del enlace http: http://www.aboutads.info/, sin embargo, esta configuración se eliminará cuando usted borre las cookies; d) mediante la desactivación permanente en su navegador (Firefox, Internet Explorer o Google Chrome) bajo el enlace http://www.google.com/settings/ads/plugin. Le señalamos que en este caso es posible que no pueda utilizar todas las funciones de nuestra oferta.
+
+La base legal para el procesamiento de sus datos es el Art. 6 (1) frase 1 lit. f) GDPR. Puede encontrar aquí más información sobre la privacidad en Google: http://www.google.com/intl/de/policies/privacy y https://services.google.com/sitestats/de.html. Como alternativa, puede visitar la página web de Network Advertising Initiative (NAI) en: http://www.networkadvertising.org. Google forma parte del Escudo de Privacidad UE-EE. UU., https://www.privacyshield.gov/EU-US-Framework
+
+####¿Utiliza Honeypot plug-ins de medios sociales?
+Honeypot utiliza actualmente en su sitio web plug-ins de los siguientes medios sociales: Facebook, Twitter, LinkedIn, Github.
+
+Honeypot utiliza la llamada solución de dos clics. Esto significa que, al visitar nuestra página web, no se transmiten inicialmente datos personales a los proveedores de dichos plug-ins.
+
+El proveedor del plug-in puede ser identificado en nuestra página web por el logo correspondiente a través del botón asociado. Le ofrecemos la posibilidad de comunicarnos directamente con el proveedor del plug-in. El proveedor del plug-in sólo recibe la información que usted ha accedido a su página web a través de nuestro servicio on-line, si hace clic en el campo designado y lo activa. Además, se transmitirán los datos de acceso y las cookies de esta Política de Privacidad.
+
+En Alemania, de acuerdo con la información del proveedor respectivo cuando se utilizan plug-ins de Facebook, la dirección IP será anonimizada inmediatamente después de la recolección.
+
+Por favor, tenga en cuenta que, a través de la activación del plug-in, los datos personales sobre usted serán transferidos al correspondiente proveedor del plug-in (en caso de proveedores estadounidenses, a los EE. UU.). La recopilación de datos se realiza principalmente por los proveedores de plug-ins a través de cookies. Por lo tanto, le recomendamos que borre todas las cookies de la configuración de seguridad de su navegador antes de hacer clic en el botón.
+
+No tenemos ninguna influencia sobre los datos recogidos y las operaciones de procesamiento de datos. Tampoco conocemos el alcance total de la recogida de datos, el propósito del procesamiento y los periodos de almacenamiento. Además, no tenemos ninguna información sobre la eliminación de los datos recogidos por el proveedor del plug-in.
+
+El proveedor de plug-in correspondiente almacena los datos recogidos sobre usted en perfiles y los utiliza para marketing, estudios de mercado y/o diseño a medida de su página web. Esta evaluación se lleva a cabo especialmente (también para los usuarios no registrados) para la presentación de la publicidad hecha a medida e informar a otros usuarios de la red social sobre sus actividades en nuestra página web. Usted tiene el derecho de oponerse a la creación de tales perfiles de uso. Para ejercerlo, debe ponerse en contacto con el proveedor de plug-ins correspondiente. Los plug-ins nos permiten interactuar con las redes sociales y otros usuarios para mejorar nuestra oferta y hacerla más interesante para usted. La base legal para el uso de los plug-ins es el Art. 6 (1) frase 1 lit. f) GDPR.
+
+La transferencia de datos tiene lugar independientemente de si usted tiene una cuenta con el proveedor del plug-in y está registrado. Sin embargo, si se ha registrado en el proveedor de plug-ins, sus datos recogidos de nosotros se asignarán directamente a su cuenta de usuario. Si activa el botón de medios sociales y, por ejemplo, enlaza la página, el proveedor de complementos también almacena esta información en su cuenta de usuario y la comparte públicamente con sus contactos. Por este motivo, recomendamos cerrar la sesión regularmente después de utilizar una red social, pero especialmente antes de activar el botón, ya que esto evitará que se le asigne su perfil con el proveedor del plug-in.
+
+Para obtener más información sobre el propósito y el alcance de la recopilación de datos y su procesamiento por parte del proveedor del complemento, consulte las declaraciones de privacidad del proveedor correspondiente, que se proporcionan a continuación. También obtendrá más información sobre sus derechos y opciones de configuración para proteger su privacidad.
+
+Direcciones de los proveedores de plug-ins respectivos y URL con políticas de privacidad:
+
+Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, EE.UU.; http://www.facebook.com/policy.php; más información sobre la recopilación de datos: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications y http://www.facebook.com/about/privacy/your-info#everyoneinfo. Facebook forma parte del EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+
+Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy. Twitter forma parte del EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+
+LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; http://www.linkedin.com/legal/privacy-policy. LinkedIn forma parte del EU-US-Privacy-Shield, https://www.privacyshield.gov/EU-US-Framework.
+
+Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA; https://enterprise.github.com/privacy. Github forma parte del Escudo de Privacidad de la UE y los EE.UU., https://www.privacyshield.gov/EU-US-Framework.
+
+####¿Utiliza Honeypot los servicios de retargeting?
+Honeypot utiliza actualmente las funciones de retargeting de Google, LinkedIn, Twitter y Facebook. Este servicio hace posible llegar a los usuarios que previamente visitaron o se registraron en nuestra página web para mostrarles anuncios y ofertas de Honeypot basados en la información recogida. En el caso de Facebook utilizamos el Pixel de Facebook que está implementado en nuestro sitio web.
+
+Direcciones y enlaces a otras políticas de privacidad:
 
 Google:
-- Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ierland
-- Privacybeleid: https://adssettings.google.com/authenticated
-- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
+
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irlanda
+Política de privacidad: https://adssettings.google.com/authenticated
+Escudo protector de la privacidad: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active
 
 LinkedIn:
-- LinkedIn Ireland Unlimited Company, Wilton Place,Dublin 2, Ierland
-- Privacybeleid: http://www.linkedin.com/legal/privacy-policy
-- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0
 
-Facebook Pixel:
-- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ierland)
-- Privacybeleid: https://www.facebook.com/policy.php
+LinkedIn Ireland Unlimited Company, Wilton Place,Dublín 2, Irlanda
+Política de privacidad: http://www.linkedin.com/legal/privacy-policy
+Escudo protector de la privacidad: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0
+
+Pixel de Facebook:
+
+Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublín 2 Irlanda)
+Política de privacidad: https://www.facebook.com/policy.php
 
 Twitter:
-- Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07 Ierland)
-- Privacybeleid: https://twitter.com/privacy
 
+Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublín 2, D02 AX07 Irlanda)
+Política de privacidad: https://twitter.com/privacy
+¿Conserva Honeypot mis datos cada vez que hago una solicitud?
+En caso de que usted dirija una consulta al Honeypot, éste guarda el historial de comunicación con usted, así como la información y los datos enviados en el curso de esta comunicación (por ejemplo, la dirección de correo electrónico), con el fin de responder de forma óptima a su solicitud y a cualquier otro seguimiento. Honeypot eliminará los datos relevantes una vez que el almacenamiento ya no sea necesario o restringirá el procesamiento si existen períodos de retención legales.
 
-#####Slaat Honeypot mijn gegevens op wanneer ik een verzoek indien?
+####¿Se encuentran protegidos mis datos?
+Honeypot toma todas las medidas de seguridad técnicas y organizativas adecuadas para proteger sus datos contra la manipulación, la pérdida, la destrucción o el acceso no autorizado por parte de terceros. Nuestros sistemas están asegurados contra el acceso no autorizado... Sin embargo, debemos señalar que Internet no permite una seguridad absoluta de los datos a pesar de todas las medidas técnicas. No somos responsables de las acciones de terceros.
 
-In het geval dat u een vraag stelt aan Honeypot, slaat Honeypot zowel de
-communicatiegeschiedenis als informatie en gegevens ingediend gedurende deze
-communicatie op (bijv. e-mailadres), om zo goed mogelijk uw vraag en eventuele
-vervolgvragen te kunnen beantwoorden. Honeypot zal de relevante gegevens
-verwijderen zodra de opslag hiervan niet meer nodig is of zal de verwerking
-beperken als er een wettelijke bewaartermijn bestaat.
+####¿Cuáles son mis derechos al tratar con Honeypot?
+Usted tiene el derecho de acceso, rectificación o borrado, restricción de procesamiento, de oposición y de portabilidad de datos con respecto a sus datos personales.
 
-##### Zijn mijn gegevens veilig?
+Honeypot está disponible para las solicitudes o mensajes correspondientes en la dirección especificada a continuación.
 
-Honeypot neemt al de nodige technische en organisatorische
-beveiligingsmaatregelen om uw gegevens te beschermen tegen manipulatie,
-kwijtraken, vernietiging of ongeautoriseerde toegang door derden. Onze systemen
-zijn beveiligd tegen ongeautoriseerde toegang. Echter, wij moeten u erop wijzen
-dat het internet een volledige gegevensbeveiliging niet toelaat, ondanks alle
-technische maatregelen. Wij zijn niet aansprakelijk voor acties van derden.
+Tenga en cuenta que la eliminación de datos sólo es posible si no hay ninguna normativa legal que lo impida. La información relativa a sus solicitudes o mensajes se transmite en forma electrónica (por correo electrónico). Si utiliza esta opción de proporcionar información por correo electrónico, la dirección de correo electrónico especificada (tanto del remitente como del destinatario) no se utilizará para ningún otro propósito que no sea el de proporcionar información y su documentación. También tiene el derecho de presentar una queja sobre el tratamiento de sus datos personales por parte de nosotros ante una autoridad supervisora.
 
-##### Wat zijn mijn rechten in verhouding tot Honeypot?
+En caso de que estemos obligados por ley a revelar datos a las autoridades locales, estatales, nacionales o internacionales, cumpliremos con esta obligación.
 
-U heeft het recht van toegang, rectificatie of verwijdering, beperking van
-verwerking, bezwaar te maken en gegevensportabiliteit met betrekking tot uw
-persoonlijke gegevens.
-Honeypot is voor desbetreffende verzoeken of berichten bereikbaar via het
-hieronder aangegeven adres.
-Let op: Verwijdering van gegevens is alleen mogelijk wanneer er geen sprake is
-van wettelijke bepalingen die zich hiertegen verzetten. Informatie aangaande uw
-verzoeken of berichten wordt op elektronische wijze overgedragen (via e-mail).
-Mocht u ervoor kiezen informatie te verstrekken via e-mail, dan zal het
-betreffende e-mailadres (zowel afzender als ontvanger) niet worden gebruikt voor
-enig ander doel dan voor het verstrekken van informatie en de documentatie. U
-heeft tevens het recht om een klacht in te dienen bij een toezichthoudende
-autoriteit met betrekking tot de verwerking van uw persoonlijke gegevens door
-ons.
-Wanneer wij wettelijk gehouden zijn gegevens te overleggen aan lokale,
-regionale, nationale of internationale autoriteiten, zullen wij aan deze
-verplichting voldoen.
-Wij zullen tevens informatie overleggen aan derden indien vereist door
-toepasselijke wetten en regelgeving.
-Daarnaast kunnen wij informatie overleggen in het onderzoeken, voorkomen of het
-nemen van tegenmaatregelen tegen illegale activiteiten of veronderstelde fraude,
-of om een van onze contracten of licentierechten toe te passen of af te dwingen.
+También revelaremos información a terceros cuando así lo requieran las leyes y reglamentos aplicables.
 
-##### Is een wijziging van het Privacybeleid mogelijk?
+Además, podemos revelar información para investigar, prevenir o iniciar contramedidas contra actividades ilegales o sospecha de fraude, o para aplicar o hacer cumplir cualquiera de nuestros contratos y derechos de licencia.
 
-Honeypot behoudt zich het recht voor om dit Privacybeleid op een ieder moment
-aan te passen, maar Honeypot zal altijd de geldende wetgeving met betrekking tot
-gegevensbescherming in acht nemen. Een actuele versie is verkrijgbaar op onze
-website. Honeypot raadt aan dat gebruikers regelmatig ons Privacybeleid bekijken
-om op de hoogte te blijven van ons huidige Privacybeleid.
+¿Admite modificaciones la política de privacidad?
+Honeypot se reserva el derecho de modificar esta Política de privacidad en cualquier momento, pero Honeypot siempre respetará los estatutos aplicables en materia de protección de datos. Una versión actualizada está disponible en nuestro sitio Web. Honeypot recomienda a los usuarios que revisen con regularidad nuestra Política de privacidad para estar informados sobre la misma.
 
-##### Hoe neem ik contact op met Honeypot met betrekking tot privacyaspecten van gegevens?
+####¿Cómo contacto con Honeypot para asuntos relacionados con la privacidad de datos?
+Esperamos que se ponga en contacto con nosotros si tiene alguna solicitud, pregunta o sugerencia relacionada con la privacidad de los datos. Por favor, envíe sus solicitudes por escrito a:
 
-Wij zien u bericht graag tegemoet wanneer u verzoeken, vragen of suggesties
-heeft met betrekking tot gegevensbescherming. U kunt uw schriftelijk verzoek
-richten aan:
+Honeypot GmbH
+Schlesische Straße 26
+10997 Berlín, Alemania
 
-Honeypot GmbH<br />
-Schlesische Straße 26<br />
-10997 Berlin, Germany<br />
+o
 
-of
-
-[privacy@honeypot.io](mailto:privacy@honeypot.io)
+privacy@honeypot.io

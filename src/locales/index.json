@@ -184,99 +184,95 @@
     }
   },
   "nl": {
-    "sign-up": "Schrijf je in bij Honeypot",
+    "sign-up": "Regístrate en Honeypot",
     "page-intro": {
-      "headline1": "Choose a",
-      "headline2": "Job You Love",
-      "tagline": "Honeypot is Europa's Tech Job Platform. Maak een profiel aan en laat bedrijven bij jou solliciteren.",
-      "button1": "Vind een baan!",
-      "button2": "Ik ben op zoek naar talent"
+      "headline1": "Elige tu",
+      "headline2": "trabajo ideal",
+      "tagline": "Honeypot es la plataforma europea de empleo para desarrolladores. Crea tu perfil y deja que las empresas te hagan una oferta.",
+      "button1": "¡Encuéntrame un trabajo!",
+      "button2": "Deseo contratar"
     },
     "company-bar": {
-      "tagline": "Al meer dan 1000 bedrijven maken gebruik van Honeypot"
+      "tagline": "¡Más de 3 000 empresas utilizan Honeypot para contratar a desarrolladores software, ingenieros DevOps y líderes como tú!"
     },
     "join": {
-      "headline": "Sluit je aan bij een engineering team in jouw ideale functie",
-      "text": "Op Honeypot zijn meer dan 1000 bedrijven op zoek naar Software Developers, DevOps Engineers, en Engineering Leaders!"
+      "headline": "Únete a un equipo de ingenieros donde ocupes tu puesto ideal",
+      "text": "¡Más de 3 000 empresas recurren a Honeypot para contratar a desarrolladores de software, ingenieros de desarrollo e ingenieros punteros como tú!"
     },
     "process": {
-      "headline": "Een simpel en snel registratieproces!",
+      "headline": "¡Un proceso de registro tan rápido com sencillo!",
       "step1": {
-        "headline": "Maak een profiel aan",
-        "text": "Dit is jouw kans om ons te vertellen hoe je volgende functie eruit moet zien – en je hebt er maar 5 minuten voor nodig."
+        "headline": "Crea tu perfil",
+        "text": "Aprovecha para contarnos qué esperas de tu próximo empleo. ¡No tardarás ni 5 minutos!"
       },
       "step2": {
-        "headline": "Doorloop onze screening",
-        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Rep, die je helpt om de beste aanbiedingen te ontvangen."
+        "headline": "Completa nuestro proceso de selección",
+        "text": "Supera nuestro código de valoración e incluso recibe una llamada de tu gestor de talentos, que te posicionará para que recibas las mejores ofertas."
       },
       "step3": {
-        "headline": "Word zichtbaar op Honeypot",
-        "text": "Zodat bedrijven je profiel kunnen vinden en je aanbiedingen kunnen sturen, compleet met salaris en tech stack."
+        "headline": "Déjate ver",
+        "text": "Gana visibilidad en Honeypot para que las empresas encuentren tu perfil y puedan enviarte ofertas con su salario y su lenguaje de programación desde el primer momento."
       },
       "step4": {
-        "headline": "Word aangenomen",
-        "text": "Praat met de bedrijven die jij interessant vindt en kies het bedrijf dat het beste bij je past."
+        "headline": "¡Consigue trabajo!",
+        "text": "Entrevístate con las empresas que te interesan y elige la que más te guste."
       }
     },
     "stack": {
-      "headline": "Werk met een tech stack die bij jou past",
-      "text": "Of het nu Ruby, Scala, JavaScript of iets anders is, op Honeypot krijg je alleen aanbiedingen van bedrijven voor de tech stack en het salaris waar jij naar zoekt."
+      "headline": "Trabaja con tu tech stack preferido",
+      "text": "Ya sea Ruby, Scala, JavaScript o cualquier otro lenguaje, en Honeypot solo recibirás ofertas de empresas para tu lenguaje de programación preferido y por el sueldo que deseas."
     },
     "location": {
-      "headline": "Kies jouw favoriete locatie",
-      "text": "Honeypot is actief in de aantrekkelijkste tech-steden van Europa en in zowel Duitsland als Nederland. Stel je locatievoorkeur in en bedrijven solliciteren bij jou!"
+      "headline": "Elige la ubicación que más te convenga",
+      "text": "Honeypot opera en 15 ciudades de Alemania, Países bajos, Austria y España: Berlín, Múnich, Hamburgo, Fráncfort, Colonia, Stuttgart, Bonn, Düsseldorf, Ámsterdam, Utrecht, Róterdam, La Haya, Eindhoven, Viena y Barcelona. Establece tus preferencias de ubicación y deja que las empresas te envíen sus ofertas."
     },
     "support": {
-      "headline": "Gratis carrièreondersteuning en -begeleiding",
-      "text": "Je Talent Rep begeleidt je van A – Z, met advies over je CV en sollicitatiegesprekken, en om je salaris te benchmarken, aanbiedingen te evalueren en een geweldige baan te vinden."
+      "headline": "Apoyo y orientación profesional gratuitos",
+      "text": "Tu gestor de talentos te orientará durante todo el proceso, ofreciéndote consejos sobre tu currículum y entrevistas, ayudándote a fijar tu sueldo, a evaluar las ofertas y a encontrar un trabajo de tu agrado."
     },
     "worth": {
-      "headline": "Weet wat je waard bent!",
-      "text": "Bedrijven benaderen je direct zodat je aanbiedingen met elkaar kunt vergelijken. Geen sollicitaties of omslachtig heen-en-weer gedoe met recruitmentbureaus."
-    },
-    "newsletter": {
-      "headline": "Schrijf je in voor onze nieuwsbrief",
-      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content. "
+      "headline": "¡Descubre lo mucho que vales!",
+      "text": "Las empresas acudirán a ti directamente, con lo que podrás comparar sus distintas ofertas. ¡Se acabaron las solicitudes de empleo y los agotadores tira y afloja de los cazatalentos!"
     },
     "testimonial": {
-      "headline": "Top banen voor top tech-talenten",
-      "tagline": "Sluit je aan bij de top 10% en kom in contact met Europa's spannendste tech bedrijven",
+      "headline": "Los mejores trabajos para desarrolladores",
+      "tagline": "Conecta con las principales empresas tecnológicas de Europa.",
       "1": {
-        "image": "/avatar.jpg",
+        "image": "static/avatar.jpg",
         "name": "Shuhei Kagawa",
-        "position": "Frontend Developer \n Zalando",
-        "text": "Wat mij beviel aan Honeypot was dat bedrijven interviews aanbieden met een indicatie van het salaris. Het bespaarde de moeite om te solliciteren, interviews te doen, aanbiedingen te krijgen en dan uiteindelijk te ontdekken dat het salaris niet aan mijn eisen voldeed."
+        "position": "Contratado como desarrollador frontend por Zalando",
+        "text": "Me gusta Honeypot, porque las empresas te ofrecen entrevistas por un sueldo mínimo. Me he ahorrado el esfuerzo que supone dejar mis currículos, hacer entrevistas y recibir ofertas, para descubrir, por fin, que el sueldo no cumplía con mis requisitos"
       },
       "2": {
-        "image": "/avatar.jpg",
+        "image": "static/avatar.jpg",
         "name": "Emil Ahlbäck",
-        "position": "Aangenomen als Senior Frontend Developer bij Weissmaler",
-        "text": "Na 2 weken had ik al 13 interview uitnodigingen ontvangen van een geweldige selectie van bedrijven. Hieruit kon ik de uitnodigingen kiezen die het beste bij me pasten, en ik vond daardoor een heel mooie baan."
+        "position": "Contratado como desarrollador frontend senior por Weissmaler.",
+        "text": "En apenas dos semanas recibí 13 invitaciones para entrevistas en una amplia gama de empresas. Entre ellas, elegí las que mejor se adaptaban a mi perfil y acabé encontrando el trabajo perfecto dentro de una start-up."
       },
       "3": {
-        "image": "/avatar.jpg",
+        "image": "static/avatar.jpg",
         "name": "Veronica Hannibal",
-        "position": "Aangenomen als JavaScript Developer by finAPI",
-        "text": "Binnen een paar weken ontving ik meerdere aanbiedingen en kreeg ik de perfecte baan aangeboden aangeboden direct na het behalen van mijn diploma.  In vergelijking met recruiters en andere platformen voelt Honeypot een stuk persoonlijker."
+        "position": "Contratada como desarrolladora de JavaScript por finAPI.",
+        "text": "En pocas semanas recibí montones de ofertas de trabajo y conseguí un puesto alucinante nada más acabar la carrera. Comparada con mi experiencia con los responsables de personal de otras plataformas, mi experiencia en Honeypot ha sido mucho más personalizada."
       },
       "4": {
-        "image": "/avatar.jpg",
+        "image": "static/avatar.jpg",
         "name": "Sashen Singh",
-        "position": "Aangenomen als Mobile Engineer bij Aperto",
-        "text": "De user experience was fantastich en de site is makkelijk het gebruik. Je hoeft niet te zoeken of bij te houden waar je solliciteert.  Het systeem is erg efficiënt omdat bedrijven jou vinden, dit maakt dat het platform erg simpel en prettig werkt."
+        "position": "Contratado como ingeniero móvil por Aperto",
+        "text": "Mi experiencia como usuario fue increíble, la página me resultó realmente fácil de usar. La plataforma hace por ti todo el trabajo pesado, así que no necesitas buscar o llevar un registro de dónde presentas tus candidaturas. Su sistema es realmente eficiente, en el sentido de que las empresas te encuentran, lo que convierte a esta plataforma en una herramienta tan agradable como fácil de usar."
       },
       "5": {
-        "image": "/avatar.jpg",
+        "image": "static/avatar.jpg",
         "name": "Peter Ringelmann",
-        "position": "Frontend Developer \n Deutsche Post E-Post Development",
-        "text": "Honeypot was geweldig! Ik was verbaasd over het grote aantal aanbiedingen en de verscheidenheid van de bedrijven. Mijn Talent Rep gaf me goed advies over hoe ik een professioneel uitziend CV op moest stellen, iets waar ik in het verleden altijd mee worstelde."
+        "position": "Desarrollador de frontend by \n Desarrollo del correo electrónico de Deutsche Post",
+        "text": "Honeypot ha sido fantástico! Me sorprendió la gran cantidad de ofertas para entrevistas que recibí, y la diversidad de empresas que me las enviaron. Mi gestor de talento me ofreció valiosos consejos sobre cómo estructurar mi currículum para darle un aspecto profesional, algo que en el pasado siempre me había costado."
       }
     },
     "newsletter": {
-      "headline": "Schrijf je in voor onze nieuwsbrief",
-      "text": "Ontvang carrièretips, previews van onze documentaires, kortingen voor onze conferenties en exclusieve content.",
-      "email-placeholder": "Je E-Mail",
-      "join": ""
+      "headline": "Subscribe to our newsletter ",
+      "text": "Get careers tips, documentary previews, discounts for conferences and exclusive content! ",
+      "email-placeholder": "Your email",
+      "join": "Join"
     }
   }
 }

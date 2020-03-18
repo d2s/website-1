@@ -16,11 +16,11 @@
     "sign-up": "Sign up"
   },
   "nl": {
-    "about": "Over Ons",
-    "community": "Community",
-    "tech-hiring": "Voor Bedrijven",
-    "index": "Voor Talenten",
-    "login": "Inloggen",
-    "sign-up": "Inschrijven"
+    "about": "Quiénes somos",
+    "community": "Comunidad",
+    "tech-hiring": "Para empresas",
+    "index": "Para candidatos",
+    "login": "Iniciar sesión",
+    "sign-up": "Regístrate"
   }
 }

@@ -209,107 +209,106 @@
     }
   },
   "nl": {
-    "sign-up": "Schrijf je in bij Honeypot",
     "page-intro": {
-      "headline1": "Bouw Je",
-      "headline2": "Tech Team",
-      "tagline": "Honeypot is eenvoudigste manier om Software Developers, DevOps Engineers, en Engineering Leaders aan te nemen.",
-      "button1": "Begin nu!",
-      "button2": "Ik zoek een baan!"
+      "headline1": "Construye tu",
+      "headline2": "Equipo Técnico",
+      "tagline": "Honeypot es la forma más fácil de contratar desarrolladores de software, ingenieros de desarrollo e ingenieros punteros.",
+      "button1": "¡Empieza a contratar!",
+      "button2": "¡Estoy buscando trabajo!"
     },
     "company-bar": {
-      "tagline": "Al meer dan 1000 bedrijven gebruiken Honeypot"
+      "tagline": "Más de 3000 empresas recurren a Honeypot para contratar."
     },
     "access": {
-      "headline": "Iedere maandag toegang tot nieuw tech talent",
-      "text": "Elke maandag verschijnt er nieuw tech talent in je zoeklijst.  Connect met de talenten die jou aanspreken!"
+      "headline": "Accede a candidatos activos cada lunes",
+      "text": "Cada lunes aparecerán nuevos desarrolladores en tu lista de búsqueda. ¡Contacta con los que más te gusten!"
     },
     "hire": {
-      "headline": "Neem sneller mensen aan",
-      "text": "Met een responspercentage van 95% kun je de pijplijn sneller vullen en je team sneller opbouwen dan via andere kanalen. 80% van bedrijven slaagt binnen 4 weken."
+      "headline": "Contrata más rápido",
+      "text": "Con una tasa de respuesta del 95%, puede llenar su tubería y construir su equipo más rápidamente que otros canales. El 80% de las empresas contratan en un plazo de 4 semanas."
     },
     "visa": {
-      "headline": "Gratis Visa Support",
-      "text": "Gratis visa support om 's werelds beste developers aan te nemen.  Wil je in contact komen met het beste tech talent van over de hele wereld?  We have your back! Wanneer je iemand van buiten de EU aanneemt, bieden wij gratis visa support!"
+      "headline": "Asistencia gratuita para la obtención de visados al contratar a los mejores ingenieros del mundo.",
+      "text": "¿Quieres tener acceso a los mayores talentos tecnológicos del mundo? ¡Nosotros te ayudamos! Cada vez que contrates a alguien de fuera de la UE, te ofreceremos apoyo completo y gratuito para que obtengas su visado."
     },
     "skills": {
-      "headline": "Geverifieerde skills",
-      "text": "Alleen de top 10% van de kandidaten vind je op Honeypot. Alle kandidaten doorgaan een screeningsproces door middel van een videocall en een coding challenge met het Talent Management team. Dit betekent minder tijdverspilling voor tech hiring managers."
+      "headline": "Competencias verificadas",
+      "text": "Se verifican todos los candidatos, lo que hace ganar tiempo a los técnicos de contratación."
     },
     "employer": {
       "1": {
-        "headline": "Innovatieve werving van Tech Talent",
-        "text": "Het werkende leven verandert. Bij Honeypot ligt de focus op candidate-led recruitment."
+        "headline": "Una contratación de talento tecnológico innovadora",
+        "text": "- El mundo laboral está cambiando. Por eso, Honeypot te ofrece una contratación a la medida de cada candidato."
       },
       "2": {
-        "headline": "Tech Recruitment Education",
-        "text": "Benchmark je salarissen en de beste hiring practices met onze Customer Success Managers."
+        "headline": "Formación para la contratación de personal técnico",
+        "text": "Benchmark your salaries and hiring practices with our dedicated Customer Success Managers."
       },
       "3": {
-        "headline": "Werk aan je Employer Brand",
-        "text": "Vind kandidaten waar en wanneer ze gevonden willen worden! Geen merkbeschadigende direct sourcing."
+        "headline": "Diseña tu marca como empleador",
+        "text": "Olvida los métodos de contratación que perjudican a tu marca. ¡Encuentra a los candidatos que te estaban esperando!"
       }
     },
     "payment-options": {
-      "headline": "Honeypot heeft betalingsopties die passen bij je recruitmentplannen",
+      "headline": "Honeypot te ofrece distintas opciones de pago según tu plan de contratación.",
       "basic": {
-        "name": "Basic",
-        "tagline": "Pay per Hire",
-        "start": "Nu beginnen",
+        "name": "Plan básico",
+        "tagline": "",
+        "start": "Empieza ahora",
         "list": {
-          "1": "15% commissie per hire (over het bruto jaarsalaris)",
-          "2": "Gratis visum support",
-          "3": "100% refund garantie",
-          "4": "Ongelimiteerd aantal seats",
-          "5": "Je eigen Customer Succes Manager",
-          "6": "Op maat gemaakte Employer Branding"
+          "1": "15 % de comisión por contratación (del salario bruto anual)",
+          "2": "Asistencia gratuita para la obtención de visados",
+          "3": "Garantía de reembolso total",
+          "4": "Plazas ilimitadas",
+          "5": "Dedicación por parte de un gestor de éxito de los clientes",
+          "6": "Personalización de la marca del empleador"
         }
       },
       "member": {
-        "name": "Membership",
-        "tagline": "Custom plan",
-        "start": "Nu beginnen",
+        "name": "Plan a medida",
+        "tagline": "",
+        "start": "Empieza ahora",
         "list": {
-          "1": "Nog scherpere custom pricing voor grotere hiring plans",
-          "2": "Gratis visum support",
-          "3": "100% refund garantie",
-          "4": "Ongelimiteerd aantal seats",
-          "5": "Dedicated Key Account Manager",
-          "6": "Op maat gemaakte Employer Branding",
-          "7": "Toegang tot Honeypot’s Tech Recruitment Training Academy",
-          "8": "Gratis Employer Branding Video"
+          "1": "Precios personalizados favorables para planes de contratación más grandes",
+          "2": "Asistencia gratuita para la obtención de visados",
+          "3": "Garantía de reembolso total",
+          "4": "Plazas ilimitadas",
+          "5": "Dedicación por parte de un gestor de cuentas clave",
+          "6": "Personalización de la marca del empleador",
+          "7": "Acceso a la academia de formación sobre contratación tecnológica de Honeypot",
+          "8": "Vídeo gratuito sobre personalización de la marca del empleador"
         }
       }
     },
     "position": {
-      "headline": "Honeypot helpt je bij het bouwen van top engineering teams",
+      "headline": "Honeypot Helps You Build Great Engineering Teams",
       "1": {
-        "headline": "Software Developers",
-        "text": "Vind frontend, backend, devops, mobile en game developers op Honeypot, met skills zoals JavaScript, Ruby, PHP, Android, iOS, Scala, Java en nog veel meer."
+        "headline": "Hire Software Developers",
+        "text": "Find frontend, backend, devops, mobile and game developers on Honeypot, with skills ranging from JavaScript, Ruby, PHP and Java to Android, iOS, Scala and many more."
       },
       "2": {
-        "headline": "Product Talent",
-        "text": "Bouw je pijplijn van QA Testers en Product Owners om je product visie en richting te geven."
+        "headline": "Hire Product Talent",
+        "text": "Build your pipeline of QA Testers and Product Owners to give vision and direction to your product."
       },
       "3": {
-        "headline": "Engineering Leaders",
-        "text": "Neem CTOs, VPs of Engineering, Technical Leads en alle andere Engineering Leaders aan op Honeypot."
+        "headline": "Hire Engineering Leaders",
+        "text": "Hire CTOs, VPs of Engineering, Technical Leads and all other senior Engineering Leaders on Honeypot."
       },
       "4": {
-        "headline": "Data Experts",
-        "text": "Vind Data Scientists en Data Engineers om je te helpen bruikbare en actiegerichte inzichten te krijgen uit de data van je bedrijf."
+        "headline": "Hire Data Experts",
+        "text": "Hire Data Scientists and Data Engineers to help you draw actionable insights from your company’s data."
       }
     },
     "testimonial": {
       "1": {
         "name": "Julia Hohmann",
         "position": "Talent Acquisition Manager \n Engel & Völkers",
-        "text": "Honeypot geeft ons toegang tot een exclusieve groep zeer getalenteerde en gemotiveerde software developers van over de hele wereld!"
+        "text": "Honeypot gives us exclusive access to very talented and motivated software engineers from all over the world!"
       },
       "2": {
         "name": "Selin Songur",
-        "position": "Tech Recruiting \n SoundCloud",
-        "text": "We vinden Honeypot echt geweldig omdat ze alles op één plek bij elkaar hebben gebracht en het team is ook echt top! Hartelijk dank dat jullie een platform gemaakt hebben dat zo eenvoudig werkt en voor jullie hulp bij het vinden van een kick-ass developer."
+        "position": "Contratación de personal técnico \n SoundCloud",
+        "text": "¡Nos encanta Honeypot, ya que lo hace todo sencillo y cuenta con un equipo genial! Gracias por crear una plataforma tan fácil de usar y por ayudarnos a contratar a un desarrollador de primera"
       }
     }
   }

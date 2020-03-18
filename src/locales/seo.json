@@ -134,15 +134,15 @@
   "nl": {
     "index": {
       "title": "$t(general:company-name) | $t(general:nl.tagline)",
-      "description": "Honeypot is Europa's Developer-Focused Job Platform voor Software Developers, DevOps Engineers, Engineering Leaders en CTOs. Krijg toegang tot de beste tech banen van Nederland en Duitsland.",
+      "description": "La plataforma europea de empleo para desarrolladores software, ingenieros DevOps y líderes. ¡Encuentra puestos de trabajo con tecnología puntera en Alemania, Holanda, Austria y España!",
       "og-title": "$t(index.title)",
       "og-description": "$t(index.description)",
       "og-image": "",
       "og-image-alt": "$t(index.title)"
     },
     "tech-hiring": {
-      "title": "Neem Top Tech Talent aan in Duitsland, Nederland and Europa | $t(general:company-name)",
-      "description": "Honeypot is is de makkelte en meest efficiënte manier om ervaren Software Developers, DevOps Engineers, en Engineering Leaders aan te nemen.",
+      "title": "Contrata desarrolladores en Europa | $t(general:company-name)",
+      "description": "Honeypot es la forma más sencilla y eficaz de encontrar desarrolladores software, ingenieros DevOps y líderes cualificados.",
       "og-title": "$t(tech-hiring.title)",
       "og-description": "$t(tech-hiring.description)",
       "og-image": "",
@@ -150,7 +150,7 @@
     },
     "about": {
       "title": "Over ons - $t(general:company-name) | $t(general:nl.tagline)",
-      "description": "Honeypot is Europa's Tech Job Platform voor Software Developers, DevOps, en Engineering Leaders. Kom meer te weten over Honeypot, onze missie & ons team.",
+      "description": "Honeypot es la plataforma europea de empleo para desarrolladores software, ingenieros DevOps y líderes. Descubre más sobre Honeypot, nuestra misión y nuestro equipo",
       "og-title": "$t(about.title)",
       "og-description": "$t(about.description)",
       "og-image": "",
@@ -158,7 +158,7 @@
     },
     "community": {
       "title": "Community - $t(general:company-name) | $t(general:nl.tagline)",
-      "description": "We zijn de trotse organisatoren van Hive by Honeypot en GraphQL Conf! Blijf op de hoogte van onze aankomende events en conferenties en bekijk onze nieuwste documentaires en open source projecten.",
+      "description": "¡Nos enorgullece ser los organizadores de Hive by Honeypot y de GraphQL Europe! Entérate de nuestras próximas charlas y conferencias, y echa un vistazo a nuestros últimos documentales, relatos de código abierto y contribuciones.",
       "og-title": "$t(community.title)",
       "og-description": "$t(community.description)",
       "og-image": "",
@@ -166,7 +166,7 @@
     },
     "faq": {
       "title": "FAQ - $t(general:company-name) | $t(general:nl.tagline)",
-      "description": "Ontdek hoe het Honeypot-platform werkt. Leer meer over ons screeningsproces, jouw Talent Rep & interview uitnodigingen.",
+      "description": "Descubre cómo funciona la plataforma Honeypot, donde encontrarás más información sobre nuestro proceso de selección, tu Talent Success Advisor y tus propuestas de entrevistas.",
       "og-title": "$t(faq.title)",
       "og-description": "$t(faq.description)",
       "og-image": "",

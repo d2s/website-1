@@ -188,58 +188,58 @@
   "nl": {
     "story": {
       "left": {
-        "headline": "Ons verhaal",
-        "text": "Honeypot is Europa's Developer Focused Job Platform, opgericht in oktober 2015. Onze missie is om elke developer aan een geweldige baan te helpen. Honeypot helpt Developers, and CTOs bij het vinden van hun perfecte baan."
+        "headline": "Nuestra historia",
+        "text": "Lanzada en octubre de 2015, Honeypot es la plataforma europea de empleo para desarrolladores. Nuestra misión consiste en que todos los desarrolladores encuentren un trabajo estupendo. Honeypot ayuda a los desarrolladores, ingenieros de desarrollo e ingenieros punteros a encontrar un puesto que les apasione."
       },
       "right": {
-        "headline": "Wat is Honeypot?",
-        "text": "Op Honeypot solliciteren bedrijven bij jou. We zijn van mening dat developers en andere tech professionals een baan moeten kiezen waar ze van houden: of dat nu gebaseerd is op cutting-edge technologie, een inspirerend team of gewoon ouderwets een goed salaris. Op dit moment is Honeypot Europa's leidende developer-focused job platform, actief in Duitsland en Nederland."
+        "headline": "¿Qué es Honeypot?",
+        "text": "En Honeypot, son las empresas las que te escriben a ti. Creemos que los desarrolladores deberían elegir un trabajo que les guste: ya sea que se base en una pila de tecnología de vanguardia, en un equipo inspirador o simplemente en un buen salario a la antigua."
       }
     },
     "life": {
-      "headline": "Life at Honeypot",
-      "tagline": "Nieuwsgierigheid, creativiteit en ambitie zijn belangrijke waarden van ons. Check onze video's voor een impressie over het dagel leven bij Honeypot.",
+      "headline": "La vida en Honeypot",
+      "tagline": "Valoramos la curiosidad, la creatividad y la ambición. Echa un vistazo a nuestros vídeos y descubre como es la vida en Honeypot.",
       "1": {
         "video": "",
-        "text": "Work Culture"
+        "text": "Cultura de trabajo"
       },
       "2": {
         "video": "",
-        "text": "Team Offsites"
+        "text": "Equipo offsites"
       },
       "3": {
         "video": "",
-        "text": "Team Events"
+        "text": "Eventos de equipo"
       }
     },
     "team": {
-      "headline": "Maak kennis met ons team",
-      "tagline": "19+ nationaliteiten, 15+ talen"
+      "headline": "Conoce nuestro equipo",
+      "tagline": "42 nacionalidades - Más de 30 idiomas"
     },
     "advisors": {
-      "headline": "Onze Adviseurs",
+      "headline": "Nuestros asesores",
       "tagline": "",
       "1": {
         "name": "Felix Plog",
-        "text": "Felix Plog is mede-oprichter van Foodpanda en werkte als SVP of Operations bij Delivery Hero. Foodpanda heeft meer dan $310 miljoen aan funding opgehaald en is in 2016 door Delivery Hero overgenomen. Als angel investor en adviseur voegt Felix uitgebreide operationele ervaring toe aan het Honeypot team. Vóór Foodpanda gaf Felix leiding aan de beursgenoteerde financiële uitgever wallstreet:online als CEO en droeg hij bij aan Axel Springer's expansie in de technologiesector als Head of Portfolio Management. Zijn carrière startte hij bij Roland Berger als consultant."
+        "text": "Felix es vicepresidente sénior de operaciones globales de Delivery Hero. En el pasado cofundó Foodpanda, donde tuvo una gran parte de culpa en lograr que la empresa se convirtiera en líder del suministro de alimentos en los mercados emergentes. Antes de acceder al mundo del suministro de alimentos, Felix ocupó el puesto de director general en Axel Springer."
       },
       "2": {
         "name": "Konstantin Haase",
-        "text": "Konstantin is een softwareontwikkelaar, ondernemer, auteur, spreker en één van de actiefste mensen in de open source community. Hij is mede-oprichter van Travis CI, een continuous integration-as-service-platform, gebruikt door GitHub, Twitter, Facebook en vele anderen. Hij levert een actieve bijdrage aan verschillende open source-projecten, zoals Sinatra, Rubinius, Rack en nog veel meer."
+        "text": "Konstantin es desarrollador de software, empresario, autor y ponente, además de una de las personas más laboriosas de la comunidad de código abierto. Es cofundador de Travis CI, una plataforma de integración continua como servicio, utilizada por GitHub, Twitter o Facebook, entre otros. Es colaborador activo de varios proyectos de código abierto, como Sinatra, Rubinius, Rack y un largo etcétera."
       },
       "3": {
         "name": "Timo Rößner",
-        "text": "Timo is Engineering Manager bij ResearchGate, nadat hij gedurende zijn carrière verschillende lead developer posities bekleedde.  Timo draagt actief bij aan open-source software en is de huidige beheerder van 'reek', een code quality analyser die populair is in de Ruby-community. Hij is een fervent evangelist van nieuwe technologieën en heeft ruime ervaring met het ontwikkelen en promoten van teamcultuur binnen organisaties."
+        "text": "Timo trabaja como director de ingeniería en ResearchGate, tras haber desempeñado numerosos puestos como desarrollador puntero a lo largo de su carrera. Timo realiza activas contribuciones al software de código abierto y se encarga actualmente de mantener el 'reek', un analizador de calidad de código muy popular en la comunidad Ruby. Adeás, es un ferviente predicador de las nuevas tecnologías y goza de amplia experiencia en el desarrollo y la promoción del espíritu de equipo dentro de una organización."
       },
       "4": {
         "name": "Torsten Curdt",
-        "text": "Torsten is een software developer, oprichter, auteur, spreker en blogger. Hij is een specialist in scalable architectures, backend-services, big data, iOS- en Mac-ontwikkeling. Torsten is ook al jarenlang een actieve bijdrager aan open source projecten."
+        "text": "Torsten es desarrollador de software, fundador, autor, ponente y bloguero. Está especializado en arquitecturas escalables, servicios de backend, big data y desarrollo de iOS y Mac. Asimismo, Torsten colabora activamente con el código abierto desde hace mucho tiempo."
       }
     },
     "news": {
-      "headline": "In het nieuws",
+      "headline": "Somos noticia",
       "left": {
-        "text": "Recruiting Startup van het jaar - Hiring Succes 18. Bekijk onze winnende pitch! ",
+        "text": "Startup de contratación del año en el congreso Hiring Success 18 - ¡Mira nuestro discurso ganador!",
         "show": "Show",
         "link": "..."
       },
@@ -250,32 +250,32 @@
       }
     },
     "career": {
-      "headline": "Vacatures",
-      "text": "Geïnteresseerd om je bij het Honeypot team aan te sluiten?",
-      "link": "Check onze vacatures"
+      "headline": "Career Section",
+      "text": "Interested in joining the Honeypot team?",
+      "link": "See our open positions"
     },
     "care": {
-      "headline": "Goede doelen waar we om geven",
-      "text": "Ons team ondersteunt organisaties die helpen de wereld te verbeteren."
+      "headline": "Causas que nos preocupan",
+      "text": "Nuestro equipo colabora con organizaciones que ayudan a hacer del mundo un lugar mejor: Lilipad Library, Gaza Sky Geeks, ServetheCity"
     },
     "where": {
+      "headline": "Nuestras oficinas",
       "tagline": "",
-      "headline": "Onze kantoren",
-      "show": "Toon locatie",
+      "show": "Show location",
       "1": {
-        "city": "Berlin, Duitsland",
+        "city": "Berlin, Alemania",
         "street": "Schlesische Straße 26, 10997",
         "link": ""
       },
       "2": {
-        "city": "Amsterdam, Nederland",
+        "city": "Ámsterdam, Holanda",
         "street": "TQ, Singel 542, 1017 AZ",
         "link": ""
       }
     },
     "join": {
-      "text": "Join us!",
-      "show": "Vacatures"
+      "text": "Come Join us!",
+      "show": "Open Positions"
     }
   }
 }

@@ -1,23 +1,21 @@
-## Juridische Mededeling
+## Aviso legal
+Información conforme con la sección 5 TMG:
 
-_Informatie in lijn met artikel 5 TMG:_
+#### Honeypot GmbH
 
-##### Honeypot GmbH
+##### Dirección
 
-###### Adres
+Schlesische Straße 26
+10997 Berlín, Alemania
 
-Schlesische Straße 26<br />
-10997 Berlijn, Duitsland<br />
+##### Contacto
 
-###### Contact
+Teléfono (ALE): +49 (0)152 28463177
+Teléfono (PB): +31 (0)20 24 42 841
+Teléfono (AUS): +43 (0)660 286 25 22
+Correo electrónico: hello@honeypot.io
+Directores generales: Kaya Taner, Emma Tracey, Dennis Muszynski
+Registro mercantil: juzgado de primera instancia de Charlottenburg (Alemania), HRB 210362 B
+NIF-IVA: DE300856850
 
-Telefoon (GER): +49 (0)152 28463177<br />
-Telefoon (NL): +31 (0)20 24 42 841<br />
-Telefoon (AUT): +43 (0)660 286 25 22<br />
-E-Mail: [hello@honeypot.io](mailto:hello@honeypot.io)<br />
-Bestuurders: Kaya Taner, Emma Tracey, Dennis Muszynski<br />
-Handelsregister: Amtsgericht Charlottenburg, HRB 210362 B<br />
-BTW-nummer: DE327578486
-
-Verantwoordelijk voor content op grond van artikel 55 lid 2 RStV: Kaya Taner,
-Emma Tracey, Dennis Muszynski; adres zie boven.
+Responsables de la conformidad del contenido con el artículo 55, apartado 2, del pacto de radiodifusión interestatal (RStV) de Alemania: Kaya Taner, Emma Tracey, Dennis Muszynski (cf. dirección supra).
