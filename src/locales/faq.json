@@ -19,8 +19,8 @@
             "ans": "Signup to Honeypot and create a profile. Before becoming visible to companies, we will check your code and have a quick call with you to establish your salary and tech preferences.  Once this is complete and your profile is fully filled in, you will enter a batch. Batches start every Monday and run for three weeks and during this time you are visible to companies.  This creates urgency for companies who are motivated to move fast to send you interview invites. You accept the interviews for the positions which interest you, interview with those companies, and choose the role that's closest to your ideal."
           },
           {
-            "qn": "What is a Talent Rep?",
-            "ans": "A Talent Rep is your personal guide to Honeypot. They will lead you through the entire process, from sign up to job offer, answer any questions you have along the way and help you navigate company profiles, interview invites, and job offers. Your Talent Rep is experienced in tech and startup recruitment so feel free to ask for support when you need it."
+            "qn": "What is a Talent Success Advisor?",
+            "ans": "A Talent Success Advisor is your personal guide to Honeypot. They will lead you through the entire process, from sign up to job offer, answer any questions you have along the way and help you navigate company profiles, interview invites, and job offers. Your Talent Success Advisor is experienced in tech and startup recruitment so feel free to ask for support when you need it."
           },
           {
             "qn": "Do I need to pay a fee for using Honeypot? ",
@@ -33,7 +33,7 @@
         "text": [
           {
             "qn": "What information is included on my profile?",
-            "ans": "Aside from the basics like name, contact information, experience and skills, you can add your salary expectations, prefered location and contract type, and desired roles. We also provide plenty of space for a personal summary plus room to fill in links to your work as demonstrable on platforms like GitHub, Behance, StackOverflow and others. And don’t forget your Talent Rep is there for support if needed."
+            "ans": "Aside from the basics like name, contact information, experience and skills, you can add your salary expectations, prefered location and contract type, and desired roles. We also provide plenty of space for a personal summary plus room to fill in links to your work as demonstrable on platforms like GitHub, Behance, StackOverflow and others. And don’t forget your Talent Success Advisor is there for support if needed."
           },
           {
             "qn": "I am currently employed and must give notice before leaving, can I include this information in my profile?",
@@ -49,7 +49,7 @@
           },
           {
             "qn": "What should I include in my personal summary? Can I just skip it?",
-            "ans": "Resist that familiar temptation to simply cut an old bio from elsewhere and paste it here. Companies really do read the personal summaries and generally use it as a complement to your tech skills to judge cultural fit. A well-written summary should be between 50 and 200 words long and answer three important questions: who are you, what do you want from your next role, and what demonstrates your ability to progress to that position. Tell us what excites you as a developer and what you would love to do. Don’t forget your Talent Rep is on standby to help when needed."
+            "ans": "Resist that familiar temptation to simply cut an old bio from elsewhere and paste it here. Companies really do read the personal summaries and generally use it as a complement to your tech skills to judge cultural fit. A well-written summary should be between 50 and 200 words long and answer three important questions: who are you, what do you want from your next role, and what demonstrates your ability to progress to that position. Tell us what excites you as a developer and what you would love to do. Don’t forget your Talent Success Advisor is on standby to help when needed."
           },
           {
             "qn": "What types of skills should I include in the skills section?",
@@ -86,11 +86,11 @@
         "text": [
           {
             "qn": "I have completed my profile for Honeypot, what's next?",
-            "ans": "After you complete your profile, submit it for review. Your Talent Rep screens your profile to make sure we have jobs and companies which fit your skillset.  They will email you to let you know when you have been accepted."
+            "ans": "After you complete your profile, submit it for review. Your Talent Success Advisor screens your profile to make sure we have jobs and companies which fit your skillset.  They will email you to let you know when you have been accepted."
           },
           {
             "qn": "How long does it take to have my profile reviewed on Honeypot?",
-            "ans": "Submit your profile and your Talent Rep will usually complete a review within one to two working days, or in very exceptional cases longer. Incomplete profiles delay the process."
+            "ans": "Submit your profile and your Talent  Success Advisor will usually complete a review within one to two working days, or in very exceptional cases longer. Incomplete profiles delay the process."
           },
           {
             "qn": "What do you look for when reviewing profiles for Honeypot?",
@@ -98,11 +98,11 @@
           },
           {
             "qn": "My profile was approved on Honeypot but it looks different now. What happened?",
-            "ans": "During the approval process your Talent Rep adds a headline which summarizes your profile for companies.  You have full control over the headline and we can edit it if you aren’t happy. Occasionally, your Talent Rep  will also clean up some aspects of the profile to better showcase your skills. Don’t worry, it's just a matter of rejigging for maximum impact, we won’t delete any important information."
+            "ans": "During the approval process your Talent  Success Advisor adds a headline which summarizes your profile for companies.  You have full control over the headline and we can edit it if you aren’t happy. Occasionally, your Talent  Success Advisor  will also clean up some aspects of the profile to better showcase your skills. Don’t worry, it's just a matter of rejigging for maximum impact, we won’t delete any important information."
           },
           {
             "qn": "My profile was not accepted to Honeypot, can I resubmit?",
-            "ans": "If your profile isn’t accepted your Talent Rep will send you an email to explain why. They will be open to answer any questions you may have."
+            "ans": "If your profile isn’t accepted your Talent  Success Advisor will send you an email to explain why. They will be open to answer any questions you may have."
           }
         ]
       },
@@ -111,15 +111,15 @@
         "text": [
           {
             "qn": "When do I become visible to companies on Honeypot?",
-            "ans": "New talent becomes visible in batches. This allows companies to track and organize to whom they have sent interview invites. Once your profile has been reviewed and accepted, your Talent Rep will email you telling you the date of the next batch. Your profile will automatically be included and from that point you are visible to companies. If you want to delay entry to the batch, contact your Talent Rep."
+            "ans": "New talent becomes visible in batches. This allows companies to track and organize to whom they have sent interview invites. Once your profile has been reviewed and accepted, your Talent  Success Advisor will email you telling you the date of the next batch. Your profile will automatically be included and from that point you are visible to companies. If you want to delay entry to the batch, contact your Talent  Success Advisor."
           },
           {
             "qn": "I don’t want to be visible to companies on Honeypot just yet. How do I do this?",
-            "ans": "Just send your Talent Rep a quick email explaining your requirements and they will sort it out for you."
+            "ans": "Just send your Talent  Success Advisor a quick email explaining your requirements and they will sort it out for you."
           },
           {
-            "qn": "How do I contact my Talent Rep on Honeypot?",
-            "ans": "When you are accepted onto the platform your Talent Rep will email you directly. You can use that email to contact them whenever you need help or advice. If you have lost your Talent Rep’s email you can contact them at [hello@honeypot.io](mailto:hello@honeypot.io)"
+            "qn": "How do I contact my Talent  Success Advisor on Honeypot?",
+            "ans": "When you are accepted onto the platform your Talent  Success Advisor will email you directly. You can use that email to contact them whenever you need help or advice. If you have lost your Talent  Success Advisor’s email you can contact them at [hello@honeypot.io](mailto:hello@honeypot.io)"
           },
           {
             "qn": "How do companies find my profile on Honeypot?",
@@ -139,7 +139,7 @@
           },
           {
             "qn": "I like the company but the salary on the interview invite is too low. What should I do?",
-            "ans": "The salary listed on the interview invite should be taken as a ballpark guide. If the figure is within a 20% range of your desired salary then we recommend you accept the interview invite and negotiate directly with the company. Your Talent Rep can help with negotiations."
+            "ans": "The salary listed on the interview invite should be taken as a ballpark guide. If the figure is within a 20% range of your desired salary then we recommend you accept the interview invite and negotiate directly with the company. Your Talent  Success Advisor can help with negotiations."
           },
           {
             "qn": "Can I accept more than one interview invite?",
@@ -163,7 +163,7 @@
           },
           {
             "qn": "My profile has been visible to companies on Honeypot for some time, why haven’t I received any interview invites?",
-            "ans": "In the unlikely event that you get no interview invites we suggest you contact your Talent Rep."
+            "ans": "In the unlikely event that you get no interview invites we suggest you contact your Talent  Success Advisor."
           },
           {
             "qn": "Can I decline interview invites on Honeypot?",
@@ -175,7 +175,7 @@
           },
           {
             "qn": "I declined an interview invite but have now changed my mind. Can I get back in contact with the company?",
-            "ans": "We encourage you to fully evaluate interview invites before declining them.  If you change your mind after declining an invite get in touch with your Talent Rep. In some cases the role may have already been filled and hence the interview invite is void, in other cases it may still be open. If it is still possible to interview we will help in whatever way we can."
+            "ans": "We encourage you to fully evaluate interview invites before declining them.  If you change your mind after declining an invite get in touch with your Talent Success Advisor. In some cases the role may have already been filled and hence the interview invite is void, in other cases it may still be open. If it is still possible to interview we will help in whatever way we can."
           }
         ]
       },
@@ -197,7 +197,7 @@
         "text": [
           {
             "qn": "How can I be visible to companies again?",
-            "ans": "There is a “rebatch” option when you go on your profile “Click here” to be visible again. Your Talent rep will contact you and let you know about the next steps before being live again."
+            "ans": "There is a “rebatch” option when you go on your profile “Click here” to be visible again. Your Talent  Success Advisor will contact you and let you know about the next steps before being live again."
           },
           {
             "qn": "What industries/types of companies are present on your platform? (industries and companies’ size)",
@@ -205,7 +205,7 @@
           },
           {
             "qn": "I accepted an interview invite from a company but they did not contact me back. What can I do?",
-            "ans": "First make sure you checked your spam folder, from time to time, recruiters’ email can end up there. You can also contact the recruiter through our Honeypot chat! You can access it on your profile, in the inbox section. Otherwise you should definitely contact your Talent Rep to let him/her know, so as to solve the miscommunication as fast as possible."
+            "ans": "First make sure you checked your spam folder, from time to time, recruiters’ email can end up there. You can also contact the recruiter through our Honeypot chat! You can access it on your profile, in the inbox section. Otherwise you should definitely contact your Talent  Success Advisor to let him/her know, so as to solve the miscommunication as fast as possible."
           }
         ]
       }
@@ -237,7 +237,7 @@
           },
           {
             "qn": "How is talent screened on Honeypot?",
-            "ans": "Talent submit a profile which is screened by our Talent Reps. We do a first assessment of their background and experience and check their coding skills. No engineer gets accepted without some code being reviewed by us. This can be from projects which they have worked on or through an internal code challenge. The code challenge allows us to evaluate candidates who don’t have demonstrable experience. If talent do not have sufficient experience or skill with code they are not accepted onto the platform."
+            "ans": "Talent submit a profile which is screened by our Talent  Success Advisors. We do a first assessment of their background and experience and check their coding skills. No engineer gets accepted without some code being reviewed by us. This can be from projects which they have worked on or through an internal code challenge. The code challenge allows us to evaluate candidates who don’t have demonstrable experience. If talent do not have sufficient experience or skill with code they are not accepted onto the platform."
           },
           {
             "qn": "What is the cost of using Honeypot ?",
@@ -282,7 +282,7 @@
           },
           {
             "qn": "Does Honeypot create the developer headline and who fills in the developers’ profiles?",
-            "ans": "The profiles are filled in by the developers themselves but our Talent Reps help them along the way and provides tips and suggestions for the headlines. "
+            "ans": "The profiles are filled in by the developers themselves but our Talent  Success Advisors help them along the way and provides tips and suggestions for the headlines. "
           }
         ]
       },
@@ -705,8 +705,8 @@
             "ans": "Honeypot staat open voor een grote verscheidenheid aan technische profielen, maar naar bepaalde soorten skills is er een grotere vraag dan andere. Momenteel zijn de bedrijven waar we mee werken op zoek naar Frontend, Backend en Fullstack Developers, maar ook Team Leads, CTO’s, DevOps Engineers, Architecten en CTOs (de lijst is nog langer...)"
           },
           {
-            "qn": "Wat is een Talent Rep?",
-            "ans": "Een Talent Rep is je persoonlijke gids op Honeypot. Deze leidt je door het gehele proces, van aanmelden tot offer, beantwoordt vragen die je onderweg hebt en helpt je bij het omgaan met bedrijfsprofielen, interview uitnodigingen en aanbiedingen. Je Talent Rep is ervaren in tech- en startuprecruitment dus vraag gerust om ondersteuning als je het nodig hebt. "
+            "qn": "Wat is een Talent  Success Advisor?",
+            "ans": "Een Talent  Success Advisor is je persoonlijke gids op Honeypot. Deze leidt je door het gehele proces, van aanmelden tot offer, beantwoordt vragen die je onderweg hebt en helpt je bij het omgaan met bedrijfsprofielen, interview uitnodigingen en aanbiedingen. Je Talent  Success Advisor is ervaren in tech- en startuprecruitment dus vraag gerust om ondersteuning als je het nodig hebt. "
           },
           {
             "qn": "Moet ik betalen voor het gebruik van Honeypot?",
@@ -719,7 +719,7 @@
         "text": [
           {
             "qn": "Welke informatie staat er op mijn profiel?",
-            "ans": "Behalve de basiszaken zoals naam, contactinformatie, ervaring en vaardigheden, kun je jouw salarisindicatie, voorkeurslocatie en contractvorm, en gewenste functies toevoegen. We bieden ook voldoende ruimte voor een persoonlijke samenvatting plus een plaats om links naar je werk op te geven zoals het te zien is op platforms zoals GitHub, Behance, StackOverflow enzovoorts. En vergeet niet dat je Talent Rep klaar staat voor ondersteuning, indien nodig. "
+            "ans": "Behalve de basiszaken zoals naam, contactinformatie, ervaring en vaardigheden, kun je jouw salarisindicatie, voorkeurslocatie en contractvorm, en gewenste functies toevoegen. We bieden ook voldoende ruimte voor een persoonlijke samenvatting plus een plaats om links naar je werk op te geven zoals het te zien is op platforms zoals GitHub, Behance, StackOverflow enzovoorts. En vergeet niet dat je Talent  Success Advisor klaar staat voor ondersteuning, indien nodig. "
           },
           {
             "qn": "Ik heb momenteel een baan en een opzegtermijn, kan ik deze informatie op mijn profiel zetten?",
@@ -735,7 +735,7 @@
           },
           {
             "qn": "Wat zal ik in mijn persoonlijke samenvatting zetten? Kan ik dit overslaan?",
-            "ans": "Op Honeypot benaderen bedrijven jou, dus je kunt je samenvatting zien als motivatiebrief: het is de perfecte plaats om meer over jezelf te vertellen! In wat voor omgeving wil je graag werken, wat is je ideale volgende baan, wat zijn je sterktes… Je toegewijde Talent Rep staat ook klaar om te helpen, en zal je aanvullende ondersteuning geven. We bieden ook voldoende ruimte voor links zoals je Github, Behance, StackOverflow enzovoorts. Om te beginnen, bekijk onze blogpost Hoe maak ik een profiel op Honeypot aan in zeven simpele stappen! http://blog.honeypot.io/how-to-make-a-honeypot-profile-in-seven-easy-steps/"
+            "ans": "Op Honeypot benaderen bedrijven jou, dus je kunt je samenvatting zien als motivatiebrief: het is de perfecte plaats om meer over jezelf te vertellen! In wat voor omgeving wil je graag werken, wat is je ideale volgende baan, wat zijn je sterktes… Je toegewijde Talent  Success Advisor staat ook klaar om te helpen, en zal je aanvullende ondersteuning geven. We bieden ook voldoende ruimte voor links zoals je Github, Behance, StackOverflow enzovoorts. Om te beginnen, bekijk onze blogpost Hoe maak ik een profiel op Honeypot aan in zeven simpele stappen! http://blog.honeypot.io/how-to-make-a-honeypot-profile-in-seven-easy-steps/"
           },
           {
             "qn": "Wat voor soort vaardigheden moet ik in de skills sectie plaatsen?",
@@ -772,11 +772,11 @@
         "text": [
           {
             "qn": "Ik heb mijn profiel voor Honeypot voltooid, wat nu?",
-            "ans": "Nadat je jouw profiel hebt voltooid, dien je het in ter beoordeling. Je Talent Rep screent je profiel om er zeker van te zijn dat we banen en bedrijven hebben die passen bij jouw vaardigheden. Je wordt gemaild om te laten weten wanneer je bent geaccepteerd. "
+            "ans": "Nadat je jouw profiel hebt voltooid, dien je het in ter beoordeling. Je Talent  Success Advisor screent je profiel om er zeker van te zijn dat we banen en bedrijven hebben die passen bij jouw vaardigheden. Je wordt gemaild om te laten weten wanneer je bent geaccepteerd. "
           },
           {
             "qn": "Hoe lang duurt het voordat mijn profiel wordt beoordeeld op Honeypot?",
-            "ans": "Dien je profiel in en je Talent Rep zal meestal de beoordeling afronden binnen één tot twee werkdagen, of in uitzonderlijke gevallen langer. Onvolledige profielen vertragen het proces.  "
+            "ans": "Dien je profiel in en je Talent  Success Advisor zal meestal de beoordeling afronden binnen één tot twee werkdagen, of in uitzonderlijke gevallen langer. Onvolledige profielen vertragen het proces.  "
           },
           {
             "qn": "Waar kijken jullie naar bij het beoordelen van profielen voor Honeypot?",
@@ -784,11 +784,11 @@
           },
           {
             "qn": "Mijn profiel is goedgekeurd door Honeypot maar ziet er nu anders uit. Wat is er gebeurd?",
-            "ans": "Gedurende het goedkeuringsproces voegt je Talent Rep een headline toe die je profiel samenvat voor bedrijven. Je hebt volledige controle over de headline en we kunnen hem aanpassen als je niet tevreden bent. Soms zal je Talent Rep ook wat aspecten van je profiel opschonen om je vaardigheden beter uit te laten komen. Maak je geen zorgen, het is slechts een kwestie van aanpassen voor maximale impact, we verwijderen geen belangrijke informatie. "
+            "ans": "Gedurende het goedkeuringsproces voegt je Talent  Success Advisor een headline toe die je profiel samenvat voor bedrijven. Je hebt volledige controle over de headline en we kunnen hem aanpassen als je niet tevreden bent. Soms zal je Talent  Success Advisor ook wat aspecten van je profiel opschonen om je vaardigheden beter uit te laten komen. Maak je geen zorgen, het is slechts een kwestie van aanpassen voor maximale impact, we verwijderen geen belangrijke informatie. "
           },
           {
             "qn": "Mijn profiel is niet geaccepteerd door Honeypot, kan ik het opnieuw indienen?",
-            "ans": "Als je profiel niet wordt geaccepteerd stuurt je Talent Rep je een e-mail met uitleg. Ze staan open voor je eventuele vragen."
+            "ans": "Als je profiel niet wordt geaccepteerd stuurt je Talent  Success Advisor je een e-mail met uitleg. Ze staan open voor je eventuele vragen."
           }
         ]
       },
@@ -797,15 +797,15 @@
         "text": [
           {
             "qn": "Wanneer word ik zichtbaar voor bedrijven op Honeypot?",
-            "ans": "Nieuw talent wordt zichtbaar in batches. Dit stelt bedrijven in staat om bij te houden en te organiseren naar wie ze interview uitnodigingen hebben verstuurd. Zodra je profiel is beoordeeld en geaccepteerd, zal je Talent Rep je mailen om je de datum te geven van de volgende batch. Je profiel wordt automatisch toegevoegd en vanaf dan ben je zichtbaar voor bedrijven. Als je je deelname aan de batch wilt uitstellen, neem dan contact op met je Talent Rep. "
+            "ans": "Nieuw talent wordt zichtbaar in batches. Dit stelt bedrijven in staat om bij te houden en te organiseren naar wie ze interview uitnodigingen hebben verstuurd. Zodra je profiel is beoordeeld en geaccepteerd, zal je Talent  Success Advisor je mailen om je de datum te geven van de volgende batch. Je profiel wordt automatisch toegevoegd en vanaf dan ben je zichtbaar voor bedrijven. Als je je deelname aan de batch wilt uitstellen, neem dan contact op met je Talent  Success Advisor. "
           },
           {
             "qn": "Ik wil nog niet zichtbaar zijn voor bedrijven op Honeypot. Hoe regel ik dat?",
-            "ans": "Stuur je Talent Rep een korte e-mail waarin je jouw verzoek uitlegt en het wordt geregeld."
+            "ans": "Stuur je Talent  Success Advisor een korte e-mail waarin je jouw verzoek uitlegt en het wordt geregeld."
           },
           {
-            "qn": "Hoe bereik ik mijn Talent Rep van Honeypot?",
-            "ans": "Als je geaccepteerd wordt op het platform zal je Talent Rep je direct mailen. Je kunt dat e-mailadres gebruiken om contact op te nemen als je hulp of advies nodig hebt. Als je het e-mailadres van je Talent Rep kwijt bent geraakt kun je contact opnemen via [hello@honeypot.io](mailto:hello@honeypot.io).  "
+            "qn": "Hoe bereik ik mijn Talent  Success Advisor van Honeypot?",
+            "ans": "Als je geaccepteerd wordt op het platform zal je Talent  Success Advisor je direct mailen. Je kunt dat e-mailadres gebruiken om contact op te nemen als je hulp of advies nodig hebt. Als je het e-mailadres van je Talent  Success Advisor kwijt bent geraakt kun je contact opnemen via [hello@honeypot.io](mailto:hello@honeypot.io).  "
           },
           {
             "qn": "Hoe vinden bedrijven mijn profiel op Honeypot?",
@@ -825,7 +825,7 @@
           },
           {
             "qn": "Het bedrijf spreekt me aan maar het salaris in de interview uitnodiging is te laag. Wat moet ik doen?",
-            "ans": "Het salaris genoemd in de interview uitnodiging moet worden beschouwd als eerste indicatie. Als het bedrag minder dan 20% afwijkt van je gewenste salaris dan raden we je aan om de interview uitnodiging te accepteren en direct te onderhandelen met het bedrijf zelf. Je Talent Rep kan helpen met de onderhandelingen. "
+            "ans": "Het salaris genoemd in de interview uitnodiging moet worden beschouwd als eerste indicatie. Als het bedrag minder dan 20% afwijkt van je gewenste salaris dan raden we je aan om de interview uitnodiging te accepteren en direct te onderhandelen met het bedrijf zelf. Je Talent  Success Advisor kan helpen met de onderhandelingen. "
           },
           {
             "qn": "Kan ik meer dan één interview uitnodiging accepteren?",
@@ -849,7 +849,7 @@
           },
           {
             "qn": "Mijn profiel is al een tijdje zichtbaar voor bedrijven op Honeypot, waarom heb ik nog geen interview uitnodigingen ontvangen?",
-            "ans": "In het onwaarschijnlijke geval dat je geen interview uitnodigingen ontvangt raden we je aan om contact op te nemen met je Talent Rep. "
+            "ans": "In het onwaarschijnlijke geval dat je geen interview uitnodigingen ontvangt raden we je aan om contact op te nemen met je Talent  Success Advisor. "
           },
           {
             "qn": "Kan ik interview uitnodigingen op Honeypot afwijzen?",
@@ -861,7 +861,7 @@
           },
           {
             "qn": "Ik heb een interview uitnodiging afgewezen maar nu ben ik van gedachten veranderd. Kan ik opnieuw in contact komen met het bedrijf?",
-            "ans": "We raden je aan om interview uitnodigingen goed te overwegen voor je ze afwijst. Als je van gedachten verandert na het afwijzen van een aanvraag, neem dan contact op met je Talent Rep. In sommige gevallen is de functie al vervuld en is de interview uitnodiging verlopen, in andere gevallen staat hij nog open. Als het nog mogelijk is om te solliciteren helpen we waar mogelijk. "
+            "ans": "We raden je aan om interview uitnodigingen goed te overwegen voor je ze afwijst. Als je van gedachten verandert na het afwijzen van een aanvraag, neem dan contact op met je Talent  Success Advisor. In sommige gevallen is de functie al vervuld en is de interview uitnodiging verlopen, in andere gevallen staat hij nog open. Als het nog mogelijk is om te solliciteren helpen we waar mogelijk. "
           }
         ]
       },
@@ -883,7 +883,7 @@
         "text": [
           {
             "qn": "Hoe word ik weer zichtbaar voor bedrijven?",
-            "ans": "Er is een “rebatch” optie op je profiel klik op “Click here” om weer zichtbaar te worden. Je Talent Rep zal contact met je opnemen en je informeren over de volgende stappen voordat je weer live bent. "
+            "ans": "Er is een “rebatch” optie op je profiel klik op “Click here” om weer zichtbaar te worden. Je Talent  Success Advisor zal contact met je opnemen en je informeren over de volgende stappen voordat je weer live bent. "
           },
           {
             "qn": "Welk type bedrijven zijn actief op jullie platform? (sectoren en bedrijfsgrootte)",
@@ -891,7 +891,7 @@
           },
           {
             "qn": "Ik heb een interview uitnodiging geaccepteerd van een bedrijf maar ze laten niks meer weten. Wat kan ik doen?",
-            "ans": "Zorg er eerst voor dat je je ongewenste mail hebt gecontroleerd, soms worden e-mails van recruiters daarin geplaatst. Als daar niets in staat, neem dan zeker even contact op met je Talent Rep om het haar/hem te laten weten, zodat de miscommunicatie zo snel mogelijk opgelost kan worden. "
+            "ans": "Zorg er eerst voor dat je je ongewenste mail hebt gecontroleerd, soms worden e-mails van recruiters daarin geplaatst. Als daar niets in staat, neem dan zeker even contact op met je Talent  Success Advisor om het haar/hem te laten weten, zodat de miscommunicatie zo snel mogelijk opgelost kan worden. "
           }
         ]
       }
@@ -968,7 +968,7 @@
           },
           {
             "qn": "Schrijft Honeypot de headline voor de developer en wie schrijft de profielen? ",
-            "ans": "De profielen worden gevuld door de developers zelf, maar ons Talent Rep team helpt ze op weg en biedt tips en suggesties voor de headlines. "
+            "ans": "De profielen worden gevuld door de developers zelf, maar ons Talent  Success Advisor team helpt ze op weg en biedt tips en suggesties voor de headlines. "
           }
         ]
       },

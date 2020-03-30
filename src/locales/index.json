@@ -23,7 +23,7 @@
       },
       "step2": {
         "headline": "Complete our Screening",
-        "text": "Pass our code screening and take an optional call with your Talent Rep, who positions you to receive the best offers."
+        "text": "Pass our code screening and take an optional call with your Talent  Success Advisor, who positions you to receive the best offers."
       },
       "step3": {
         "headline": "Become Visible and Get Offers",
@@ -44,7 +44,7 @@
     },
     "support": {
       "headline": "Free Career Support and Guidance",
-      "text": "Your Talent Rep will guide you through from start to finish, providing guidance on your resume and interviews, helping you benchmark your salary, evaluate offers and find a job you love."
+      "text": "Your Talent  Success Advisor will guide you through from start to finish, providing guidance on your resume and interviews, helping you benchmark your salary, evaluate offers and find a job you love."
     },
     "worth": {
       "headline": "Know Your Worth!",
@@ -81,7 +81,7 @@
         "image": "static/avatar.jpg",
         "name": "Peter Ringelmann",
         "position": "Hired as a Frontend Developer by \n Deutsche Post E-Post Development",
-        "text": "Honeypot was fantastic! I was surprised by the sheer amount of interview offers and the diversity of companies. My Talent Rep gave me solid advice on how to structure a professional-looking CV, which is something I've always struggled with in the past."
+        "text": "Honeypot was fantastic! I was surprised by the sheer amount of interview offers and the diversity of companies. My Talent Success Advisor gave me solid advice on how to structure a professional-looking CV, which is something I've always struggled with in the past."
       }
     },
     "newsletter": {
@@ -115,7 +115,7 @@
       },
       "step2": {
         "headline": "Werde Teil der Community",
-        "text": "Durchlaufe unseren Code Check und nimm ein optionales Gespräch mit deinem Talent Rep wahr, der dich persönlich unterstützt, damit du die besten Job Angebote erhälst."
+        "text": "Durchlaufe unseren Code Check und nimm ein optionales Gespräch mit deinem Talent Success Advisor wahr, der dich persönlich unterstützt, damit du die besten Job Angebote erhälst."
       },
       "step3": {
         "headline": "Werde sichtbar!",
@@ -207,7 +207,7 @@
       },
       "step2": {
         "headline": "Doorloop onze screening",
-        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Rep, die je helpt om de beste aanbiedingen te ontvangen."
+        "text": "Laat je code door ons checken en voer een optioneel gesprek met je Talent Success Advisor, die je helpt om de beste aanbiedingen te ontvangen."
       },
       "step3": {
         "headline": "Word zichtbaar op Honeypot",
@@ -228,7 +228,7 @@
     },
     "support": {
       "headline": "Gratis carrièreondersteuning en -begeleiding",
-      "text": "Je Talent Rep begeleidt je van A – Z, met advies over je CV en sollicitatiegesprekken, en om je salaris te benchmarken, aanbiedingen te evalueren en een geweldige baan te vinden."
+      "text": "Je Talent Success Advisor begeleidt je van A – Z, met advies over je CV en sollicitatiegesprekken, en om je salaris te benchmarken, aanbiedingen te evalueren en een geweldige baan te vinden."
     },
     "worth": {
       "headline": "Weet wat je waard bent!",
@@ -269,7 +269,7 @@
         "image": "/avatar.jpg",
         "name": "Peter Ringelmann",
         "position": "Frontend Developer \n Deutsche Post E-Post Development",
-        "text": "Honeypot was geweldig! Ik was verbaasd over het grote aantal aanbiedingen en de verscheidenheid van de bedrijven. Mijn Talent Rep gaf me goed advies over hoe ik een professioneel uitziend CV op moest stellen, iets waar ik in het verleden altijd mee worstelde."
+        "text": "Honeypot was geweldig! Ik was verbaasd over het grote aantal aanbiedingen en de verscheidenheid van de bedrijven. Mijn Talent Success Advisor gaf me goed advies over hoe ik een professioneel uitziend CV op moest stellen, iets waar ik in het verleden altijd mee worstelde."
       }
     },
     "newsletter": {

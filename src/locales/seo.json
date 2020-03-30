@@ -34,7 +34,7 @@
     },
     "faq": {
       "title": "FAQ - $t(general:company-name) | $t(general:de.tagline2)",
-      "description": "Finde heraus wie die Honeypot Plattform funktioniert.  Lerne mehr über unseren Screening Prozess, Deinen Talent Rep & Deine Interviewanfragen.",
+      "description": "Finde heraus wie die Honeypot Plattform funktioniert.  Lerne mehr über unseren Screening Prozess, Deinen Talent Success Advisor & Deine Interviewanfragen.",
       "og-title": "$t(faq.title)",
       "og-description": "$t(faq.description)",
       "og-image": "",
@@ -100,7 +100,7 @@
     },
     "faq": {
       "title": "FAQ - $t(general:company-name) | $t(general:en.tagline2)",
-      "description": "Find out how the Honeypot platform works including more information about our screening process, your Talent Rep & your interview offers.",
+      "description": "Find out how the Honeypot platform works including more information about our screening process, your Talent Success Advisor & your interview offers.",
       "og-title": "$t(faq.title)",
       "og-description": "$t(faq.description)",
       "og-image": "",
@@ -166,7 +166,7 @@
     },
     "faq": {
       "title": "FAQ - $t(general:company-name) | $t(general:nl.tagline)",
-      "description": "Ontdek hoe het Honeypot-platform werkt. Leer meer over ons screeningsproces, jouw Talent Rep & interview uitnodigingen.",
+      "description": "Ontdek hoe het Honeypot-platform werkt. Leer meer over ons screeningsproces, jouw Talent Success Advisor & interview uitnodigingen.",
       "og-title": "$t(faq.title)",
       "og-description": "$t(faq.description)",
       "og-image": "",
