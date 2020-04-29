@@ -1,0 +1,37 @@
+#!/bin/bash
+# Relies on community-platform repo being a sibling of the website repo
+if [ -d "../community-platform" ]; then
+  cd ../community-platform
+
+  # exit when any command fails
+  set -e
+
+  export NVM_DIR=~/.nvm
+  source ~/.nvm/nvm.sh
+
+  nvm use
+
+  npm install
+
+  # the .cache often leads to GraphQL problems, better to just delete
+  if [ -d ".cache" ]; then  
+    rm -r .cache
+  fi
+
+  npm run build:website
+
+  echo "make subdirectory /cult"
+  cd ../website/
+  if [ -d "./public/cult" ]; then  
+    rm -r ./public/cult
+  fi
+  mkdir ./public/cult
+
+  echo "coping build from community-platform to website at public/cult/"
+  cp -r ../community-platform/public/ ./public/cult
+
+  echo "the community-platform can now be found at /cult of the website!"
+else
+  echo "Could not find community platform!"
+fi
+
