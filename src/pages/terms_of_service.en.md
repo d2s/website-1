@@ -196,7 +196,7 @@ Agreement shall mean the Recruiting Partnership Agreement and these Terms of Ser
    6. In case a third party uses Access Data, with the Company at fault, the Company’s Access Data, the Company is liable for all such actions, and for damages. In such event, all access through the Company’s Access Data shall be considered as an access by the Company.
    7. During the term of the Agreement, the Company will not induce, or assist in the inducement of, any employee of Honeypot or any of its affiliates to leave their employment with Honeypot or any of its affiliates. This shall apply to the extent permissible under Sec. 75 of the German Commercial Code.
    8. Honeypot is not responsible for providing or assisting with the obtaining of any work or other permits and/or medicals and other country specific regulations and requirements that may be necessary to employ the Talent unless otherwise agreed in writing.
-   9. Honeypot is relying on the information provided by the Talent. Company has the obligation to satisfy itself, that the Talent is suitable for the indented job and fits Company's requirements. <br /><br />
+   9. Honeypot is relying on the information provided by the Talent. Company has the obligation to satisfy itself, that the Talent is suitable for the intended job and fits Company's requirements. <br /><br />
 
 1. **Placement / Payment**
 
