@@ -115,7 +115,7 @@ vorm van een online arbeidsmarkt. In het geval dat u zich registreert als
 kandidaat (“Talent”), dient u uw persoonlijke gegevens zoals naam en e-mailadres
 in te vullen. Daarnaast dient u talen en andere vaardigheden, werkervaring en
 opleidingen toe te voegen en een locatie om een account aan te maken. U kunt
-zich ook aanmelden met uw LinkedIn of Github account (voor meer informatie zie
+zich ook aanmelden met uw LinkedIn of GitHub account (voor meer informatie zie
 bepalingen met betrekking tot social media plug-ins hieronder). In dit geval is
 verdere informatie mogelijk vereist, zoals naam, foto, huidige functie, etc.
 Honeypot kan contact opnemen met het Talent om te bepalen dat aanvullende
