@@ -112,7 +112,7 @@ online job marketplace platform. In case you sign up as a candidate (â€œTalentâ€
 you are required to enter your personal data such as name and e-mail,. In
 addition, you need to add languages and other skills, employment and education
 history as well as location to create an account. You can also sign up with your
-LinkedIn or Github account (for further information please see provisions about
+LinkedIn or GitHub account (for further information please see provisions about
 social media plug-ins below). In this case, further information may be required,
 such as name, photo, current position, etc. Honeypot can contact the Talent to
 determine further information required and update the profile accordingly.
